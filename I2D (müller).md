@@ -1,0 +1,35 @@
+1. Cycle de vie d'un produit :
+		Etapes du cycle de vie
+			-  1 : Conception
+				- phase de mise au point et développement
+				- phase de lancement
+				- phase de maturité
+				- phase de croissance
+				- phase de déclin
+	Sur une feuille papier , retrouver les différentes phases pour la citroën 2CV il faut retrouver les dates, les quantitées de productions ainsi que les propriétées techniques
+		- La puissance en CV din au Watt (1CV = 735 W)
+		- Cylindré en cm^3 : 375 cm^3
+		- La vitesse en Km/h
+		- La consomation en L
+		- Couple
+## Liens externes par phase
+
+### Phase de développement / Conception
+- [Cycle de vie produit : définition et phases — Qualtrics](https://www.qualtrics.com/fr/articles/strategy-research/cycle-vie-produit/) — Article complet détaillant l'idée, le développement et les 6 étapes du cycle
+- [Cycle de vie d'un produit : définition et étapes — Portices](https://www.portices.fr/cycle-de-vie-produit-definition-etapes/) — Détaille la phase de création, les prototypes et les tests de performance
+
+### Phase de lancement
+- [Cycle de vie d'un produit : ses phases et comment les respecter — Finom](https://finom.co/fr-fr/blog/cycle-de-vie-dun-produit/) — Explique la stratégie de lancement, les "early adopters" et l'éducation du marché
+- [Cycle de vie d'un produit : définition et étapes — HubSpot](https://blog.hubspot.fr/marketing/cycle-de-vie-produit) — Décrit le lancement, la politique de prix (écrémage vs pénétration) et les coûts marketing
+
+### Phase de croissance
+- [Cycle de vie du produit — Sciencesdegestion.fr](https://sciencesdegestion.fr/strategie/cycle-de-vie-du-produit/) — Analyse la croissance rapide des ventes, l'apparition de la concurrence et les stratégies de différenciation
+- [Cycle de vie produit : les 5 phases clés — L'Agence](https://lagence-communication.fr/cycle-vie-produit-5-phases/) — Détaille les indicateurs de croissance et la priorité d'accélérer la distribution
+
+### Phase de maturité
+- [Cycle de vie produit : les 5 phases clés — L'Agence](https://lagence-communication.fr/cycle-vie-produit-5-phases/) — Explique la saturation du marché, la pression sur les marges et les stratégies de fidélisation
+- [Cycle de vie d'un produit : définition et étapes — HubSpot](https://blog.hubspot.fr/marketing/cycle-de-vie-produit) — Décrit les actions pour prolonger la phase de maturité (variantes, programmes de fidélité)
+
+### Phase de déclin
+- [Cycle de vie d'un produit : ses phases et comment les respecter — Finom](https://finom.co/fr-fr/blog/cycle-de-vie-dun-produit/) — Présente les options face au déclin : retrait, repositionnement, relance par l'innovation
+- [Cycle de vie d'un produit : définition et étapes — HubSpot](https://blog.hubspot.fr/marketing/cycle-de-vie-produit) — Détaille les stratégies de fin de vie et la préparation du remplacement
