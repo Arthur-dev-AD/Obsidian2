@@ -12,7 +12,7 @@ tags:
 **user**: Ajoute moi des liens externe dévellopant chaque phases de la conception
 [Timestamp: 2026/09/11 16:20:27]
 
-**ai**: Je vais d'abord chercher des ressources externes de qualité sur les phases du cycle de vie d'un produit.J'ai trouvé d'excellentes ressources. Je vais maintenant enrichir ta note avec des liens externes adaptés à chaque phase.Voici ce que j'ai ajouté à ta note [[I2D]] :
+**ai**: Je vais d'abord chercher des ressources externes de qualité sur les phases du cycle de vie d'un produit.J'ai trouvé d'excellentes ressources. Je vais maintenant enrichir ta note avec des liens externes adaptés à chaque phase.Voici ce que j'ai ajouté à ta note [[I2D (müller)]] :
 
 **5 liens externes de qualité** répartis par phase du cycle de vie :
 
