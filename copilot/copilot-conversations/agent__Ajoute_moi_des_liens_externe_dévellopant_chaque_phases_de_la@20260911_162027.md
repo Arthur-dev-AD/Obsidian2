@@ -1,5 +1,5 @@
 ---
-epoch: 1789136427118
+epoch: 1789136427000
 mode: agent
 backendId: opencode
 sessionId: "ses_f6f2a4e11ffeMB82t2MoBYv7zc"
