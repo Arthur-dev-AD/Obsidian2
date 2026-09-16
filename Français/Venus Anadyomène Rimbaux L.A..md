@@ -1,3 +1,3 @@
 - "Comme d'un cercueil vert en fer blanc"(v.1)
 	-> comparaison, adjectif "vert" à la césure + allitération en /R/
-	 -> Parodie dès le premier vers : sort d'une baignoire/ d'un cerceuil
+	 -> Parodie dès le premier vers : sort d'une baignoire/ d'un cercueil au lieu d'un coquillage
