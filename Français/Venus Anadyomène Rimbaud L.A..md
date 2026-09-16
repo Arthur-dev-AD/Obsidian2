@@ -22,7 +22,7 @@
 	- >connecteur logique, rythme binaire
 		- > Connecteur permettant d'amplifier la satire. Le rythme binaire souligne qu'elle est bien en chair et a un aspect douteux ; La vénus manque clairement de grâce
 
-- "Les larges omoplates qui saillent"
+- "Les larges omoplates qui saillent"(v.5-6)
 	- > Antéposition, de l'adjectif + enjambement
 		- > Morphologie masculine, ressemblant presque à un monstre (cassage du topos). Enjambement casse le rythme du vers. 
 
