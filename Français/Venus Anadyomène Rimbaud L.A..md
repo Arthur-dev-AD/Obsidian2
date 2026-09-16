@@ -31,4 +31,4 @@
 		- > Vénus de petite taille , n'est pas élancé, silhouette distordue. Ridiculisation + Moquerie donc pas attirant.
 
 - "Puis les rondeurs des reins semblent prendre l'essort"
-	- 
+	- anaphore + connecteur logique 
