@@ -12,4 +12,4 @@
 
 - "D'une vieille baignoire, émerge lente et bête"(v.3)
 	- > Antéposition du CCL, rythme binaire et connotation péjorative
-		- >Antéposition -> souligner le cadre peu valorisant avec baignoire à la césure (complété par vieille) & retrait de toute la noblesse de la dite déesse ; Prononciation des "e" accentue la lourdeur des faits. Le rythme binaire critique l'intégrité mentale en plus de l'intégrité physique (Accentué par la rime suffisante entre tête(v.1))
+		- >Antéposition -> souligner le cadre peu valorisant avec baignoire à la césure (complété par vieille) & retrait de toute la noblesse de la dite déesse ; Prononciation des "e" accentue la lourdeur des faits. Le rythme binaire critique l'intégrité mentale en plus de l'intégrité physique (Accentué par la rime suffisante entre "tête"(v.1) et "bête"(v.3))
