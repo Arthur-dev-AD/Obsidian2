@@ -28,4 +28,4 @@
 
 - "Le dos court qui rentre et qui ressort"(v.6)
 	- > "court" à la césure + antithèse + rythme binaire²
-		- >
+		- > Vénus de petite taille , n'est pas élancé, silhouète
