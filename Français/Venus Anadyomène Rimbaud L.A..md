@@ -34,4 +34,4 @@
 	- >Anaphore, allitération /R/, champ lexical du corps ("tête" ; "cheveux" ; "peau" ; "col" ; "omoplates" ; "reins") et rimes riches
 		- > L'anaphore + le connecteur logique accable la Vénus et poursuis la dévalorisation du personnage. Retrait de la noblesse. L'allitération provoque du dégoût. Elle devient un véritable repoussoir. Le chams lexical du corps, très développé, souligne la difformité de son corps (Contre-blason péjoratif de la Vénus). Les rimes riches soulignent aussi un corps difforme et laid
 
-- "La graisse sous la peau parait en feuilles plates"(v.)
+- "La graisse sous la peau parait en feuilles plates"(v.8)
