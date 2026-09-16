@@ -1,3 +1,3 @@
 - "Comme d'un cercueil vert en fer blanc"(v.1)
 	-> comparaison, adjectif "vert" à la césure + allitération en /R/
-	 -> Parodie dès le premier vers : sort d'une baignoire/ d'un cercueil au lieu d'un coquillage (donne l'impression que la vénus est une très vieille femme)
+	 -> Parodie dès le premier vers : sort d'une baignoire/ d'un cercueil au lieu d'un coquillage (donne l'impression que la vénus est une très vieille femme, peut être même mourante)
