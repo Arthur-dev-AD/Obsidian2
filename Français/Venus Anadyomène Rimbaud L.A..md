@@ -4,4 +4,4 @@
 
 - "Une tête de femme à cheuveux bruns"(v. 1-2)
 	- > Contre rejet, cham lexical des couleurs, césure à brun
-		- > le jeu du contre rejet + chevelure brune: Briser le topos de la Vénus
+		- > le jeu du contre rejet + chevelure brune: Briser le topos de la Vénus. Couleurs donnant u
