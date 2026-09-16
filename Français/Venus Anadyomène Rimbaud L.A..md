@@ -24,4 +24,4 @@
 
 - "Les larges omoplates qui saillent"
 	- > Antéposition, de l'adjectif + enjambement
-		- > 
+		- > Morphologie masculine, ressemblant presque à un monstre
