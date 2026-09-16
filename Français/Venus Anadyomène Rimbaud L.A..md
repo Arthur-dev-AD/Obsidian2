@@ -32,4 +32,4 @@
 
 - "Puis les rondeurs des reins semblent prendre l'essor"(v.7)
 	- >Anaphore, allitération /R/, champ lexical du corps ("tête" ; "cheuveux" ; "peau" ; "col" ; "omoplates" ; "reins") et rimes riches
-		- > Anaphore+connecteur logique accable 
+		- > L'anaphore+connecteur logique accable 
