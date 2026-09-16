@@ -16,4 +16,4 @@
 
 - "Avec des déficits assez mal ravaudés"
 	- > Métaphore, assonance en /A/
-		- >
+		- >La métaphore accentue et multiplie les défaut physiques de Vénus. L'assonnance en /A/
