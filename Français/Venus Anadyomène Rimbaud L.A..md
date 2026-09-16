@@ -16,4 +16,4 @@
 
 - "Avec des déficits assez mal ravaudés"
 	- > Métaphore, assonance en /A/
-		- >La métaphore accentue et multiplie les défaut physiques de Vénus. L'assonnance en /A/ nous fait penser à de la moquerie et au rire ; renforcement
+		- >La métaphore accentue et multiplie les défaut physiques de Vénus. L'assonnance en /A/ nous fait penser à de la moquerie et au rire. On a aussi un renforcement de la figure satirique grâce 
