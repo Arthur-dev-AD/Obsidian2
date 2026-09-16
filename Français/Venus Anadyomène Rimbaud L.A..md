@@ -10,5 +10,5 @@
 	- >Insistance, rime suffisante
 		- > Moquerie du physique approximatif dont les tentative d'embellir sont de simples échecs
 
-- "D'une vieille baignoire, émerge lente et bête"(v.)
-	- > Antéposition du CCL, rythme binaire et conotation péjorative
+- "D'une vieille baignoire, émerge lente et bête"(v.3)
+	- > Antéposition du CCL, rythme binaire et connotation péjorative
