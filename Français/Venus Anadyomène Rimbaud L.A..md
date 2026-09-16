@@ -12,4 +12,4 @@
 
 - "D'une vieille baignoire, émerge lente et bête"(v.3)
 	- > Antéposition du CCL, rythme binaire et connotation péjorative
-		- >Antéposition -> souligner le cadre 
+		- >Antéposition -> souligner le cadre peu valorisant avec baignoire à la césure (complété par vieille)
