@@ -20,4 +20,4 @@
 
 - "Puis le col gras et gris (v.5) 
 	- >connecteur logique, rythme binaire
-		- > 
+		- > Connecteur permettant d'amplifier la satire
