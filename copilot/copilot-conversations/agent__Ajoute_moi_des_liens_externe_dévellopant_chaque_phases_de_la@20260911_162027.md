@@ -30,7 +30,7 @@ J'ai aussi corrigé deux coquilles dans la note d'origine : « dévelopoelent »
 **user**: pourrait tu commencer à faire des rechercherches à l'aide de ( recherches à mettre dans une note à part)
 [Timestamp: 2026/09/11 16:28:19]
 
-**ai**: Je lance les recherches sur la Citroën 2CV — dates, production, et spécifications techniques.J'ai maintenant toutes les données nécessaires. Je vais créer la note de recherche avec toutes les informations rassemblées.La note de recherche est prête : [[Recherches I2D - Citroën 2CV]]
+**ai**: Je lance les recherches sur la Citroën 2CV — dates, production, et spécifications techniques.J'ai maintenant toutes les données nécessaires. Je vais créer la note de recherche avec toutes les informations rassemblées.La note de recherche est prête : [[Recherches I2D - Citroën 2CV 1]]
 
 Voici ce qu'elle contient :
 
@@ -114,5 +114,5 @@ De plus, je relevais dans ma note que la production atteignait « ~400 unités/j
 | Fin production | « 1991 » (Triomphe) | **1990** (Historique page 10 le confirme lui-même) |
 | Arrêt en France | « 1987 » (Triomphe) | **29 février 1988** (Wikipedia) |
 
-→ La note [[Recherches I2D - Citroën 2CV]] a été corrigée pour intégrer ces réserves.
+→ La note [[Recherches I2D - Citroën 2CV 1]] a été corrigée pour intégrer ces réserves.
 [Timestamp: 2026/09/11 16:35:33]
