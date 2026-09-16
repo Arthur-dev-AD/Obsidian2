@@ -28,4 +28,7 @@
 
 - "Le dos court qui rentre et qui ressort"(v.6)
 	- > "court" à la césure + antithèse + rythme binaire²
-		- > Vénus de petite taille , n'est pas élancé, silhouette distordue. Ridiculasisation +
+		- > Vénus de petite taille , n'est pas élancé, silhouette distordue. Ridiculisation + Moquerie donc pas attirant.
+
+- "Puis les rondeurs des reins semblent prendre l'essort"
+	- 
