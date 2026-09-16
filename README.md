@@ -1,1 +1,1 @@
-Bon en vrai soit vous téléchargez [obsidian]([Download - Obsidian](https://obsidian.md/download))
+Bon en vrai soit vous téléchargez [obsidian]([Download - Obsidian](https://obsidian.md/download)) soit utilisez github sans télécharger.
