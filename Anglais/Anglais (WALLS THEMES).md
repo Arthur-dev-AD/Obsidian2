@@ -7,4 +7,4 @@
 
 ## A few facts about Hadrian's wall
 
-The wall is located in the north of England 
+The wall is located in the north of England near the Scottish border.
