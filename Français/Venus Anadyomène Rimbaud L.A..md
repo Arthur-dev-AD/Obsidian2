@@ -32,8 +32,10 @@
 
 - "Puis les rondeurs des reins semblent prendre l'essor"(v.7)
 	- >Anaphore, allitération /R/, champ lexical du corps ("tête" ; "cheveux" ; "peau" ; "col" ; "omoplates" ; "reins") et rimes riches
-		- > L'anaphore + le connecteur logique accable la Vénus et poursuis la dévalorisation du personnage. Retrait de la noblesse. L'allitération provoque du dégoût. Elle devient un véritable repoussoir. Le chams lexical du corps, très développé, souligne la difformité de son corps (Contre-blason péjoratif de la Vénus). Les rimes riches soulignent aussi un corps difforme et laid
+		- > L'anaphore + le connecteur logique accable la Vénus et poursuis la dévalorisation du personnage. Retrait de la noblesse. L'allitération provoque du dégoût. Elle devient un véritable repoussoir. Le chams lexical du corps, très développé, souligne la difformité de son corps (Contre-blason péjoratif de la Vénus). Les rimes riches soulignent aussi un corps difforme et laid.
 
 - "La graisse sous la peau parait en feuilles plates"(v.8)
 	- > Comparaison , peau à la césure
-		- > Vénus enlaidie par ses bourrelets et souffre d'en bon point bien loin d'illystrer la beauté et l'élégance, elle parait plutôt agée et flasque
+		- > Vénus enlaidie par ses bourrelets et souffre d'en bon point bien loin d'illustrer la beauté et l'élégance, elle parait plutôt âgée et flasque.
+
+- "L'échine est un peu rouge"
