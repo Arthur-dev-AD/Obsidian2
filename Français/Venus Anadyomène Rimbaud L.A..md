@@ -10,4 +10,4 @@
 	- >Insistance, rime suffisante
 		- > Moquerie du physique approximatif dont les tentative d'embellir sont de simples échecs
 
-- 
+- "D'une vieille baignoire"
