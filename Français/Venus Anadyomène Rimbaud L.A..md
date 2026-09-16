@@ -7,4 +7,5 @@
 		- > le jeu du contre rejet + chevelure brune: Briser le topos de la Vénus. Couleurs donnant un aspect douteux, loin de la chevelure blonde originelle. Remarque aussi des couleurs ternes (vert, brun, blanc)
 
 - "Fortement pommadée"(v.2)
-	- >
+	- >Insistance, rime suffisante
+		- > 
