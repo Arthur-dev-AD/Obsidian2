@@ -14,7 +14,9 @@
 	- > Antéposition du CCL, rythme binaire et connotation péjorative
 		- >Antéposition -> souligner le cadre peu valorisant avec baignoire à la césure (complété par vieille) & retrait de toute la noblesse de la dite déesse ; Prononciation des "e" accentue la lourdeur des faits. Le rythme binaire critique l'intégrité mentale en plus de l'intégrité physique (Accentué par la rime suffisante entre "tête"(v.1) et "bête"(v.3))
 
-- "Avec des déficits assez mal ravaudés"
+- "Avec des déficits assez mal ravaudés"(v.4)
 	- > Métaphore, assonance en /A/
 		- >La métaphore accentue et multiplie les défaut physiques de Vénus. L'assonnance en /A/ nous fait penser à de la moquerie et au rire. On a aussi un renforcement de la figure satirique grâce aux figures de styles
-- 
+
+- "Puis le col gras et gris (v.5) 
+	- >
