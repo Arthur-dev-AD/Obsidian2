@@ -1,4 +1,4 @@
 
-| Line | Theme | Issue | Deffinition |     |     |
+| Line | Theme | Issue | Definitions |     |     |
 | ---- | ----- | ----- | ----------- | --- | --- |
 |      |       |       |             |     |     |
