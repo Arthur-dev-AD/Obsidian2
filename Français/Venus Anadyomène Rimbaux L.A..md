@@ -1,2 +1,2 @@
 - "Comme d'un cerceuil vert en fer blanc"(v.1)
-	-> comparaison, adjectif "vert" à la césure
+	-> comparaison, adjectif "vert" à la césure + allitération en /
