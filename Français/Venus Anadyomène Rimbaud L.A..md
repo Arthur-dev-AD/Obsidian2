@@ -36,4 +36,4 @@
 
 - "La graisse sous la peau parait en feuilles plates"(v.8)
 	- > Comparaison , peau à la césure
-		- > Vénus enlaidie par ses bourlets 
+		- > Vénus enlaidie par ses bourrelets 
