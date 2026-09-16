@@ -31,4 +31,4 @@
 		- > Vénus de petite taille , n'est pas élancé, silhouette distordue. Ridiculisation + Moquerie donc pas attirant.
 
 - "Puis les rondeurs des reins semblent prendre l'essor"
-	- Anaphore, alitération /R/, champ lexical 
+	- Anaphore, allitération /R/, champ lexical du corps
