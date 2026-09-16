@@ -4,3 +4,4 @@
 
 - "Une tête de femme à cheuveux bruns"(v. 1-2)
 	- > Contre rejet, cham lexical des couleurs, césure à brun
+		- >  
