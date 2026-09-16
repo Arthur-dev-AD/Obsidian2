@@ -26,4 +26,4 @@
 	- > Antéposition, de l'adjectif + enjambement
 		- > Morphologie masculine, ressemblant presque à un monstre (cassage du topos). Enjambement casse le rythme du vers. 
 
-- 
+- "Le dos cour qui rentre et qui ressort"
