@@ -30,6 +30,6 @@
 	- > "court" à la césure + antithèse + rythme binaire²
 		- > Vénus de petite taille , n'est pas élancé, silhouette distordue. Ridiculisation + Moquerie donc pas attirant.
 
-- "Puis les rondeurs des reins semblent prendre l'essor"(v.)
+- "Puis les rondeurs des reins semblent prendre l'essor"(v.7)
 	- >Anaphore, allitération /R/, champ lexical du corps ("tête" ; "cheuveux" ; "peau" ; "col" ; "omoplates" ; "reins") et rimes riches
 	- 
