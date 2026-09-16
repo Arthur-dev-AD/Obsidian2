@@ -12,3 +12,4 @@
 
 - "D'une vieille baignoire, émerge lente et bête"(v.3)
 	- > Antéposition du CCL, rythme binaire et connotation péjorative
+		- >
