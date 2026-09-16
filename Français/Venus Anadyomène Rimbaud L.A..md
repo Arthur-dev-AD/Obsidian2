@@ -32,4 +32,4 @@
 
 - "Puis les rondeurs des reins semblent prendre l'essor"(v.7)
 	- >Anaphore, allitération /R/, champ lexical du corps ("tête" ; "cheveux" ; "peau" ; "col" ; "omoplates" ; "reins") et rimes riches
-		- > L'anaphore + le connecteur logique accable la Vénus et poursuis la dévalorisation du personnage. Retrait de la noblesse
+		- > L'anaphore + le connecteur logique accable la Vénus et poursuis la dévalorisation du personnage. Retrait de la noblesse. L'alitération provoque du dégout
