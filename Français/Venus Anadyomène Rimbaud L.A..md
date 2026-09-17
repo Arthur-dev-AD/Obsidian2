@@ -51,4 +51,5 @@
 		- Rimbaud s'amuse encore avec le topos, notamment en donnant un air boitant à la Vénus renforçant l'écartement du topos. "Singularités" se trouve à la césure et souligne qu'elle est bourrée de défauts. Rimbaud ajoute aussi une proposition subordonnée relative (qu'il faut voir à la loupe)qui insinue que chaque parcelle de son corps comme hideuse et devient subjecte à la curiositée ce qui donne encore une fois une ridiculisation.
 
 - Phrase bilan :
-	- Le portrait de la déèsse est 
+	- Le portrait de la déèsse est êxtrêmement péjoratif
+- 
