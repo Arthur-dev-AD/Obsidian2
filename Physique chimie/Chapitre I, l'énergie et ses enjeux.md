@@ -11,9 +11,9 @@
 
 	
 
-| Energies renouvellables | Energies fosiles |
-| ----------------------- | ---------------- |
-| Solaire                 |                  |
-| Eolien                  |                  |
-| Hydraulique             |                  |
-| Géothermique            |                  |
+| Energies renouvellables | Energies non-renouvellables |
+| ----------------------- | --------------------------- |
+| Solaire                 | Energies fossiles           |
+| Eolien                  | Nucléaire                   |
+| Hydraulique             |                             |
+| Géothermique            |                             |
