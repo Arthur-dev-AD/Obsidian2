@@ -42,4 +42,5 @@
 	- >animalisation, "rouge à la césure"
 		- > On a une description péjorative de la Vénus qui brise encore une fois le topos. L'utilisation d'une animalisation, permet de rabaisser à nouveau et de lui faire perdre le peu de noblesse qui lui restait . L'adjectif "rouge" à la césure accentue la laideur et la vieillesse de la vénus.
 
-- ""
+- "et le tout sent un goût horrible étrangement"
+	- 
