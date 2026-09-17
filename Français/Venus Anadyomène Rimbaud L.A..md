@@ -44,4 +44,4 @@
 
 - "et le tout sent un goût horrible étrangement"(v.9-10)
 	- >Enjambement, postposition de l'adverbe, synesthésie,
-		- >Rimbaud veut faire une 
+		- >Rimbaud veut faire une description + réaliste et + compréhensible pour mieux s'imaginer
