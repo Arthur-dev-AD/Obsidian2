@@ -62,4 +62,7 @@ PE = 9x735 = 6615 W
 	-  Pertes = 6615 - 1984,5 = 4630, 5
 
 - Rendement des composants
-	1. 
+	1. Moteur thermique
+	2. Boite de vitesse
+	3. Roues
+
