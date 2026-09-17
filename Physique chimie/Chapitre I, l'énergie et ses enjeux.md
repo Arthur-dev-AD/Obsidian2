@@ -23,4 +23,5 @@
 	- ==Electrique==
 	- ==Thermique
 	- ==Nucléaire==
-	- 
+	- ==Mécanique (regroupe énergie cinétique et potentielle de pesanteur)==
+	- ==rayonante==
