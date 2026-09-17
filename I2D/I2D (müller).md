@@ -65,7 +65,6 @@ PE = 9x735 = 6615 W
 	1. Moteur thermique : 0,45
 	2. Boite de vitesse : 0,9
 	3. Roues : A CALCULER 
-
 ![[I2D/Untitled Diagram.svg]]
 
 - Calculs moteur thermique
