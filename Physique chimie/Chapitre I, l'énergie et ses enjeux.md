@@ -50,3 +50,5 @@ Formules :
 E en Jouls(J), P en Watt(W) et t en secondes(s)
 E en Jouls(J), P en Wattheure(Wh) et t en heure(h)
 
+#### Remarque
+- 1WH se dit wattheure et non watt **par** heure
