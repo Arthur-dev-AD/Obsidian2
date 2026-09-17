@@ -60,4 +60,4 @@ E en Jouls(J), P en Wattheure(Wh) et t en heure(h)
 
 Lors d'une conversion d'énergie, on cherche généralement à convertir le maximum d'énergie absorbée en énergie utile.
 
-Le rendement noté η("eta" dans l'alphabet grec) permet de quantifier l'éfficacité 
+Le rendement noté η("eta" dans l'alphabet grec) permet de quantifier l'efficacité d'un  
