@@ -58,4 +58,6 @@ E en Jouls(J), P en Wattheure(Wh) et t en heure(h)
 ## IV) Rendement énergétique
 
 
-Lors d'une conversion d'énergie, on cherche généralement 
+Lors d'une conversion d'énergie, on cherche généralement à convertir le maximum d'énergie absorbée en énergie utile.
+
+Le rendement noté
