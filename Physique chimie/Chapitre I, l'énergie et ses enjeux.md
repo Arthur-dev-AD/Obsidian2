@@ -58,4 +58,4 @@ E en Jouls(J), P en Wattheure(Wh) et t en heure(h)
 ## IV) Rendement énergétique
 
 
-Lors d'une conversion 
+Lors d'une conversion d'énergie, on cherche généralement 
