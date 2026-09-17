@@ -46,6 +46,7 @@
 - Rendement : 30 %
 - PS = 1984,5W
 
+## Calculs
 
 
 
