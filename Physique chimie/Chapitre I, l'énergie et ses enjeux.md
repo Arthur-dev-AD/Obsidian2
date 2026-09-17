@@ -43,9 +43,9 @@ La puissance P consommée par un appareil représente ==la quantité d'énergie 
 
 Formules :
 
-- E = Pxt
-- P = E/t
-- t = E/P
+- ==E = Pxt==
+- ==P = E/t==
+- ==t = E/P==
 
 E en Jouls(J), P en Watt(W) et t en secondes(s)
 E en Jouls(J), P en Wattheure(Wh) et t en heure(h)
