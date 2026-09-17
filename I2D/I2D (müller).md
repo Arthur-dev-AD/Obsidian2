@@ -52,5 +52,9 @@ calcul de puissance d'entrée ; PE = 9CV
 PE = 9x735 = 6615 W
 		   = 6,615kW
 
-Calcul de la puissance de sortie : ==PS = PE x Rendement== 
+- Calcul de la puissance de sortie : ==PS = PE x Rendement== 
+
+PS = 6615 x 0,3 = 1984,5 W
+
+Ca
 
