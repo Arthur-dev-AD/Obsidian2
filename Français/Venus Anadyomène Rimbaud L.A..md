@@ -40,4 +40,4 @@
 
 - "L'échine est un peu rouge"
 	- >animalisation, "rouge à la césure"
-		- >
+		- > On a une description péjorative de la Vénus qui brise encore une fois le topos. L'utilisation d'une animalisation, nottament en citant un de ses 
