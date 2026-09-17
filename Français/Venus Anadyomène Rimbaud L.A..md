@@ -53,4 +53,4 @@
 - Phrase bilan :
 	- Le portrait de la déesse est extrêmement péjoratif
 - Phrase de transition
-	- Maintenant, nous allons étudier la chute du poême
+	- Maintenant, nous allons étudier la chute du poème
