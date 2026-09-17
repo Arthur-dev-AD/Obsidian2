@@ -60,3 +60,4 @@ PE = 9x735 = 6615 W
 
 - Calcul des pertes : Pertes = PE - PS
 	-  Pertes = 6615 - 1984,5 = 4630, 5
+
