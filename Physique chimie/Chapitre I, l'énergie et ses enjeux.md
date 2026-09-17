@@ -29,3 +29,5 @@
 ## II) Les chaines énergétiques
 
 L'énergie peut être stockée dans des ==réservoirs d'énergie== pour être ensuite convertie d'une forme à une autre par ==un convertisseur d'énergie .==
+
+Un convertisseur produit une forme d'énergie appelée ==énergie utile== car c'est celle que l'on veut produire et utiliser
