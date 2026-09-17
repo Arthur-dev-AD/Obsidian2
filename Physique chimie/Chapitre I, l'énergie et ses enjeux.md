@@ -37,3 +37,6 @@ Un convertisseur produit une forme d'énergie appelée ==énergie utile== car c'
 | Réservoir     | Rectangle | Batterie, énergie chimique            |
 | Convertisseur | Cercle    | Moteur, ampoule                       |
 | Transfert     | Flêche    | Energie électrique, Energie thermique |
+## III) Energie et puissance
+
+La puissance P 
