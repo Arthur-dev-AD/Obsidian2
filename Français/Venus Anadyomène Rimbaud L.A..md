@@ -44,4 +44,6 @@
 
 - "et le tout sent un goût horrible étrangement"(v.9-10)
 	- >Enjambement, postposition de l'adverbe, synesthésie,
-		- >Rimbaud veut faire une description + réaliste et + compréhensible pour mieux s'imaginer le personnage . Le personnage est écœurant voir répugnant, bien loin du topos de la Vénus anadyomène. La postposition donne l'éffet d'une
+		- >Rimbaud veut faire une description + réaliste et + compréhensible pour mieux s'imaginer le personnage . Le personnage est écœurant voir répugnant, bien loin du topos de la Vénus anadyomène. La postposition donne l'effet d'une bête monstrueuse.
+
+- ""
