@@ -4,4 +4,4 @@
 	
 	Elle s'exprime en ==Joules (J)== ou en ==Wattheure(Wh)==
 	
-	L'énergie ne peut être ni créée ni détruite. Elle ne peut qu'être transférée ou convertie
+	L'énergie ne peut être ni créée ni détruite. Elle ne peut qu'être transférée ou convertie. C'est le principe de conservation
