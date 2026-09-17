@@ -63,6 +63,6 @@ PE = 9x735 = 6615 W
 
 - Rendement des composants
 	1. Moteur thermique : 0,45
-	2. Boite de vitesse
-	3. Roues
+	2. Boite de vitesse : 0,6
+	3. Roues : 
 
