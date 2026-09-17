@@ -46,4 +46,5 @@ Formules :
 - E = Pxt
 - P = E/t
 - t = E/P
-E en Jouls(J) ou en Wattheure(Wh)
+
+E en Jouls(J), P en Watt(W) et t en secondes(s)
