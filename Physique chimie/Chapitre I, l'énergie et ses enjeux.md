@@ -11,6 +11,6 @@
 
 	
 
-|     |     |
-| --- | --- |
-|     |     |
+| Energies renouvellables | Energies fosiles |
+| ----------------------- | ---------------- |
+|                         |                  |
