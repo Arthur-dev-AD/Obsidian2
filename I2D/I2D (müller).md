@@ -42,7 +42,7 @@
 
 
 ## Données de 1948
-- Puissance : 9 CV ( 6615 W )
+- Puissance : 9 CV ( 6615 W (9*735))
 - Rendement : 30 %
 - 
 
