@@ -46,3 +46,4 @@
 - Rendement : 30 %
 - Bilan énergétique : 
 
+![[I2D/Untitled Diagram.svg]]
