@@ -71,7 +71,8 @@ PE = 9x735 = 6615 W
 	- Calcul de PI1 : PE x Rendement moteur thermique = 6615 x 0,45 = 2 976,75 W
 	- Calcul des pertes : PE - PI1 = 6615 - 2976,75 = 3 638,25 W
 
-
+- Calcul boîte de vitesse
+	- 
 
 - Calcul du rendement des roues
 	- 
