@@ -56,4 +56,7 @@ PE = 9x735 = 6615 W
 	- PS = 6615 x 0,3 = 1984,5 W
 
 - Calcul  rendement global : Rendement global = PS / PE
-	- Rendement global = 1984,5 / 6615 = 
+	- Rendement global = 1984,5 / 6615 = 0,3
+
+- Calcul des pertes : Pertes = PE - PS
+	-  Pertes = 
