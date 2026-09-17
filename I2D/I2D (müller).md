@@ -44,4 +44,4 @@
 ## Données de 1948
 - Puissance : 9 CV ( 6615 W )
 - Rendement : 30 %
-- 
+- Bilan énergétique : 
