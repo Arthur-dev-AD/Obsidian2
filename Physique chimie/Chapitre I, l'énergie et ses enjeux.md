@@ -41,3 +41,6 @@ Un convertisseur produit une forme d'énergie appelée ==énergie utile== car c'
 
 La puissance P consommée par un appareil représente ==la quantité d'énergie absorbée par unité de temps
 
+Formules :
+
+E = Pxt
