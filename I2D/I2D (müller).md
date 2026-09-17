@@ -59,4 +59,4 @@ PE = 9x735 = 6615 W
 	- Rendement global = 1984,5 / 6615 = 0,3
 
 - Calcul des pertes : Pertes = PE - PS
-	-  Pertes = 
+	-  Pertes = 6615 - 1984,5 
