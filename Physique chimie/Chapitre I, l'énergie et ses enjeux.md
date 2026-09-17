@@ -19,4 +19,6 @@
 | Géothermique            |                             |
 3)  Les formes d'énergies
 	Il existe différentes formes d'énergies sous lesquelles on peu retrouver l'énergie :
-	- Chimique
+	- ==Chimique==
+	- ==électrique==
+	- 
