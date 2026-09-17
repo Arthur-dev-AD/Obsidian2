@@ -66,5 +66,3 @@ PE = 9x735 = 6615 W
 	2. Boite de vitesse : 0,6
 	3. Roues : 
 
-![[I2D/Untitled Diagram.svg]]
-
