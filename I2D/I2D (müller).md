@@ -66,5 +66,8 @@ PE = 9x735 = 6615 W
 	2. Boite de vitesse : 0,9
 	3. Roues : A CALCULER 
 
+- Calculs moteur thermique
+	- Calcul de PI1
+
 - Calcul du rendement des roues
-	- 0,9 x 0,45 = 0,405
+	- 
