@@ -39,4 +39,5 @@ Un convertisseur produit une forme d'énergie appelée ==énergie utile== car c'
 | Transfert     | Flêche    | Energie électrique, Energie thermique |
 ## III) Energie et puissance
 
-La puissance P consommée par un appareil représente ==la quantité d'énergie absorbée par unitée de temps
+La puissance P consommée par un appareil représente ==la quantité d'énergie absorbée par unité de temps
+
