@@ -46,8 +46,8 @@
 	- >Enjambement, postposition de l'adverbe, synesthésie,
 		- >Rimbaud veut faire une description + réaliste et + compréhensible pour mieux s'imaginer le personnage . Le personnage est écœurant voir répugnant, bien loin du topos de la Vénus anadyomène. La postposition donne l'effet d'une bête monstrueuse.
 
-- "On remarque surtout des singularités qu'il faut voir à la loupe(v10-11)
+- "On remarque surtout des singularités qu'il faut voir à la loupe"(v10-11)
 	- > "singularités" à la césure, allitération en /R/
-		- Rimbaud s'amuse encore avec le topos, notamment en donnant un air boitant à la Vénus renforçant l'écartement du topos. "Singularités" se trouve à la césure et souligne qu'elle est bourrée de défauts.
+		- Rimbaud s'amuse encore avec le topos, notamment en donnant un air boitant à la Vénus renforçant l'écartement du topos. "Singularités" se trouve à la césure et souligne qu'elle est bourrée de défauts. Rimbaud ajoute aussi une proposition subordonnée relative (qu'il faut voir à la loupe )
 
 - 
