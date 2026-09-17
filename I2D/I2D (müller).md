@@ -58,11 +58,11 @@ PE = 9x735 = 6615 W
 - Calcul  rendement global : ==Rendement global = PS / PE==
 	- Rendement global = 1984,5 / 6615 = 0,3
 
-- Calcul des pertes : Pertes = PE - PS
+- Calcul des pertes : ==Pertes = PE - PS==
 	-  Pertes = 6615 - 1984,5 = 4630, 5
 
 - Rendement des composants
 	1. Moteur thermique : 0,45
-	2. Boite de vitesse : 0,6
-	3. Roues : 
+	2. Boite de vitesse : 0,9
+	3. Roues : A CALCULER 
 
