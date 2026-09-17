@@ -15,4 +15,5 @@
 | ----------------------- | ---------------- |
 | Solaire                 |                  |
 | Eolien                  |                  |
-|                         |                  |
+| Hydraulique             |                  |
+| Géothermique            |                  |
