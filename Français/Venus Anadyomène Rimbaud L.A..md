@@ -39,4 +39,4 @@
 		- > Vénus enlaidie par ses bourrelets et souffre d'en bon point bien loin d'illustrer la beauté et l'élégance, elle parait plutôt âgée et flasque.
 
 - "L'échine est un peu rouge"
-	- >
+	- >animalisation, 
