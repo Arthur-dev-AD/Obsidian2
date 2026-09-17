@@ -33,3 +33,6 @@
 ### Phase de déclin
 - [Cycle de vie d'un produit : ses phases et comment les respecter — Finom](https://finom.co/fr-fr/blog/cycle-de-vie-dun-produit/) — Présente les options face au déclin : retrait, repositionnement, relance par l'innovation
 - [Cycle de vie d'un produit : définition et étapes — HubSpot](https://blog.hubspot.fr/marketing/cycle-de-vie-produit) — Détaille les stratégies de fin de vie et la préparation du remplacement
+
+--------------------------------------------------------------------------
+
