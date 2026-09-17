@@ -48,3 +48,4 @@
 
 - "On remarque surtout des singularités qu'il faut voir à la loupe(v10-11)
 	- > "singularités" à la césure, allitération en /R/
+		- Rimbaud s'amuse encore avec le topos, notamment car 
