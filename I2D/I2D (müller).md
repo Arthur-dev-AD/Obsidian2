@@ -56,5 +56,4 @@ PE = 9x735 = 6615 W
 
 	- PS = 6615 x 0,3 = 1984,5 W
 
-- Calcul 
-
+- Calcul  rendement global : Rendement global 
