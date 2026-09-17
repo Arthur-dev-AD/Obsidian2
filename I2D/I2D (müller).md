@@ -77,4 +77,4 @@ PE = 9x735 = 6615 W
 	- Pertes = PI1 - PI2 = 2976,75 - 2679,075 = 297,675
 
 - Calcul du rendement des roues + cardon
-	- Rendement = PS / PI2 =
+	- Rendement = PS / PI2 = 19
