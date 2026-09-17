@@ -52,4 +52,5 @@
 
 - Phrase bilan :
 	- Le portrait de la déèsse est êxtrêmement péjoratif
-- Phrase
+- Phrase de transition
+	- 
