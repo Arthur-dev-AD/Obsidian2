@@ -27,3 +27,5 @@
 	- ==rayonnante==
 
 ## II) Les chaines énergétiques
+
+L'énergie peut-être stockée 
