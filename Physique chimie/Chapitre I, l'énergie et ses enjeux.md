@@ -7,4 +7,4 @@
 	L'énergie ne peut être ni créée ni détruite. Elle ne peut qu'être transférée ou convertie. C'est ==le principe de conservation de l'énergie==. On peut récupérer de l'énergie à partir d'une source.
 
 2) Les sources d'énergies
-	Une source d'énergie renouvelable est une source d'énergie 
+	Une source d'énergie renouvelable est une source d'énergie qui se renouvelle rapidement à l'échelle d'une vie humaine
