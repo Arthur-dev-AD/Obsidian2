@@ -61,8 +61,10 @@ PE = 9x735 = 6615 W
 - Calcul des pertes : ==Pertes = PE - PS==
 	-  Pertes = 6615 - 1984,5 = 4630, 5
 
-- Rendement des composants
+- Rendement des composants individuels
 	1. Moteur thermique : 0,45
 	2. Boite de vitesse : 0,9
 	3. Roues : A CALCULER 
 
+- Calcul du rendement des roues
+	- 0,9 x 0,45 = 0,405
