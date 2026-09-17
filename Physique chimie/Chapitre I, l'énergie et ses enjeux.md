@@ -51,4 +51,6 @@ E en Jouls(J), P en Watt(W) et t en secondes(s)
 E en Jouls(J), P en Wattheure(Wh) et t en heure(h)
 
 #### Remarque
-- 1WH se dit wattheure et non watt **par** heure
+- 1Wh se dit wattheure et non watt **par** heure
+- 1Wh = 3600 J ; 1 kWh =1000 Wh
+- 1Wh s'écrit aussi 1 W.h
