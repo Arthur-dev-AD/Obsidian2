@@ -73,6 +73,7 @@ PE = 9x735 = 6615 W
 
 - Calcul boîte de vitesse
 	- PI2 = PI1 x Rendement de la boîte de vitesse = 2976 x 0,9 = 2 679,075 W
+	- Pertes = PI1 - PI2 = 
 
 - Calcul du rendement des roues
 	- 
