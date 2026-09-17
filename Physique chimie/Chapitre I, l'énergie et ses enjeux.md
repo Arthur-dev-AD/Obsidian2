@@ -4,4 +4,4 @@
 	
 	Elle s'exprime en ==Joules (J)== ou en ==Wattheure(Wh)==
 	
-	L'énergie ne peut être ni créée ni détruite. Elle ne peut qu'être 
+	L'énergie ne peut être ni créée ni détruite. Elle ne peut qu'être transférée ou convertie
