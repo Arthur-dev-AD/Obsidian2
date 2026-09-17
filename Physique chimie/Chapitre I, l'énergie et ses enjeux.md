@@ -47,8 +47,8 @@ Formules :
 - ==P = E/t==
 - ==t = E/P==
 
-E en Jouls(J), P en Watt(W) et t en secondes(s)
-E en Jouls(J), P en Wattheure(Wh) et t en heure(h)
+E en Joules(J), P en Watt(W) et t en secondes(s)
+E en Joules(J), P en Wattheure(Wh) et t en heure(h)
 
 #### Remarque
 - 1Wh se dit wattheure et non watt **par** heure
