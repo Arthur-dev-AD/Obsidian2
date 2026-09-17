@@ -43,4 +43,5 @@ La puissance P consommée par un appareil représente ==la quantité d'énergie 
 
 Formules :
 
-E = Pxt
+- E = Pxt
+- 
