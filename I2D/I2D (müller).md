@@ -49,5 +49,6 @@
 ## Calculs
 
 calcul de puissance d'entrée ; PE = 9CV
-PE = 9*735 = 6615 W
+PE = 9x735 = 6615 W
+
 
