@@ -64,7 +64,7 @@ PE = 9x735 = 6615 W
 - Rendement des composants individuels
 	1. Moteur thermique : 0,45
 	2. Boite de vitesse : 0,9
-	3. Roues : A CALCULER 
+	3. Roues et cardant  : A CALCULER 
 
 
 - Calculs moteur thermique
@@ -73,7 +73,7 @@ PE = 9x735 = 6615 W
 
 - Calcul boîte de vitesse
 	- PI2 = PI1 x Rendement de la boîte de vitesse = 2976 x 0,9 = 2 679,075 W
-	- Pertes = PI1 - PI2 = 2976,75 - 2679,075
+	- Pertes = PI1 - PI2 = 2976,75 - 2679,075 = 297,675
 
 - Calcul du rendement des roues
 	- 
