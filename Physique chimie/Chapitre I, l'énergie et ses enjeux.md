@@ -13,4 +13,6 @@
 
 | Energies renouvellables | Energies fosiles |
 | ----------------------- | ---------------- |
+| Solaire                 |                  |
+| Eolien                  |                  |
 |                         |                  |
