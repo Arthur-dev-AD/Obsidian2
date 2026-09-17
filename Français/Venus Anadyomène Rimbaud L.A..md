@@ -38,10 +38,10 @@
 	- > Comparaison , peau à la césure
 		- > Vénus enlaidie par ses bourrelets et souffre d'en bon point bien loin d'illustrer la beauté et l'élégance, elle parait plutôt âgée et flasque.
 
-- "L'échine est un peu rouge" (v.ç)
+- "L'échine est un peu rouge" (v.9)
 	- >animalisation, "rouge à la césure"
 		- > On a une description péjorative de la Vénus qui brise encore une fois le topos. L'utilisation d'une animalisation, permet de rabaisser à nouveau et de lui faire perdre le peu de noblesse qui lui restait . L'adjectif "rouge" à la césure accentue la laideur et la vieillesse de la vénus.
 
 - "et le tout sent un goût horrible étrangement"
 	- >Enjambement, postposition de l'adverbe, synesthésie,
-		- >
+		- >Rimbaud veut faire une 
