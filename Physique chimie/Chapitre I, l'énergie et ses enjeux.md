@@ -62,5 +62,5 @@ Lors d'une conversion d'énergie, on cherche généralement à convertir le maxi
 
 Le rendement noté η("eta" dans l'alphabet grec) permet de quantifier l'efficacité d'une conversion d'énergie et s'exprime en %
 
-η = EUtile/EReçu
+==η = EUtile/EReçu==
 
