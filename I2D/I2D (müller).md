@@ -48,5 +48,6 @@
 
 ## Calculs
 
-
+calcul de puissance d'entrée ; PE = 9CV
+PE = 9*735 = 
 
