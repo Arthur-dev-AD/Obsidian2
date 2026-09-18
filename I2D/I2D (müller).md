@@ -83,4 +83,5 @@ PE = 9x735 = 6615 W
 ![[Diagramme PEPS.svg]]
 (Voir "Diagramme PEPS.svg" si vu sur discord)
 
-Interpretation :
+- Interpretation :
+	Le moteur n'est pas optimisé, son rendement est très faible. 
