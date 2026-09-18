@@ -95,6 +95,6 @@ PE = 9x735 = 6615 W
 ___
 ## Formules additionnelles
 
-Couple :
+Couple : P =  Cx
 
 
