@@ -46,7 +46,7 @@
 - Rendement : 30 %
 - PS = 1984,5W
 
-
+![[Diagram.svg]]
 ## Calculs
 
 calcul de puissance d'entrée ; PE = 9CV
