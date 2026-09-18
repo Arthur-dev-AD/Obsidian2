@@ -46,7 +46,6 @@
 - Rendement : 30 %
 - PS = 1984,5W
 
-![[Diagram.svg]]
 ## Calculs
 
 calcul de puissance d'entrée ; PE = 9CV
@@ -80,3 +79,5 @@ PE = 9x735 = 6615 W
 - Calcul du rendement des roues + cardon
 	- Rendement = PS / PI2 = 1984,5 / 2679,07 = 0,74
 	- Pertes = PI2 - PS = 2679,07 - 1984,5 = 694,57 W
+
+![[Diagram.svg]]
