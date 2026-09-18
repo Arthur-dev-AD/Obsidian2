@@ -84,4 +84,5 @@ PE = 9x735 = 6615 W
 (Voir "Diagramme PEPS.svg" si vu sur discord)
 
 - Interpretation :
-	Le moteur n'est pas optimisé, son rendement est très faible.
+	Le moteur n'est pas optimisé, son rendement est très faible. Nous pouvons le remplacer par un moteur électrique.
+	Le Cadant et 
