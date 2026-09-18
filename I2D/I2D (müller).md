@@ -41,6 +41,8 @@
 # Notice de calcul sur la 2CV
 
 
+
+
 ## Données de 1948
 - Puissance : 9 CV ( 6615 W (9x735))
 - Rendement : 30 %
