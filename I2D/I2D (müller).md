@@ -95,6 +95,6 @@ PE = 9x735 = 6615 W
 ___
 ## Formules additionnelles
 
-Couple : P =  C x Ω
+Couple : ==P =  C x Ω==
 Pour P en Watt (W), C en Newtown x mètre (N.m) et Ω en vitesse angulaire (radiant/s)
 
