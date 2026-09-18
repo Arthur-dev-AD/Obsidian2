@@ -81,7 +81,7 @@ PE = 9x735 = 6615 W
 	- Pertes = PI2 - PS = 2679,07 - 1984,5 = 694,57 W
 
 ![[Diagramme PEPS.svg]]
-(Voir "Diagramme PEPS.svg" si vu sur discord)
+(Voir "Diagramme PEPS.svg" si vu sur github)
 
 - Interpretation :
 	Le moteur n'est pas optimisé, son rendement est très faible. Nous pouvons le remplacer par un moteur électrique.
