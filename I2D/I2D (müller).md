@@ -95,7 +95,7 @@ PE = 9x735 = 6615 W
 ___
 ## Formules additionnelles
 
-Couple : ==P =  C x Ω==
+Couple :   ==P =  C x Ω==
         ==C = P / Ω==
         ==Ω = C / P==
 Pour P en Watt (W), C en Newtons x mètre (N.m) et Ω en vitesse angulaire (radiant/s)
@@ -105,7 +105,7 @@ Pour Ω en rad.s et N en t.m
 
 Calcul de la force motrice : ==P = F x V== 
 					   ==F = P / V==
-					==V = F / P==
+					   ==V = F / P==
 Pour P en Watt(W) F en newtons (N) et V en m/s
 
 Conversion Km/h en m/s : (V x 100)/3600
