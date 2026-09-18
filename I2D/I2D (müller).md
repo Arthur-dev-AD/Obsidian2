@@ -106,4 +106,4 @@ Pour Ω en rad.s et N en t.m
 
 ### Calcul
 
-Ω = (2 x π x N) / 60 =
+Ω = (2 x π x N) / 60 = (2 x π x 4500) / 60 =
