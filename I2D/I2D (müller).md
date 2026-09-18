@@ -98,6 +98,8 @@ ___
 Couple : ==P =  C x Ω==
 Pour P en Watt (W), C en Newtown x mètre (N.m) et Ω en vitesse angulaire (radiant/s)
 
+t.m en rad.s
+
 ### Données additionnelles
 - 4500 t/m
 
