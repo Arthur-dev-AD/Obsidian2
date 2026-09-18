@@ -104,3 +104,6 @@ Pour Ω en rad.s et N en t.m
 ### Données additionnelles
 - 4500 t/m
 
+### Calcul
+
+
