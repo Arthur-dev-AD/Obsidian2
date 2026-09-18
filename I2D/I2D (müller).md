@@ -105,6 +105,8 @@ Pour Ω en rad.s et N en t.m
 
 Calcul de la force motrice : ==P = F x V== 
 Pour P en Watt(W) F en newtons (N) et V en m/s
+
+Conversion Km/h en m/s 
 ### Données additionnelles
 - 4500 t/m
 
