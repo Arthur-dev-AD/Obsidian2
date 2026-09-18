@@ -83,4 +83,4 @@ PE = 9x735 = 6615 W
 ![[Diagramme PEPS.svg]]
 (Voir "Diagramme PEPS.svg" si vu sur discord)
 
-Interpretation : 
+Interpretation :
