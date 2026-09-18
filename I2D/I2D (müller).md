@@ -96,5 +96,5 @@ ___
 ## Formules additionnelles
 
 Couple : P =  C x Ω
-
+Pour P en W, C en Newtown
 
