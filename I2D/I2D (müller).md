@@ -98,14 +98,13 @@ ___
 Couple : ==P =  C x Ω==
         ==C = P / Ω==
         ==Ω = C / P==
-Pour P en Watt (W), C en Newtown x mètre (N.m) et Ω en vitesse angulaire (radiant/s)
+Pour P en Watt (W), C en Newtons x mètre (N.m) et Ω en vitesse angulaire (radiant/s)
 
 t.m en rad.s : ==Ω = (2 x π x N) / 60==
 Pour Ω en rad.s et N en t.m
 
 Calcul de la force motrice : ==P = F x V== 
-Pour P en Watt(W) F 
-
+Pour P en Watt(W) F en newtons (N) et V en m/s
 ### Données additionnelles
 - 4500 t/m
 
