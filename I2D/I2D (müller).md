@@ -88,7 +88,7 @@ PE = 9x735 = 6615 W
 ![[Diagramme PEPS.svg]]
 (Voir "Diagramme PEPS.svg" si vu sur github)
 
-- Interpretation :
+- Interprétation :
 	Le moteur n'est pas optimisé, son rendement est très faible. Nous pouvons le remplacer par un moteur électrique.
 	Le cardant et la roue ont un mauvais rendement car le pneu date de 1948. Actuellement, les pneus ont de nouvelles caractéristique
 
