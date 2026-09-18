@@ -104,6 +104,8 @@ t.m en rad.s : ==Ω = (2 x π x N) / 60==
 Pour Ω en rad.s et N en t.m
 
 Calcul de la force motrice : ==P = F x V== 
+					==F = P / V==
+					==V = F / P==
 Pour P en Watt(W) F en newtons (N) et V en m/s
 
 Conversion Km/h en m/s : (V x 100)/3600
