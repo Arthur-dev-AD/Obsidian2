@@ -96,6 +96,7 @@ ___
 ## Formules additionnelles
 
 Couple : ==P =  C x Ω==
+        ==C = P/Ω==
         
 Pour P en Watt (W), C en Newtown x mètre (N.m) et Ω en vitesse angulaire (radiant/s)
 
