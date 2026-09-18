@@ -40,8 +40,9 @@
 
 # Notice de calcul sur la 2CV
 
-
-
+%%PS = Puissance de sortie
+PE = Puissance d'entrée
+PI = Puissance intermédiaire %%
 
 ## Données de 1948
 - Puissance : 9 CV ( 6615 W (9x735))
