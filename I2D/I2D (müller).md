@@ -88,4 +88,8 @@ PE = 9x735 = 6615 W
 	Le cardant et la roue ont un mauvais rendement car le pneu date de 1948. Actuellement, les pneus ont de nouvelles caractéristique
 
 ___
+## Formules additionnelles
+
+Couple :
+
 
