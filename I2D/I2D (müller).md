@@ -108,4 +108,4 @@ Pour Ω en rad.s et N en t.m
 
 Ω = (2 x π x N) / 60 = (2 x π x 4500) / 60 = 150π
 
-C = P/Ω = 
+C = P/Ω = 6615 x 
