@@ -80,6 +80,6 @@ PE = 9x735 = 6615 W
 	- Rendement = PS / PI2 = 1984,5 / 2679,07 = 0,74
 	- Pertes = PI2 - PS = 2679,07 - 1984,5 = 694,57 W
 
-![[Diagrame PEPS.svg]]
+![[Diagramme PEPS.svg]]
 
-(Voir diagrame PEPS.svg dans ce dossier si vu sur github directement)
+(Voir "diagramme PEPS.svg" dans ce dossier si vu sur github directement)
