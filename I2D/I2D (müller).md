@@ -85,4 +85,4 @@ PE = 9x735 = 6615 W
 
 - Interpretation :
 	Le moteur n'est pas optimisé, son rendement est très faible. Nous pouvons le remplacer par un moteur électrique.
-	Le cadant et la roue ont un 
+	Le cardant et la roue ont un 
