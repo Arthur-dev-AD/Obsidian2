@@ -85,4 +85,4 @@ PE = 9x735 = 6615 W
 
 - Interpretation :
 	Le moteur n'est pas optimisé, son rendement est très faible. Nous pouvons le remplacer par un moteur électrique.
-	Le cardant et la roue ont un mauvais rendement car le pneu date de 1948. Actuellement, les pneus ont 
+	Le cardant et la roue ont un mauvais rendement car le pneu date de 1948. Actuellement, les pneus ont de nouvelles caractéristique
