@@ -103,8 +103,8 @@ Pour P en Watt (W), C en Newtown x mètre (N.m) et Ω en vitesse angulaire (radi
 t.m en rad.s : ==Ω = (2 x π x N) / 60==
 Pour Ω en rad.s et N en t.m
 
-Calcul de la force motrice : ==P = f x V== 
-Pour P en Watt(W)
+Calcul de la force motrice : ==P = F x V== 
+Pour P en Watt(W) 
 
 ### Données additionnelles
 - 4500 t/m
