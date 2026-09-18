@@ -81,3 +81,5 @@ PE = 9x735 = 6615 W
 	- Pertes = PI2 - PS = 2679,07 - 1984,5 = 694,57 W
 
 ![[Diagram.svg]]
+
+(Voir diagram.svg dans ce dossier si vu sur github directement)
