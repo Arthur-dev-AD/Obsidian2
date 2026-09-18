@@ -82,4 +82,4 @@ PE = 9x735 = 6615 W
 
 ![[Diagrame PEPS.svg]]
 
-(Voir diagram.svg dans ce dossier si vu sur github directement)
+(Voir diagrame PEPS.svg dans ce dossier si vu sur github directement)
