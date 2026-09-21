@@ -81,4 +81,4 @@ Les députés du Tiers-Etat demandent la fin de la monarchie absolue et la réda
 
 ## B) Les soulèvements du peuple
 
-Le 14 juillet 1789 , les parisiens envahissent la Bastille, symbole important du pouvoir arbitraire du roi 
+Le 14 juillet 1789 , les parisiens envahissent la Bastille, symbole important du pouvoir arbitraire du roi, et récupèrent des armes et de la poudre à canon
