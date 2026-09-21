@@ -58,4 +58,5 @@
 	- Dans ce second mouvement, découvrons une fin très surprenante
 
 
-- "Les reins portent 2 mots gravés" (v.13)
+- "Les reins portent 2 mots gravés" (v.12)
+	- Métaphore, "mots" à la césure 
