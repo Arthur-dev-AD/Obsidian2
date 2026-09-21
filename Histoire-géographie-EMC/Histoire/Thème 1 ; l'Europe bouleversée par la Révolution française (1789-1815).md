@@ -22,4 +22,5 @@ Le pouvoir se divise en 3 types :
 
 De nos jours ces pouvoirs sont séparés ainsi :
 - Les ministres et le président gouvernent
-- 
+- L'assemblée nationale fait les lois
+- Les Juges jugent
