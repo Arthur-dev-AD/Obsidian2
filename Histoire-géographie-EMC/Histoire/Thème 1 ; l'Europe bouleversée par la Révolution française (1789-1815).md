@@ -53,3 +53,5 @@ La société française se sépare en 3 ordres :
 	- 85% de paysans
 	- 7% d'artisant
 	- Richesse : variables
+
+### C
