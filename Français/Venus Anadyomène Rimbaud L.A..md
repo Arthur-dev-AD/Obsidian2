@@ -71,4 +71,4 @@
 		- >Accentuation de la parodie puisque ce vers montre la monstruosité de Vénus qui tombe de son piédestal. On a ici l'inverse de l'image de vénus. Les rimes riches permettent de comprendre qu'elle est une prostituée. On constate aussi un vocabulaire grossier, témoin de la parodie.
 
 - Phrase de bilan :
-	- Ainsi, le dernier tercet e 
+	- Ainsi, le dernier tercet est totalement inatendu. 
