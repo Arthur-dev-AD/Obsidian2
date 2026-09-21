@@ -34,4 +34,14 @@ La société française se sépare en 3 ordres :
 - Clergé
 - Noblesse
 - Tiers-Etat
-### B)
+### B) La société de l'Ancien régime est très inégal
+
+- Clergé :
+	- Privilégiés : ne payent pas les impôts
+	- 0,5 % de la population
+	- Fonctions : Religieuses
+	- Richesses : Riches (évêques)
+
+- Noblesse :
+	- 1,5 % de la population
+	- Richesse
