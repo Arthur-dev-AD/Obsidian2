@@ -1,1 +1,1 @@
-*Cahiers de douai* et une série de deux écrits de Arthur Rimbaud. Ils ont été écrit en 1870 
+*Cahiers de douai* et une série de deux écrits contenant au total 22 poêmes de Arthur Rimbaud. Ils ont été écrit en 1870 
