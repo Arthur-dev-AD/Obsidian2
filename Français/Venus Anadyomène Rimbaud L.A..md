@@ -55,4 +55,4 @@
 - Phrase de transition
 	- Maintenant, nous allons étudier la chute du poème
 - Phrase d'introduction
-	- 
+	- Dans ce second mouvement d
