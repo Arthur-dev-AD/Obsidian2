@@ -68,4 +68,4 @@
 
 - "Belle hideusement, d'un ulcère à l'anus"(v.14)
 	- >"hideusement" à la césure, rimes riches (vé==nus== a==nus==), oxymore
-		- >Accentuation de la parodie puisque ce vers montre la monstruosité de Vénus qui tombe de son pédéstal 
+		- >Accentuation de la parodie puisque ce vers montre la monstruosité de Vénus qui tombe de son pédéstal. On a ici l'inverse de l'image de vénus. Les rimes riches permettent de comprendre qu'elle est une prostituée. On constate aussi un vocabulaire grossier, témoin de la parodie
