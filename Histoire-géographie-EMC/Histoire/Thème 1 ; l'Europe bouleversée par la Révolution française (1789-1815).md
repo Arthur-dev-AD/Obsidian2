@@ -68,4 +68,4 @@ En mai 1789, le roi convoque les Etats-Généraux (plus réuni depuis 1641) afin
 
 De février à mai 1789, des élections se déroulent pour déterminer les députés à envoyer. Une fois élu, ils écrivent des _cahiers de doléance_ qui consiste à écrire toutes les plaintes et proposition de réformes
 
-Les Français sont profondément attachés au roi 
+Les Français sont profondément attachés au roi mais demandent de grand changements tels que l'égalitée devant la loi, l'impôt et l'emploi
