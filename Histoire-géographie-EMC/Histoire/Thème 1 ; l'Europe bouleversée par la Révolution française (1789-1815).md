@@ -25,5 +25,6 @@ De nos jours ces pouvoirs sont séparés ainsi :
 - L'assemblée nationale fait les lois
 - Les Juges jugent
 
+Maintenant, revenons en 1776
 
 La noblesse demande une monarchie parlementaire (plus de pouvoir)
