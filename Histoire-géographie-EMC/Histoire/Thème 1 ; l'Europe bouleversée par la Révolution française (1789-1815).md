@@ -21,4 +21,5 @@ Le pouvoir se divise en 3 types :
 - **Le pouvoir judiciaire** : Il rend justice
 
 De nos jours ces pouvoirs sont séparés ainsi :
+- Les ministres et le président gouvernent
 - 
