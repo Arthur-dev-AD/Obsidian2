@@ -9,4 +9,10 @@
 
 En Grande Bretagne, la monarchie absolue a disparu au Moyen-Age. Il y a un premier ministre qui gouverne et un parlement qui fait les lois : ils sont en monarchie parlementaire.
 
--
+- Quelques philosophes des lumières :
+	- Voltaire
+	- Rousseau
+	- Montesquieu
+- Tous sont pour l'égalité et la séparation des pouvoirs
+
+Le pouvoir se divise 
