@@ -58,4 +58,5 @@ La société française se sépare en 3 ordres :
 
 Une météo désastreuse, une sécheresse, des pluies diluviennes, de la grêle et du gel provoque de très mauvaises récoltes et ont comme conséquence que le prix du pain s'envole.
 
-### D) Un pays très profondément endété 
+### D) Un pays très profondément endetté 
+
