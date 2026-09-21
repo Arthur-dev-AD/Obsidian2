@@ -15,4 +15,4 @@ En Grande Bretagne, la monarchie absolue a disparu au Moyen-Age. Il y a un premi
 	- Montesquieu
 - Tous sont pour l'égalité et la séparation des pouvoirs
 
-Le pouvoir se divise 
+Le pouvoir se divise en 3 
