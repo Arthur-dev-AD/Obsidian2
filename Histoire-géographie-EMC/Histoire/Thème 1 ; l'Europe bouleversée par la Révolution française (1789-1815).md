@@ -89,4 +89,4 @@ Le 14 juillet 1789 , les parisiens envahissent la Bastille, symbole important du
 2. Expliquer ; à partir des connaissance
 	- Une rumeur circule et lance la grande peur.
 
-##### Conséquences : Abolition des privilèges par l'ANC pendant la nuit du 7 août 1789 sur la proposition des députés de la noblesse : ils paniquent face à la montée de la violence et essaient de 
+##### Conséquences : Abolition des privilèges par l'ANC pendant la nuit du 7 août 1789 sur la proposition des députés de la noblesse : ils paniquent face à la montée de la violence et essaient de se faire éparger 
