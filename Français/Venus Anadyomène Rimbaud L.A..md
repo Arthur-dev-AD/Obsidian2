@@ -60,4 +60,4 @@
 
 - "Les reins portent 2 mots gravés" (v.12)
 	- >Métaphore, "mots" à la césure, réification
-		- >Rimbaud associe le personnage à une statue antique, cela est ironique étant donnée qu'à la base, une statue antique est belle et gracieuse contrairement à cette vénus. 
+		- >Rimbaud associe le personnage à une statue antique, cela est ironique étant donnée qu'à la base, une statue antique est belle et gracieuse contrairement à cette vénus. La métaphore souligne la lourdeur de notre personnage ce qui est peu valorisant. Quant à la césure, elle est très satirique puisqu'on lit "Clara Vénus" soit "L'Illustre Vénus" ce qui ne correspond absolument pas à la déscription donnée par l'auteur
