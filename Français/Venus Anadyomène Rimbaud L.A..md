@@ -64,4 +64,6 @@
 
 - "Et tout ce corps remue et tend sa large croupe"(v.13)
 	- > Animalisation, antéposition, rythme binaire
-		- > L'animalisation vise à rabaisser et humilier le personnage. L'antéposition montre un corps disgracieux tandis que le rythme binaire 
+		- > L'animalisation vise à rabaisser et humilier le personnage. L'antéposition montre un corps disgracieux tandis que le rythme binaire rend le personnage encore plus ridicule en lui faisant faire une sorte de danse sensuelle ce qui donne un rendu grotesque accentué par l'animalisation.
+
+- 
