@@ -54,3 +54,5 @@
 	- Le portrait de la déesse est extrêmement péjoratif
 - Phrase de transition
 	- Maintenant, nous allons étudier la chute du poème
+- Phrase d'introduction
+	- 
