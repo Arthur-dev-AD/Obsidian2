@@ -56,4 +56,6 @@ La société française se sépare en 3 ordres :
 
 ### C) Crise économique et alimentaire (1788-1789)
 
-Une météo désastreuse, une sécheresse, des pluies
+Une météo désastreuse, une sécheresse, des pluies diluviennes, de la grêle et du gel provoque de très mauvaises récoltes et ont comme conséquence que le prix du pain s'envole.
+
+### D) Un pays très profondément endété 
