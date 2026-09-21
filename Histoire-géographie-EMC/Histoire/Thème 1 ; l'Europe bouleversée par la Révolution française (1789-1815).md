@@ -7,4 +7,5 @@
 ### A) Un régime contesté : la Monarchie absolue
 
 
-En Grande Bretagne, la monarchie absolue a disparu au Moyen-Age
+En Grande Bretagne, la monarchie absolue a disparu au Moyen-Age. Il y a un premier ministre qui gouverne et un parlement qui fait les lois : ils sont en monarchie parlementaire.
+
