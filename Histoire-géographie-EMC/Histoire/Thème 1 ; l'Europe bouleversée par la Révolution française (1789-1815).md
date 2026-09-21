@@ -62,4 +62,4 @@ Une météo désastreuse, une sécheresse, des pluies diluviennes, de la grêle 
 
 Les déficits budgétaires du pays sont en majorité dues à la guerre d'indépendance des Etats-Unis ayant été financée par la France. 
 
-### E) 
+### E) La préparation des Etats généraux
