@@ -1,1 +1,1 @@
-*Cahiers de Douai* et une série de deux écrits contenant au total 22 poèmes de Arthur Rimbaud. Ils ont été écrit en 1870 alors que Rimbaud effectue une fugue
+*Cahiers de Douai* et une série de deux écrits contenant au total 22 poèmes de Arthur Rimbaud. Ils ont été écrit en 1870 alors que Rimbaud effectue une fugue.
