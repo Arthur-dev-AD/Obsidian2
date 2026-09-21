@@ -59,4 +59,5 @@
 
 
 - "Les reins portent 2 mots gravés" (v.12)
-	- Métaphore, "mots" à la césure 
+	- >Métaphore, "mots" à la césure, réification
+		- >
