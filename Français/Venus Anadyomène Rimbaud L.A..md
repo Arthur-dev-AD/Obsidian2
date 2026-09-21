@@ -78,4 +78,4 @@
 	- OUVERTURE : Le poème de Rimbaud peut nous faire penser au tableau *La naissance de Vénus* de Botticelli et ce grâce à plusieurs facteurs : 
 		- Les deux parlent du mythe de Vénus
 		- Les deux ont pour sujet la mythologie
-	- Cependant on constate une énorme différence : la Vénus de Botticelli est attrayante et belle, en opposition totale à celle de 
+	- Cependant on constate une énorme différence : la Vénus de Botticelli est attrayante et belle, en opposition totale à celle de Rimbaud
