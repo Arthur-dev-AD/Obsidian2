@@ -54,4 +54,4 @@ La société française se sépare en 3 ordres :
 	- 7% d'artisant
 	- Richesse : variables
 
-### C
+### C) Crise économique et alimentaire (1788-1789)
