@@ -48,4 +48,8 @@ La société française se sépare en 3 ordres :
 	- Richesse : Riches
 
 - Tiers-Etat
-	- 
+	- 98% de la population
+	- 5% de bourgeois
+	- 85% de paysans
+	- 7% d'artisant
+	- Richesse : variables
