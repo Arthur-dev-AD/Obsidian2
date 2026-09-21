@@ -73,4 +73,4 @@ Les Français sont profondément attachés au roi mais demandent de grand change
 
 # Leçon 1 : La nation en révolution en 1789
 
-### 1) L'ouverture des Etats généraux à Versaille le 5 mai
+### 1) L'ouverture des Etats généraux à Versailles le 5 mai
