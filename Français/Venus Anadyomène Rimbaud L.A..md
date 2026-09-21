@@ -74,4 +74,4 @@
 	- Ainsi, le dernier tercet est totalement inattendu. 
 
 - Conclusion :
-	- BILAN : Rimbaud joue avec les références mythologique 
+	- BILAN : Rimbaud joue avec les références mythologique et met à mal 
