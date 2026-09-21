@@ -55,4 +55,7 @@
 - Phrase de transition
 	- Maintenant, nous allons étudier la chute du poème
 - Phrase d'introduction
-	- Dans ce second mouvement d
+	- Dans ce second mouvement, découvrons une fin très surprenante
+
+
+- "Les reins portent 2 mots gravés" (v.13)
