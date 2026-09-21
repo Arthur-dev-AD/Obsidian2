@@ -74,4 +74,4 @@
 	- Ainsi, le dernier tercet est totalement inattendu. 
 
 - Conclusion :
-	- BILAN : Rimbaud joue avec les références mythologique et met à mal 
+	- BILAN : Rimbaud joue avec les références mythologique et met à mal le topos de la Vénus qui renverse les codes et les tradition. On perçoit le côté insolant et provocateur de Rimbaud qui ne réspecte pas la vénus
