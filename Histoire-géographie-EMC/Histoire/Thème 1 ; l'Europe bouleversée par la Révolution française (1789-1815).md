@@ -80,3 +80,5 @@ Les Français sont profondément attachés au roi mais demandent de grand change
 Les députés du Tiers-Etat demandent la fin de la monarchie absolue et la rédaction d'une constitution donc une monarchie constitutionnelle. Suite au refus du roi, le Tiers-Etat s'auto proclame Assemblée nationale constituante. Les députés de cette dernière se rejoignent dans la salle du Jeu de paume le 20 juin 1789 à Versailles. Ils promettent de ne pas se séparer avant d'avoir donné une constitution à la France : C'est le premier acte révolutionaire.
 
 ## B) Les soulèvements du peuple
+
+Le 14 juillet 1789 , les parisiens envahissent la Bastille, symbole important du pouvoir arbitraire du roi 
