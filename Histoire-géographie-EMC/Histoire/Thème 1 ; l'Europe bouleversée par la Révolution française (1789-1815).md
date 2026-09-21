@@ -83,4 +83,6 @@ Les députés du Tiers-Etat demandent la fin de la monarchie absolue et la réda
 
 Le 14 juillet 1789 , les parisiens envahissent la Bastille, symbole important du pouvoir arbitraire du roi, et récupèrent des armes et de la poudre à canon.
 
-### 2) La Grande Peur (été 1789 
+### 2) La Grande Peur (été 1789)
+1. Décrire à partir du tableau
+	- 150 châteaux incendiés et pillé. Le Tiers-Etat brule les tires des paysans et seigneurs
