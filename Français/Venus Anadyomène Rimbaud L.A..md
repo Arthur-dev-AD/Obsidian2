@@ -74,4 +74,5 @@
 	- Ainsi, le dernier tercet est totalement inattendu. 
 
 - Conclusion :
-	- BILAN : Rimbaud joue avec les références mythologique et met à mal le topos de la Vénus qui renverse les codes et les tradition. On perçoit le côté insolant et provocateur de Rimbaud qui ne respecte pas la vénus et emploit même des mots vulgaires/grossier
+	- BILAN : Rimbaud joue avec les références mythologique et met à mal le topos de la Vénus qui renverse les codes et les tradition. On perçoit le côté insolant et provocateur de Rimbaud qui ne respecte pas la vénus et emploit même des mots vulgaires/grossier.
+	- OUVERTURE : Le poème de Rimbaud peut nous faire penser au tableau "La naissance de Vénus "
