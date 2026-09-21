@@ -60,4 +60,4 @@ Une météo désastreuse, une sécheresse, des pluies diluviennes, de la grêle 
 
 ### D) Un pays très profondément endetté 
 
-Les déficits budgétaires du pays sont en majorité dûes à la guerre d'indépendance des Etats-Unis 
+Les déficits budgétaires du pays sont en majorité dûes à la guerre d'indépendance des Etats-Unis ayant été financée par la France. 
