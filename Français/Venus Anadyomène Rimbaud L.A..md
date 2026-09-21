@@ -68,4 +68,4 @@
 
 - "Belle hideusement, d'un ulcère à l'anus"(v.14)
 	- >"hideusement" à la césure, rimes riches (vé==nus== a==nus==), oxymore
-		- >Accentuation de la parodie 
+		- >Accentuation de la parodie puisque ce vers 
