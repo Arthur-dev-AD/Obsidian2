@@ -26,4 +26,4 @@ De nos jours ces pouvoirs sont séparés ainsi :
 - Les Juges jugent
 
 
-La noblesse demande une monarchie parlementaire 
+La noblesse demande une monarchie parlementaire (plus de pouvoir)
