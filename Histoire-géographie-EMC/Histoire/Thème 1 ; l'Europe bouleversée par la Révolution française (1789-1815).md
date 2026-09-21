@@ -77,4 +77,4 @@ Les Français sont profondément attachés au roi mais demandent de grand change
 
 ### 2) La proclamation de l'Assemblée nationale constituante
 
-Les députés du Tiers-Etat demandent la fin de la monarchie absolue et la rédaction d'une constitution donc une monarchie constitutionnelle. 
+Les députés du Tiers-Etat demandent la fin de la monarchie absolue et la rédaction d'une constitution donc une monarchie constitutionnelle. Suite au refus du roi, le Tiers-Etat s'auto proclame Assemblée nationale constituante
