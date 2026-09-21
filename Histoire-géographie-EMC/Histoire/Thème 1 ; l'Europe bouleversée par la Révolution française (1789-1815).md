@@ -43,5 +43,8 @@ La société française se sépare en 3 ordres :
 	- Richesses : Riches (évêques)
 
 - Noblesse :
+	-  Privilégiés : ne payent pas les impôts
 	- 1,5 % de la population
-	- Richesse
+	- Richesse : Riches
+
+	
