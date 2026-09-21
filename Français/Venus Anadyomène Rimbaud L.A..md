@@ -76,3 +76,6 @@
 - Conclusion :
 	- BILAN : Rimbaud joue avec les références mythologique et met à mal le topos de la Vénus qui renverse les codes et les tradition. On perçoit le côté insolant et provocateur de Rimbaud qui ne respecte pas la vénus et emploit même des mots vulgaires/grossier.
 	- OUVERTURE : Le poème de Rimbaud peut nous faire penser au tableau *La naissance de Vénus* de Botticelli et ce grâce à plusieurs facteurs : 
+		- Les deux parlent du mythe de Vénus
+		- Les deux ont pour sujet la mythologie
+	- Cependant on constate une énorme différence : la Vénus de Botticelli est attrayante et belle, en opposition totale à celle de 
