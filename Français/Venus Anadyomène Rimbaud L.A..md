@@ -66,4 +66,5 @@
 	- > Animalisation, antéposition, rythme binaire
 		- > L'animalisation vise à rabaisser et humilier le personnage. L'antéposition montre un corps disgracieux tandis que le rythme binaire rend le personnage encore plus ridicule en lui faisant faire une sorte de danse sensuelle ce qui donne un rendu grotesque accentué par l'animalisation.
 
-- 
+- "Belle hideusement, d'un ulcère à l'anus"(v.14)
+	- 
