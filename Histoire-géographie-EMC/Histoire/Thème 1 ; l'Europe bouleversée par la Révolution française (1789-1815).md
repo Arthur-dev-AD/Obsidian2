@@ -75,4 +75,6 @@ Les Français sont profondément attachés au roi mais demandent de grand change
 
 ### 1) L'ouverture des Etats généraux à Versailles le 5 mai
 
-### 2) La proclamation de l'Assemblée nationnale constituante
+### 2) La proclamation de l'Assemblée nationale constituante
+
+Les députés du Tiers-Etat demandent la fin de la monarchie absolue et la rédaction d'une constitution donc une 
