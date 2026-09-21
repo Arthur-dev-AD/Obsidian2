@@ -17,4 +17,5 @@ En Grande Bretagne, la monarchie absolue a disparu au Moyen-Age. Il y a un premi
 
 Le pouvoir se divise en 3 types :
 - **Le pouvoir législatif** : Il fait les lois
-- **Le pouvoir executif** 
+- **Le pouvoir exécutif** : Il fait appliquer les lois
+- **Le pouvoir judiciaire** : Il rend justice
