@@ -30,3 +30,7 @@ Maintenant, revenons en 1776
 La noblesse demande une monarchie parlementaire (plus de pouvoir)
 La révolution américaine (1776-1787) (Guerre d'indépendance des Etats-Unis contre les britaniques)
 
+La société française se sépare en 3 ordres :
+- Clergé
+- Noblesse
+- Tiers-Etat
