@@ -65,3 +65,5 @@ Les déficits budgétaires du pays sont en majorité dues à la guerre d'indépe
 ### E) La préparation des Etats généraux
 
 En mai 1789, le roi convoque les Etats-Généraux (plus réuni depuis 1641) afin de trouver une solution à la crise financière du Royaume. Il consiste en des députés des trois ordre.
+
+De février à mai 1789, des élections se déroulent pour déterminer les députés 
