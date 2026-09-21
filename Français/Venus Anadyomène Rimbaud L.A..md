@@ -60,4 +60,4 @@
 
 - "Les reins portent 2 mots gravés" (v.12)
 	- >Métaphore, "mots" à la césure, réification
-		- >Rimbaud associe le personnage à une statue antique, cela est ironique étant donnée qu'à la base, une statue antique est belle et gracieuse contrairement à cette vénus.
+		- >Rimbaud associe le personnage à une statue antique, cela est ironique étant donnée qu'à la base, une statue antique est belle et gracieuse contrairement à cette vénus. 
