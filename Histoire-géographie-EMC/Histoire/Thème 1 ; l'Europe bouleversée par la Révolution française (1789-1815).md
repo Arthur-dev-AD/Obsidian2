@@ -64,4 +64,4 @@ Les déficits budgétaires du pays sont en majorité dues à la guerre d'indépe
 
 ### E) La préparation des Etats généraux
 
-En mai 1789, le roi convoque les Etats-Généraux (plus réunni depuis 1644)
+En mai 1789, le roi convoque les Etats-Généraux (plus réuni depuis 1641) afin de trouver une solution à la crise 
