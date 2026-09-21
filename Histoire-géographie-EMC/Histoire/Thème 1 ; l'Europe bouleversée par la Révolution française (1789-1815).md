@@ -63,3 +63,5 @@ Une météo désastreuse, une sécheresse, des pluies diluviennes, de la grêle 
 Les déficits budgétaires du pays sont en majorité dues à la guerre d'indépendance des Etats-Unis ayant été financée par la France. 
 
 ### E) La préparation des Etats généraux
+
+En mai 1789, le roi convoque les Etats-Généraux (plus réunni depuis 1644)
