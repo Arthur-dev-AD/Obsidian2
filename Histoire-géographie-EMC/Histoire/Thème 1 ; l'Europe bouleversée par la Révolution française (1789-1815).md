@@ -95,4 +95,6 @@ Le 14 juillet 1789 , les parisiens envahissent la Bastille, symbole important du
 ### Fin de l'ancien régime
 
 
-## C) 
+## C) La fin de l'absolutisme et des privilèges.
+
+La révolution a aboutie 
