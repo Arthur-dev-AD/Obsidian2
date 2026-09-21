@@ -20,4 +20,4 @@ Le pouvoir se divise en 3 types :
 - **Le pouvoir exécutif** : Il fait appliquer les lois
 - **Le pouvoir judiciaire** : Il rend justice
 
-De nos jours 
+De nos jours ces 
