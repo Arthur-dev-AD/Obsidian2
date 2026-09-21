@@ -28,4 +28,4 @@ De nos jours ces pouvoirs sont séparés ainsi :
 Maintenant, revenons en 1776
 
 La noblesse demande une monarchie parlementaire (plus de pouvoir)
-La révolution américaine (1776)
+La révolution américaine (1776-1787)
