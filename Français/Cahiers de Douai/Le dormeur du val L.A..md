@@ -1,2 +1,2 @@
 #### Introduction
-Le symbolisme est un mouvement litérraire de la seconde moitiée du XIXème siècle. Il encourage les artistes à exprimer leurs idées, sentiments et valeurs au moyen de symbole plutôt qu'explicitement. Il défend l'idée que la poésie ne doit pas se contenter de peindre les apparences 
+Le symbolisme est un mouvement littéraire de la seconde moitié du XIXème siècle. Il encourage les artistes à exprimer leurs idées, sentiments et valeurs au moyen de symbole plutôt qu'explicitement. Il défend l'idée que la poésie ne doit pas se contenter de peindre les apparences 
