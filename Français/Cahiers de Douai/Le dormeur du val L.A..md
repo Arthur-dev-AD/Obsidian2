@@ -8,6 +8,6 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Le dormeur du val"
 	- > Groupe nominal
-		- > Une nature semblant acceuillante et paisible car on peut y faire la sieste comme l'annonce le titre.
+		- > Une nature semblant accueillante et paisible car on peut y faire la sieste comme l'annonce le titre.
 
 - "C'est un trou de verdure"(v.1)
