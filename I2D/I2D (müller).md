@@ -149,5 +149,5 @@ PE = 120 x 735 = 88 200 W
 
 - Rendement des composants individuels
 	1. Moteur thermique : 0,75
-	2. Boite de vitesse automatique : 0, 
+	2. Boite de vitesse automatique : 0, 8
 	3. Roues et cardon  : A CALCULER 
