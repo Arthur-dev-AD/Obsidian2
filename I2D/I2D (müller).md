@@ -167,3 +167,12 @@ PE = 120 x 735 = 88 200 W
 ![[Diagramme PEPG2.svg]]
 (ou voir Diagramme PEPS 2.svg sur github)
 
+#### Calculs additionnels
+
+Ω = (2 x π x N) / 60 = (2 x π x 4500) / 60 = 150π
+
+C = P/Ω = 6615 / 150π = 14 N.m
+
+V = (60x1000)/3600 = 60/3,6 = 16,7 m/s
+
+F = P/V =  1984/16,7 = 118 N
