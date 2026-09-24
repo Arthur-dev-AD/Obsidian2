@@ -162,4 +162,5 @@ PE = 120 x 735 = 88 200 W
 
 - Calcul du rendement des roues + cardon
 	- Rendement = PS / PI2 = 35280 / 52920 = 0,67
-	- Pertes = PI2 - PS = 52920 - 1984,5 = 694,57 W
+	- Pertes = PI2 - PS = 52920 - 35280 = 17 640 W
+
