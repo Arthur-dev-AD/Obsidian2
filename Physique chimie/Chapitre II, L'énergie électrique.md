@@ -4,7 +4,7 @@
 
 | Grandeur              | Unité       | Symbole | Appareil de mesure |
 | --------------------- | ----------- | ------- | ------------------ |
-| Tension électrique    | Volts(V)    | U       | Voltmètre          |
+| Tension électrique    | Volts (V)   | U       | Voltmètre          |
 | Intensité  électrique | Ampères (A) | I       | Ampèremètre        |
-| Résistance            |             |         |                    |
-|                       |             |         |                    |
+| Résistance            | Ohm (Ω)     | R       | Ohmmètre           |
+| Puissance             | Watt (W)    | P       | Wattmètre          |
