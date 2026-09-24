@@ -129,4 +129,6 @@ F = P/V =  1984/16,7 = 118 N
 
 Renault capture 120 TCE.
 
-Puissance 120 chevau
+Puissance 120 chevaux 
+Tours / min : 4200
+
