@@ -139,5 +139,5 @@ PE = 120x735 = 88 200 W
 		   = 88, 2kW
 
  Calcul de la puissance de sortie : ==PS = PE x Rendement== 
-	- PS = 6615 x 0,3 = 1984,5 W
+	- PS = 88200 x 0,4 = 1984,5 W
 
