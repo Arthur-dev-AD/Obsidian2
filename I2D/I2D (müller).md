@@ -166,3 +166,4 @@ PE = 120 x 735 = 88 200 W
 
 ![[Diagramme PEPG2.svg]]
 (ou voir Diagramme PEPS 2.svg sur github)
+
