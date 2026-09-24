@@ -10,5 +10,7 @@ tags:
 **user**: Fais moi des recherches pour le Renault capture 120 TCE
 [Timestamp: 2026/09/24 13:09:35]
 
-**ai**: 
+**ai**: Je vois le contexte : votre note [[I2D (müller)]] se termine par « Exemple 2 : Renault Captur 120 TCE » — vous avez sans doute besoin des mêmes données techniques que pour la 2CV (puissance, cylindrée, couple, vitesse, consommation, cycle de vie). Je lance les recherches.
+
+
 [Timestamp: 2026/09/24 13:09:35]
