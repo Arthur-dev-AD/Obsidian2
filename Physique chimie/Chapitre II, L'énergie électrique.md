@@ -9,4 +9,4 @@
 | Puissance             | Watt (W)    | P       | Wattmètre          |
 ### 2) Symboles électriques
 
-Non donnable... par ce médium
+Non donnable par ce médium...
