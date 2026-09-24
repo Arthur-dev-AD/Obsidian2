@@ -131,7 +131,7 @@ F = P/V =  1984/16,7 = 118 N
 #### Données
 - Puissance 120 chevaux 
 - Tours / min : 4900
-- Rendement moteur 40 %
+- Rendement 40 %
 
 #### Calculs
 calcul de puissance d'entrée ; PE = 120CV
