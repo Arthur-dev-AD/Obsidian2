@@ -155,3 +155,7 @@ PE = 120 x 735 = 88 200 W
  - Calculs moteur thermique
 	- Calcul de PI1 : PE x Rendement moteur thermique = 88200 x 0,75 =  66 150 W
 	- Calcul des pertes : PE - PI1 = 88200 - 66150 = 22 050 W
+
+- Calcul boîte de vitesse
+	- PI2 = PI1 x Rendement de la boîte de vitesse = 2976 x 0,9 = 2 679,075 W
+	- Pertes = PI1 - PI2 = 2976,75 - 2679,075 = 297,675 W
