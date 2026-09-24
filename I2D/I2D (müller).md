@@ -131,4 +131,4 @@ Renault capture 120 TCE.
 
 Puissance 120 chevaux 
 Tours / min : 4200
-
+Rendement moteur 40 %
