@@ -143,3 +143,6 @@ PE = 120 x 735 = 88 200 W
 
 Calcul  rendement global : ==Rendement global = PS / PE==
 	- Rendement global = 35 280 / 88 200 = 0,4
+
+- Calcul des pertes : ==Pertes = PE - PS==
+	-  Pertes = 6615 - 1984,5 = 4630, 5
