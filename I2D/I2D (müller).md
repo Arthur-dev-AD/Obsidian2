@@ -154,4 +154,4 @@ PE = 120 x 735 = 88 200 W
 
  - Calculs moteur thermique
 	- Calcul de PI1 : PE x Rendement moteur thermique = 88200 x 0,75 =  66 150 W
-	- Calcul des pertes : PE - PI1 = 88200 - 66150 = 3 638,25 W
+	- Calcul des pertes : PE - PI1 = 88200 - 66150 = 22 050 W
