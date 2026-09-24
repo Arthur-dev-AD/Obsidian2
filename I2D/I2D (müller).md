@@ -141,3 +141,5 @@ PE = 120 x 735 = 88 200 W
  Calcul de la puissance de sortie : ==PS = PE x Rendement== 
 	- PS = 88200 x 0,4 = 35 280 W
 
+Calcul  rendement global : ==Rendement global = PS / PE==
+	- Rendement global = 1984,5 / 6615 = 0,3
