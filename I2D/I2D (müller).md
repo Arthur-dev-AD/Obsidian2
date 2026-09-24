@@ -164,3 +164,4 @@ PE = 120 x 735 = 88 200 W
 	- Rendement = PS / PI2 = 35280 / 52920 = 0,67
 	- Pertes = PI2 - PS = 52920 - 35280 = 17 640 W
 
+![[Diagram.svg]]
