@@ -158,4 +158,4 @@ PE = 120 x 735 = 88 200 W
 
 - Calcul boîte de vitesse
 	- PI2 = PI1 x Rendement de la boîte de vitesse = 66150 x 0,8 = 52 920 W
-	- Pertes = PI1 - PI2 = 2976,75 - 2679,075 = 297,675 W
+	- Pertes = PI1 - PI2 = 66150 - 52 920 = 297,675 W
