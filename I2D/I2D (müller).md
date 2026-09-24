@@ -132,3 +132,5 @@ F = P/V =  1984/16,7 = 118 N
 - Puissance 120 chevaux 
 - Tours / min : 4200
 - Rendement moteur 40 %
+
+#### Calculs
