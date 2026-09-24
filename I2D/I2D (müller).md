@@ -146,3 +146,8 @@ PE = 120 x 735 = 88 200 W
 
 - Calcul des pertes : ==Pertes = PE - PS==
 	-  Pertes = 88 200 - 35 280 = 52 920 W
+
+- Rendement des composants individuels
+	1. Moteur thermique : 0,4
+	2. Boite de vitesse : 0,9
+	3. Roues et cardon  : A CALCULER 
