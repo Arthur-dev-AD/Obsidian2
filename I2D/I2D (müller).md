@@ -134,3 +134,6 @@ F = P/V =  1984/16,7 = 118 N
 - Rendement moteur 40 %
 
 #### Calculs
+calcul de puissance d'entrée ; PE = 9CV
+PE = 120x735 = 6615 W
+		   = 6,615kW
