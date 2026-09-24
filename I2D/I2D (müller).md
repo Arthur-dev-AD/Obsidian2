@@ -135,5 +135,7 @@ F = P/V =  1984/16,7 = 118 N
 
 #### Calculs
 calcul de puissance d'entrée ; PE = 120CV
-PE = 120x735 = 6615 W
-		   = 6,615kW
+PE = 120x735 = 88 200 W
+		   = 88, 2kW
+
+
