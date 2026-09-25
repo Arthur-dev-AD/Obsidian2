@@ -175,4 +175,7 @@ C = P/Ω = 88 200 / 513.12 = 171.89 N.m
 
 V = 192 / 3,6 = 53,3 m/s
 
-F = P/V =  88200 / 53,3 = 1655 N
+F = P/V =  88200 / 53,3 = 1655 
+
+
+Le rendement le plus faible est le cardan + les roues. Il faudrait les remplacer
