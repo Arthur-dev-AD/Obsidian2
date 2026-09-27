@@ -11,3 +11,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 		- > Une nature semblant accueillante et paisible car on peut y faire la sieste comme l'annonce le titre.
 
 - "C'est un trou de verdure"(v.1)
+	- >
