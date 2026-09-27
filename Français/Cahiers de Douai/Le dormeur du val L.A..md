@@ -12,4 +12,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "C'est un trou de verdure"(v.1)
 	- >Présentatif, "verdure" à la césure
-		- > C'est un lieu qui parait paisible, chaleureux, préservé, réconfortant. La nature semble bien agréable. Mais on se rend compte que Rimbaud 
+		- > C'est un lieu qui parait paisible, chaleureux, préservé, réconfortant. La nature semble bien agréable. Mais on se rend compte que Rimbaud prépare dès le premier vers, la chute 
