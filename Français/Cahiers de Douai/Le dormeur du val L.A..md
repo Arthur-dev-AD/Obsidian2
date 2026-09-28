@@ -56,4 +56,5 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 	- >Comparaison, diérèse, isolexisme
 		- > Par la diérèse et l'isolexisme continue de tromper le lecteur et cultive un ambiguité
 
-- "Il fait un somme"
+- "Il fait un somme"(v.10)
+	- >
