@@ -98,3 +98,10 @@ Le 14 juillet 1789 , les parisiens envahissent la Bastille, symbole important du
 ## C) La fin de l'absolutisme et des privilèges.
 
 La révolution a aboutie. On voit apparaitre une forme d'égalitée.
+
+
+## ==Olympe de Gouges==
+
+
+Qui ?
+Quoi ?
