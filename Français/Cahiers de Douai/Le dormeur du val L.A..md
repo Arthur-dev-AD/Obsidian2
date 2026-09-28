@@ -23,4 +23,5 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 		- >Le rejet accentue la métaphore. Le mouvement de la rivière met en relief "argent", nature à caractère précieux, brillante et lumineuse . On retrouve une éloge de la nature. La césure montre une nature dynamique et donne un environnement sonore agréable. La nature offre un joli spectacle
 
 - "où le soleil de la montagne fière, luit"(v.3-4)
-	- >rejet, personnification, "soleil" à la césure, champ lexical de
+	- >rejet, personnification, "soleil" à la césure, champ lexical de la lumière
+		- >Pleins de grandeur, de 
