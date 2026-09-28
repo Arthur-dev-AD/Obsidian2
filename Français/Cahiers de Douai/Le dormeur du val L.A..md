@@ -32,4 +32,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 **Phrase de conclusion** : La nature est parfaitement idilique (idéale)
 
-Phrase de transition
+**Phrase de transition** : 
