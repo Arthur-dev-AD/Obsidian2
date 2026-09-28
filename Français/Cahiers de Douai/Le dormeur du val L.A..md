@@ -48,4 +48,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 	- >Champ lexical de la nature et des couleurs, métaphore, "vert" à la césure
 		- > Les champs lexicaux montrent une nature très colorée et présentent autour du jeune homme. Un indice permet un doute : "Pâle". Est-il mort, est il juste dormant ? Le lit vert est une métaphore pour dire qu'il est dans un cercueil. Le soldat apparait comme un ange notamment démontré par la métaphore de la lumière.
 
-- "Les pieds dans les gla"
+- "Les pieds dans les glaïeuls "
