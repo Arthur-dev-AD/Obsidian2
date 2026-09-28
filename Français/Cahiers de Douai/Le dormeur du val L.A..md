@@ -20,4 +20,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Accrochant follement aux herbes des haillons d'argent"(v.2-3)
 	- > Métaphore, "follement à la césure, rejet"
-		- >Le rejet accentue 
+		- >Le rejet accentue  
