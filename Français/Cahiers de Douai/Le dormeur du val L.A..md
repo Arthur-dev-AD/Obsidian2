@@ -42,4 +42,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Dort; il est étendu dans l'herbe sous la nue"(v.7)
 	- >"étendu" à la césure, isolexisme, rejet
-		- >Manipulation du lecteur grâce à l'isolexisme pour faire croire à un homme ensommeillé. Le rejet est bien un faux indice
+		- >Manipulation du lecteur grâce à l'isolexisme pour faire croire à un homme ensommeillé. Le rejet est bien un faux indice. La césure montre un nue
