@@ -62,4 +62,8 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Nature, berce le chaudement"(v.11)
 	- >personnification, apostrophe
-		- > La nature est présentée comme un mère protectrice
+		- > La nature est présentée comme un mère protectrice, rassurante et réconfortante.
+
+- "Il a froid"(v.11)
+	- >Antithèse
+		- > L'antithèse opose 
