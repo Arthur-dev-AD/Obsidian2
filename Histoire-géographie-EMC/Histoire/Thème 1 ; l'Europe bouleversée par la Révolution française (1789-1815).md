@@ -104,4 +104,8 @@ La révolution a aboutie. On voit apparaitre une forme d'égalité.
 
 
 Qui ? écrivaine/ Auteure / Ecrivaine
-Quoi ? Contre l'ésclavage / Pour les droits des femmes, revendique l'égalitée absolue entre les femmes et les hommes. Guillotinée 
+Quoi ? Contre l'ésclavage / Pour les droits des femmes, revendique l'égalitée absolue entre les femmes et les hommes. Guillotinée sur l'ordre de Robespierre. Elle s'est battue pour l'égalité dans une société patriarcale. C'est une des premières féministes
+
+5 octobre 1789 : c'est l'entrée des femmes dans la révolution.
+
+Elles prennent d'assaut le chateau de Versaille pour rammener le roi, la reine et le dauphin à paris afin de les garder sous surveillance
