@@ -60,3 +60,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 	- >champ lexical du sommeil
 		- > Le champ lexical du sommeil + le mot enfant à la césure renforce la manipulation pour nous faire croire qu'il dort , le terme enfant relève la jeunesse du personnage
 
+- "Nature, berce le chaudement"(v.11)
