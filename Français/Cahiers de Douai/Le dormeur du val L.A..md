@@ -54,7 +54,7 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Souriant comme sourirait un enfant malade"(v.10)
 	- >Comparaison, diérèse, isolexisme
-		- > Par la diérèse et l'isolexisme continue de tromper le lecteur et cultive un ambiguité
+		- > Par la diérèse et l'isolexisme continue de tromper le lecteur et cultive un ambiguïté
 
 - "Il fait un somme"(v.10)
 	- >champ lexical du sommeil
