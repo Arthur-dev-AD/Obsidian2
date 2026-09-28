@@ -16,4 +16,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Où chante une rivière"(v.1)
 	- > Personification, rime suffisante
-		- > Nature joyeuse, pleine de vie , de bruit. La présence 
+		- > Nature joyeuse, pleine de vie , de bruit. La présence de rime suffisantes témoignent 
