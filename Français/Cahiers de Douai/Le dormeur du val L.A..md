@@ -58,4 +58,5 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Il fait un somme"(v.10)
 	- >champ lexical du sommeil
-		- > Le champ lexical du sommeil + le mot enfant à la césure renforce la manipulation pour nous faire croire qu'il dort 
+		- > Le champ lexical du sommeil + le mot enfant à la césure renforce la manipulation pour nous faire croire qu'il dort , le terme enfant relève la jeunesse du personnage
+
