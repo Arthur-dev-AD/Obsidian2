@@ -50,4 +50,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Les pieds dans les glaïeuls, il dort"(v.9)
 	- >Mise en relief d'une nature chatoyante
-		- >
+		- > La nature est pleine de gaieté. Rimbaud continue à préparer la chute. 
