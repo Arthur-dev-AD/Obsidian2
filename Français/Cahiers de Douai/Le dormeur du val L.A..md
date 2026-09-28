@@ -50,4 +50,7 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Les pieds dans les glaïeuls, il dort"(v.9)
 	- >Mise en relief d'une nature chatoyante
-		- > La nature est pleine de gaieté. Rimbaud continue à préparer la chute. 
+		- > La nature est pleine de gaieté. Rimbaud continue à préparer la chute. Avec une seconde lecture, on comprend que les glaïeuls représentent les fleurs de tombe.
+
+- "Souriant comme sourirait un enfant malade"(v.10)
+	- >Comparaisaon, dyérese, isolexisme
