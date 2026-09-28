@@ -41,4 +41,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 		- >Une description détaillé montre notre personnage en relief. Tous les éléments nous montrent qu'il est dans un sommeil profond, serein, détendu, bercé par la nature environnante. Le personnage et cette nature sont en harmonie comme le présente la deuxième partie du vers.
 
 - "Dort; il est étendu dans l'herbe sous la nue"(v.7)
-	- >
+	- >"étendu" à la césure, isolexisme, rejet
