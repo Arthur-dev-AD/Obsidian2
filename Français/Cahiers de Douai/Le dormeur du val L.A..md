@@ -45,3 +45,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 		- >Manipulation du lecteur grâce à l'isolexisme pour faire croire à un homme ensommeillé. Le rejet est bien un faux indice. La césure montre un sentiment de bien être. La précision sous la nue et la rime indiquent que le personnage est protégé par le ciel.
 
 - "Pâle dans son lit vert où la lumière pleut"(v.8)
+	- >Champ lexical de la nature 
