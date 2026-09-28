@@ -20,4 +20,6 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Accrochant follement aux herbes des haillons d'argent"(v.2-3)
 	- > Métaphore, "follement à la césure, rejet"
-		- >Le rejet accentue la métaphore. Le mouvement de la rivière met en relief "argent", nature à caractère précieux, brillante et lumineuse . On retrouve une éloge de la nature. La césure montre une nature dynamique et donne un environnement 
+		- >Le rejet accentue la métaphore. Le mouvement de la rivière met en relief "argent", nature à caractère précieux, brillante et lumineuse . On retrouve une éloge de la nature. La césure montre une nature dynamique et donne un environnement sonore agréable. La nature offre un joli spectacle
+
+- 
