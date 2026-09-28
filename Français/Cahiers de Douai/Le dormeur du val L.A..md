@@ -27,4 +27,5 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 		- >Pleins de grandeur, de me majesté, lieu lumineux, chaleureux.
 
 - "C'est un petit val qui mousse de rayon"(v.4)
-	- > Présentatif, phénomène d'écho, "Val" à la 
+	- > Présentatif, phénomène d'écho, "Val" à la césure, métaphore
+		- >
