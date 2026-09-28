@@ -28,4 +28,8 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "C'est un petit val qui mousse de rayon"(v.4)
 	- > Présentatif, phénomène d'écho, "Val" à la césure, métaphore
-		- >Lieu paraissant parfaitement idéal, intime et donne une dimension affective et agréable. Le présentatif montre que ce n'est pas un lieu ordinaire contrairement 
+		- >Lieu paraissant parfaitement idéal, intime et donne une dimension affective et agréable. Le présentatif montre que ce n'est pas un lieu ordinaire contrairement à ce que fait penser la métaphore. C'est un lieu lumineux, réconfortant.
+
+Phrase de conclusion : La nature est parfaitement idilique (idéale)
+
+Phrase de transition
