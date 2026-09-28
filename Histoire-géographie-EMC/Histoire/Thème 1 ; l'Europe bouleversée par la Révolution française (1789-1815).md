@@ -97,11 +97,11 @@ Le 14 juillet 1789 , les parisiens envahissent la Bastille, symbole important du
 
 ## C) La fin de l'absolutisme et des privilèges.
 
-La révolution a aboutie. On voit apparaitre une forme d'égalitée.
+La révolution a aboutie. On voit apparaitre une forme d'égalité.
 
 
 ## ==Olympe de Gouges==
 
 
-Qui ?
-Quoi ?
+Qui ? écrivaine/ Auteure / Ecrivaine
+Quoi ? Contre l'ésclavage / Pour les droits des femmes, revendique l'égalitée absolue entre les femmes et les hommes. Guillotinée 
