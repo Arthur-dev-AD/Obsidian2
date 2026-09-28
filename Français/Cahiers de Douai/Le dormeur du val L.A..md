@@ -57,4 +57,5 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 		- > Par la diérèse et l'isolexisme continue de tromper le lecteur et cultive un ambiguité
 
 - "Il fait un somme"(v.10)
-	- >
+	- >champ lexical du sommeil
+		- > Le champ lexical du sommeil + le mot enfant à la césure 
