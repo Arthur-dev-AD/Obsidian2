@@ -26,4 +26,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 	- >rejet, personnification, "soleil" à la césure, champ lexical de la lumière
 		- >Pleins de grandeur, de me majesté, lieu lumineux, chaleureux.
 
-- "C'est un peti"
+- "C'est un petit val qui mousse de rayon"
