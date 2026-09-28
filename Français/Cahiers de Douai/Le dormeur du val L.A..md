@@ -38,4 +38,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Un soldat jeune, bouche ouverte, tête nue et la nuque baignant dans le frais cressons bleu"(v.5)
 	- >Champ lexical du corps, énumération ,rythme quaternaire
-		- >Une description détaillé montre notre personnage en relief, 
+		- >Une description détaillé montre notre personnage en relief. Tout 
