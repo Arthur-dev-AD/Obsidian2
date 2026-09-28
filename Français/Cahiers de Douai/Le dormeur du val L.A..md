@@ -38,4 +38,6 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Un soldat jeune, bouche ouverte, tête nue et la nuque baignant dans le frais cressons bleu"(v.5)
 	- >Champ lexical du corps, énumération ,rythme quaternaire
-		- >Une description détaillé montre notre personnage en relief. Tous les éléments nous montrent qu'il est dans un sommeil profond, serein, détendu, bercé par la nature environnante. Le personnage et cette nature sont en harmonie comme le présente la deuxième partie du vers
+		- >Une description détaillé montre notre personnage en relief. Tous les éléments nous montrent qu'il est dans un sommeil profond, serein, détendu, bercé par la nature environnante. Le personnage et cette nature sont en harmonie comme le présente la deuxième partie du vers.
+
+- "Dort; il est étendu dans l'herbe sous la nue"
