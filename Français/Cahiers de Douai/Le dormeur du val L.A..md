@@ -15,7 +15,7 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 		- > C'est un lieu qui parait paisible, chaleureux, préservé, réconfortant. La nature semble bien agréable. Mais on se rend compte que Rimbaud prépare dès le premier vers, la chute car le trou est une métaphore d'une tombe. Le présentatif est là pour introduire la description du lieu.
 
 - "Où chante une rivière"(v.1)
-	- > Personification, rime suffisante
+	- > Personnification, rime suffisante
 		- > Nature joyeuse, pleine de vie , de bruit. La présence de rime suffisantes témoignent d'un environnement plein de noblesse et de charme.
 
 - "Accrochant follement aux herbes des haillons d'argent"
