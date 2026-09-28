@@ -53,4 +53,7 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 		- > La nature est pleine de gaieté. Rimbaud continue à préparer la chute. Avec une seconde lecture, on comprend que les glaïeuls représentent les fleurs de tombe.
 
 - "Souriant comme sourirait un enfant malade"(v.10)
-	- >Comparaisaon, dyérese, isolexisme
+	- >Comparaison, diérèse, isolexisme
+		- > Par la diérèse et l'isolexisme continue de tromper le lecteur et cultive un ambiguité
+
+- 
