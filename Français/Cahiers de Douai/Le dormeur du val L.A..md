@@ -30,9 +30,9 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 	- > Présentatif, phénomène d'écho, "Val" à la césure, métaphore
 		- >Lieu paraissant parfaitement idéal, intime et donne une dimension affective et agréable. Le présentatif montre que ce n'est pas un lieu ordinaire contrairement à ce que fait penser la métaphore. C'est un lieu lumineux, réconfortant.
 
-**Phrase de conclusion** : La nature est parfaitement idilique. (idéale)
+**Phrase de conclusion** : La nature est parfaitement idyllique. (idéale)
 
-**Phrase de transition** : ==Maintenant== découvrons la déscription du soldat.
+**Phrase de transition** : ==Maintenant== découvrons la description du soldat.
 
 **Phrase introductrice** : Dans ce second mouvement, découvrons la description du jeune home
 
