@@ -108,4 +108,4 @@ Quoi ? Contre l'ésclavage / Pour les droits des femmes, revendique l'égalitée
 
 5 octobre 1789 : c'est l'entrée des femmes dans la révolution.
 
-Elles prennent d'assaut le château de Versailles pour ramener le roi, la reine et le dauphin à paris afin de les garder sous surveillance
+Elles prennent d'assaut le château de Versailles pour ramener le roi, la reine et le dauphin à paris afin de les garder sous surveillance au château des Tuileries
