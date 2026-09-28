@@ -37,4 +37,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 **Phrase introductrice** : Dans ce second mouvement, découvrons la description du jeune home
 
 - "Un soldat jeune, bouche ouverte, tête nue et la nuque baignant dans le frais cressons bleu"(v.5)
-	- >
+	- >Champ lexical du corps, énumération 
