@@ -66,4 +66,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Il a froid"(v.11)
 	- >Antithèse
-		- > L'antithèse oppose une nature chaude, acceuillante et le personnage 
+		- > L'antithèse oppose une nature chaude, accueillante et le personnage, vide et froid
