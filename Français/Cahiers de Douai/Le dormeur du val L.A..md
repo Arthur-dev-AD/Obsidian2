@@ -24,4 +24,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "où le soleil de la montagne fière, luit"(v.3-4)
 	- >rejet, personnification, "soleil" à la césure, champ lexical de la lumière
-		- >Pleins de grandeur, de 
+		- >Pleins de grandeur, de m
