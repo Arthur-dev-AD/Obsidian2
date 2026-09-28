@@ -46,4 +46,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Pâle dans son lit vert où la lumière pleut"(v.8)
 	- >Champ lexical de la nature et des couleurs, métaphore, "vert" à la césure
-		- > Les champs lexicaux montrent une nature très colorée et présentent autour du jeune homme. Un indice permet un doute 
+		- > Les champs lexicaux montrent une nature très colorée et présentent autour du jeune homme. Un indice permet un doute : "Pâle"
