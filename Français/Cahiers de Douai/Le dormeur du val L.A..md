@@ -42,3 +42,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Dort; il est étendu dans l'herbe sous la nue"(v.7)
 	- >"étendu" à la césure, isolexisme, rejet
+		- >Manipulation du lecteur 
