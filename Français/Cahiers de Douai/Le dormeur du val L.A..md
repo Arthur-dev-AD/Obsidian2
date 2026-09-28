@@ -34,4 +34,6 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 **Phrase de transition** : ==Maintenant== découvrons la déscription du soldat.
 
-**
+**Phrase introductrice** : Dans ce second mouvement, découvrons la description du jeune home
+
+- "Dort : il est étendu "
