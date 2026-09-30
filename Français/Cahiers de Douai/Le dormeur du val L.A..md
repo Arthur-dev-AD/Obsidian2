@@ -80,4 +80,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 	- >Métaphore, "Soleil" à la césure
 		- >Par la métaphore, on comprend que le soldat a déjà rejoint les cieux et la césure nous fait comprendre qu'il est devenu un ange
 
-- 
+- "La main sur la poitrine, Tranquille"
