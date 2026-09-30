@@ -82,3 +82,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "La main sur la poitrine, Tranquille"(v.13-14)
 	- >rejet, rime riche, mise en apposition
+		- >Les rimes riches 
