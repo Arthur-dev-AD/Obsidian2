@@ -86,4 +86,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Il a deux trous rouges au côté droit"(v. 14)
 	- >Allitération en /r/, phrase brève, "trous" à la césure, rythme binaire
-		- >La césure montre la violence de la guerre. Le rythme binaire binaire témoigne du fait que le personnage n'avait aucune chance de survie. La brièveté accentue l'effet de surprise et la chute. L'allitération
+		- >La césure montre la violence de la guerre. Le rythme binaire binaire témoigne du fait que le personnage n'avait aucune chance de survie. La brièveté accentue l'effet de surprise et la chute. L'allitération souligne 
