@@ -73,4 +73,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 - Cependant, plusieurs détails annoncent quelque chose de plus inquiétant.
 
 - "Les parfums ne font pas frissonner sa narine"(v.12)
-	- >alitération en /r/ 
+	- >allitération en /r/, 
