@@ -70,4 +70,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - Ainsi, Rimbaud continue à présenter le soldat comme endormit.
 
-- Cependant, plusieurs détails annoncent quelque chose de 
+- Cependant, plusieurs détails annoncent quelque chose de plus inquiétant
