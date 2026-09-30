@@ -86,4 +86,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Il a deux trous rouges au côté droit"(v. 14)
 	- >Allitération en /r/, phrase brève, "trous" à la césure, rythme binaire
-		- >La césure montre la violence de la guerre. Le rythme binaire binaire 
+		- >La césure montre la violence de la guerre. Le rythme binaire binaire témoign
