@@ -74,4 +74,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Les parfums ne font pas frissonner sa narine"(v.12)
 	- >allitération en /r/, "pas" à la césure.
-		- > La négation à la césure nous permet de comprendre que le jeune soldat est mort, ce que l'allitération amplif
+		- > La négation à la césure nous permet de comprendre que le jeune soldat est mort, ce que l'allitération amplifie. 
