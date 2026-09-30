@@ -69,3 +69,5 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 		- > L'antithèse oppose une nature chaude, accueillante et le personnage, vide et froid.
 
 - Ainsi, Rimbaud continue à présenter le soldat comme endormit.
+
+- Cependant 
