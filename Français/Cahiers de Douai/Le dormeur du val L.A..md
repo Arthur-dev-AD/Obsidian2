@@ -72,4 +72,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - Cependant, plusieurs détails annoncent quelque chose de plus inquiétant.
 
-- "Les parfums ne font "
+- "Les parfums ne font pas frissoner sa narine"
