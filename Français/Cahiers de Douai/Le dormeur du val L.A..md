@@ -85,5 +85,5 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 		- >Les rimes riches mettent en relief le fait que plusieurs organes vitaux sont désormais mis au repos forcé et pendant un temps éternel au sein du jeune homme. Le rejet et l'apposition insistent sur le repos éternel du personnage et l'apposition.
 
 - "Il a deux trous rouges au côté droit"(v. 14)
-	- >Allitération en /r/, phrase brève, "trous" à la césure
-		- >La césure 
+	- >Allitération en /r/, phrase brève, "trous" à la césure, rythme binaire
+		- >La césure montre la violence de la guerre. Le rythme binaire
