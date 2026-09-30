@@ -73,5 +73,5 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 - Cependant, plusieurs détails annoncent quelque chose de plus inquiétant.
 
 - "Les parfums ne font pas frissonner sa narine"(v.12)
-	- >allitération en /r/, "pas" à la  césure.
-		- > 
+	- >allitération en /r/, "pas" à la césure.
+		- > La négation à la césure 
