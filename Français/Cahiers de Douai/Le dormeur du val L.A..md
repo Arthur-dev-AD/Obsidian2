@@ -78,4 +78,6 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 - "Il dort dans le soleil"(v.13)
 	- >Métaphore, "Soleil" à la césure
-		- >
+		- >Par la métaphore, on comprend que le soldat a déjà rejoint les cieux et la césure nous fait comprendre qu'il est devenu un ange
+
+- 
