@@ -201,4 +201,5 @@ Un schéma cinématique est une représentation graphique simplifiée d'un plan 
 | Z   | TZ  | RZ  |
 2. Surfaces élémentaires
 
-	Il existe en mécanique 3 surfaces élémentaire.
+	Il existe en mécanique 3 surfaces élémentaire :
+	- Le cylindre
