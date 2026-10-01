@@ -237,4 +237,4 @@ Pourquoi faire ça ? Parce que ça retire la complications inutile. Quand tu veu
 4. Liaison mécaniques complémentaire
 	- Liaison encastrement (soudure pas de DDL)
 	- Liaison pivot (une rotation mais pas de translation)
-	- Liaison hélicoïdale (principe de vis-écrou, 2 DDL )
+	- Liaison hélicoïdale (principe de vis-écrou, 2 DDL : un de R et un de Translation perpendiculaire )
