@@ -189,3 +189,6 @@ Un schéma cinématique est une représentation graphique simplifiée d'un plan 
 
 1. Notion de repérage
 
+T : translation
+R : rotation
+
