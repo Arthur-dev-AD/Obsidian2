@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_f08e21770ffeoWP7r3g20o6fLi"
 agentLabel: "Comprendre les liaisons mécaniques"
-usage: '{"usedTokens":16964,"contextWindow":200000,"updatedAt":1790854435948}'
+usage: '{"usedTokens":18756,"contextWindow":200000,"updatedAt":1790855169782}'
 tags:
   - copilot-conversation
 ---
@@ -113,5 +113,11 @@ Le reste est exact :
 - **Encastrement** → 0 DDL, la pièce est soudée, plus rien ne bouge
 - **Pivot** → 1 DDL, une rotation, c'est bonLe lien avec la section précédente est aussi bon : les liaisons complémentaires de la section 4 sont celles qui se définissent autrement qu'à partir d'une surface élémentaire, ou qui combinent plusieurs liaisons élémentaires.
 
-Je te propose de réécrire le bloc comme ça, avec les précisions :
+Je te propose de réécrire le bloc comme ça, avec les précisions :J'ai corrigé et complété la section dans `I2D (müller).md` :
+
+- **Hélicoïdale** : remplacé « perpendiculaire l'un à l'autre » par « couplées » avec un callout d'avertissement, parce que c'est exactement le piège de cette liaison
+- **Encastrement, pivot, glissière** : ajoutés de la ligne DDL pour être cohérent avec ton tableau, et un exemple concret de la 2CV pour chacun
+- **Ajouté** la formule du DDL total en fin de section, celle qui servant presque toujours ensuite
+
+Une chose que j'ai écrite sans pouvoir la vérifier : la liaison glissière compte1 DDL, mais dans la nomenclature du cours de méca classique elle se note souvent 2 DDL (la translation sur l'axe, plus la rotation libre autour de l'axe, non contrariée). C'est une convention qui change selon les profs. Si ton cours dit2, change le chiffre — la logique reste la même.
 [Timestamp: 2026/10/01 13:45:41]
