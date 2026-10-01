@@ -256,4 +256,4 @@ Ce qui revient à dire : **6 DDL par pièce, moins ce que chaque liaison interdi
 Il existe 3 types de contact : 
 - **Contact ponctuel** en associant sphère et plan
 - **Contact linéique** (ligne de contact) en associant cylindre et plan
-- **Contact surfacique** en associant 
+- **Contact surfacique** en associant un plan avec un autre plan ou deux cylindre
