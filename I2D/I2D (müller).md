@@ -185,4 +185,7 @@ Le rendement le plus faible est le cardan + les roues. Il faudrait les remplacer
 
 # Modélisation des mécanismes
 
-un schéma cinématique est une représentation graphique simplifiée d'un plan ensemble complexe. Ce schéma illustre le fonctionnement attendu
+Un schéma cinématique est une représentation graphique simplifiée d'un plan ensemble complexe. Ce schéma illustre le fonctionnement attendu.
+
+1. Notion de repérage
+
