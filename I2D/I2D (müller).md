@@ -237,3 +237,4 @@ Pourquoi faire ça ? Parce que ça retire la complications inutile. Quand tu veu
 4. Liaison mécaniques complémentaire
 	- Liaison encastrement (soudure pas de DDL)
 	- Liaison pivot (une rotation mais pas de translation)
+	- 
