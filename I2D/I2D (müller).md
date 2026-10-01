@@ -192,6 +192,7 @@ Un schéma cinématique est une représentation graphique simplifiée d'un plan 
 T : translation
 R : rotation
 
+Tableau degré de libertés
 
 |     | T   | R   |
 | --- | --- | --- |
