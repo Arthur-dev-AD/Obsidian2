@@ -208,3 +208,7 @@ Un schéma cinématique est une représentation graphique simplifiée d'un plan 
 
 3. Liaisons mécaniques élémentaires
 
+
+|     |     |
+| --- | --- |
+|     |     |
