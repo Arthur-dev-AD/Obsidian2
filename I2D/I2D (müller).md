@@ -189,10 +189,10 @@ Un schéma cinématique est une représentation graphique simplifiée d'un plan 
 
 1. Notion de repérage
 
-T : translation
-R : rotation
+	T : translation
+	R : rotation
 
-Tableau degré de libertés
+	Tableau degré de libertés
 
 |     | T   | R   |
 | --- | --- | --- |
@@ -201,3 +201,4 @@ Tableau degré de libertés
 | Z   | TZ  | RZ  |
 2. Surfaces élémentaires
 
+Il existe en mécanique 3 surfaces élémentaires
