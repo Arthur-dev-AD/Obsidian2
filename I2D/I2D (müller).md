@@ -208,7 +208,7 @@ Un schéma cinématique est une représentation graphique simplifiée d'un plan 
 
 3. Liaisons mécaniques élémentaires
 
-Pour chaque case, la question à se poser est : *qu'est-ce qui peut encore bouger quand ces deux surfaces sont en contact ?*
+	Pour chaque case, la question à se poser est : *qu'est-ce qui peut encore bouger quand ces deux surfaces sont en contact ?*
 
 | | **Plan** | **Cylindre** | **Sphère** |
 | --- | --- | --- | --- |
@@ -216,9 +216,3 @@ Pour chaque case, la question à se poser est : *qu'est-ce qui peut encore bouge
 | **Cylindre** | Liaison linéaire rectiligne — 2 DDL : R sur l'axe + T sur l'axe | **Pivot** — 1 DDL : R autour de l'axe | **Liaison rotoïde** — 2 DDL : R + 1 T |
 | **Sphère** | Liaison sphérique — 3 DDL : RX, RY, RZ | Liaison rotoïde — 2 DDL : R + 1 T | **Liaison sphérique** — 3 DDL : RX, RY, RZ |
 
-#### Lecture du tableau
-- **Glissement rectiligne** (plan/plan) : les deux plaques sont plaquées l'une sur l'autre, ça glisse dans les 2 directions du plan. Aucune rotation possible.
-- **Liaison linéaire rectiligne** (cylindre/plan) : l'axe peut tourner sur lui-même *et* glisser le long de lui dans le plan. 2 DDL.
-- **Pivot** (cylindre/cylindre) : l'axe tourne dans son palier, mais il ne peut ni glisser ni s'incliner. 1 DDL, c'est l'articulation la plus simple.
-- **Liaison rotoïde** (cylindre/sphère) : comme le pivot, mais la pièce peut en plus s'incliner. 2 DDL.
-- **Liaison sphérique** (sphère/plan ou sphère/sphère) : la rotule pivote autour de son centre dans les 3 directions, par contre elle ne se translate pas. 3 DDL. C'
