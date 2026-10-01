@@ -195,6 +195,6 @@ R : rotation
 
 |     | T   | R   |
 | --- | --- | --- |
-| X   | TX  | TR  |
-| Y   | TY  |     |
-| Z   | TZ  |     |
+| X   | TX  | RX  |
+| Y   | TY  | RY  |
+| Z   | TZ  | RZ  |
