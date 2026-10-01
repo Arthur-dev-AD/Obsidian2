@@ -234,4 +234,5 @@ Pourquoi faire ça ? Parce que ça retire la complications inutile. Quand tu veu
 | **Cylindre** | Liaison linéaire rectiligne — 2 DDL : R sur l'axe + T sur l'axe | **Pivot** — 1 DDL : R autour de l'axe                                                | **Liaison rotoïde** — 2 DDL : R + 1 T      |
 | **Sphère**   | Liaison sphérique — 3 DDL : RX, RY, RZ                          | Liaison rotoïde — 2 DDL : R + 1 T                                                    | **Liaison sphérique** — 3 DDL : RX, RY, RZ |
 
-4. Liaison mécaniques 
+4. Liaison mécaniques complémentaire
+5. 
