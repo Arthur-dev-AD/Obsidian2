@@ -179,3 +179,7 @@ F = P/V =  88200 / 53,3 = 1655
 
 
 Le rendement le plus faible est le cardan + les roues. Il faudrait les remplacer.
+
+
+---
+
