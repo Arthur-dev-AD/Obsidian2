@@ -187,7 +187,25 @@ Le rendement le plus faible est le cardan + les roues. Il faudrait les remplacer
 
 Un schéma cinématique est une représentation graphique simplifiée d'un plan ensemble complexe. Ce schéma illustre le fonctionnement attendu.
 
-1. Notion de repérage
+## En termes généraux
+
+Avant les maths et les tableaux, l'idée est simple : **on ne dessine plus la machine réelle, on ne dessine que ce qu'elle peut faire bouger.**
+
+Une machine, une voiture, un outil, peu importe : à un moment donné on veut savoir quelles pièces bougent, comment elles bougent, et surtout **qu'est-ce qui est libre et qu'est-ce qui est bloqué**. Pour ça on oublie la matière, la couleur, les vis, les ressorts. On ne garde que deux choses : des **formes** (les surfaces en contact) et des **mouvements** (les translations et rotations). Ça s'appelle un **schéma cinématique**.
+
+Trois mots suffisent pour tout le reste :
+
+**Un solide** — n'importe quelle pièce, réduite à un point ou une forme abstraite. Une pièce seule, posée dans le vide et sans contrainte, peut aller **n'importe où dans n'importe quelle direction**.
+
+**Une liaison** — le point de contact entre deux pièces. C'est là qu'on pose la question : quand ces deux pièces se touchent, est-ce qu'elles peuvent encore bouger l'une par rapport à l'autre ? Selon la forme du contact, la réponse est non, ou alors « oui, mais seulement dans ce sens-là ».
+
+**Un DDL (degré de liberté)** — une direction de mouvement possible. C'est l'unité de compte de toute la cinématique. Chaque fois que deux pièces sont en contact, on regarde combien de mouvements restent possibles, et c'est ça qu'on note.
+
+L'idée clé, celle qui relie tout le chapitre : **un corps libre a 6 DDL, et chaque liaison en bloque.** C'est tout. Le reste du cours, c'est la liste des liaisons possibles et le nombre de DDL que chacune laisse passer.
+
+Pourquoi faire ça ? Parce que ça retire la complications inutile. Quand tu veux vérifier qu'un mécanisme fonctionne, tu ne vas pas mesurer l'épaisseur de la tôle ni la marque des roulements. Tu prends un stylo, tu dessines trois traits, et tu comptes combien de directions de mouvement il reste. Si le compte est bon, la machine est correctement pensée. Si un Drawing est « bloqué » quelque part où il devrait pouvoir tourner, tu as trouvé ton erreur.
+
+## 1. Notion de repérage
 
 	T : translation
 	R : rotation
