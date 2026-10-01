@@ -83,3 +83,9 @@ Deux points sur lesquels j'ai tranché, à vérifier avec ton prof si le corrig�
 
 Une notion qui manque dans ta note et qui sert souvent juste après : le **nombre de DDL d'un mécanisme complet** = 6 × (nombre de pièces) − (somme des DDL bloqués par les liaisons). Si on te demande ça plus tard, dis-le moi et je te le détaille.
 [Timestamp: 2026/10/01 13:30:56]
+
+**user**: Pourrait tu expliquer dans le document dans une note en thermes généraux
+[Timestamp: 2026/10/01 13:33:27]
+
+**ai**: 
+[Timestamp: 2026/10/01 13:33:27]
