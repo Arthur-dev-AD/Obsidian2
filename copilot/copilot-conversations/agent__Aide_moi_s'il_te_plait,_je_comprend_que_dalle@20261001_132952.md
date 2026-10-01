@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_f08e21770ffeoWP7r3g20o6fLi"
 agentLabel: "Comprendre les liaisons mécaniques"
-usage: '{"usedTokens":15422,"contextWindow":200000,"updatedAt":1790854304222}'
+usage: '{"usedTokens":16964,"contextWindow":200000,"updatedAt":1790854435948}'
 tags:
   - copilot-conversation
 ---
@@ -87,5 +87,15 @@ Une notion qui manque dans ta note et qui sert souvent juste après : le **nombr
 **user**: Pourrait tu expliquer dans le document dans une note en thermes généraux
 [Timestamp: 2026/10/01 13:33:27]
 
-**ai**: 
+**ai**: J'ai ajouté une section **« En termes généraux »** au début de [[I2D (müller).md]], juste avant le tableau des DDL. Elle explique le chapitre sans aucune notion de cours préalable :
+
+- **Pourquoi** on fait ça : on ne garde que ce qui bouge, on jette le superflu
+- **Un solide** : une pièce, seule dans le vide, qui peut aller partout
+- **Une liaison** : le contact entre deux pièces, et la question à se poser dessus
+- **Un DDL** : une direction de mouvement possible, l'unité de compte du chapitre
+- **L'idée clé** : 6 DDL au départ, moins de DDL à chaque liaison
+
+Et une phrase sur l'intérêt pratique, pour que tu aies une raison de t'y intéresser : on vérifie qu'un mécanisme marche en comptant des directions sur un croquis, sans mesurer la moindre vis.
+
+J'ai fait de `1. Notion de repérage` un titre de niveau2 (`##`) pour que la section générale et les titres du plan de cours se基层党组织 au même niveau dans l'outline. Tu peux me dire si tu préfères garder la numérotation d'origine à plat.
 [Timestamp: 2026/10/01 13:33:27]
