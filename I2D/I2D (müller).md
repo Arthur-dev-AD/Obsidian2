@@ -211,6 +211,6 @@ Un schéma cinématique est une représentation graphique simplifiée d'un plan 
 
 |          | Plan | Cylindre | Sphère |
 | -------- | ---- | -------- | ------ |
-| Plan     |      |          |        |
-| Cylindre |      |          |        |
-| Sphhère  |      |          |        |
+| **Plan**     |      |          |        |
+| **Cylindre** |      |          |        |
+| **Sphhère**  |      |          |        |
