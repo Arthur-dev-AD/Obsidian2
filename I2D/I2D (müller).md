@@ -205,3 +205,5 @@ Un schéma cinématique est une représentation graphique simplifiée d'un plan 
 	- Le cylindre
 	- La sphère
 	- Le plan
+
+3. Liaisons mécaniques élémentaires
