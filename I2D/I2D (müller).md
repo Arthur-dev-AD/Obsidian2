@@ -234,8 +234,21 @@ Pourquoi faire ça ? Parce que ça retire la complications inutile. Quand tu veu
 | **Cylindre** | Liaison linéaire rectiligne — 2 DDL : R sur l'axe + T sur l'axe | **Pivot** — 1 DDL : R autour de l'axe                                                | **Liaison rotoïde** — 2 DDL : R + 1 T      |
 | **Sphère**   | Liaison sphérique — 3 DDL : RX, RY, RZ                          | Liaison rotoïde — 2 DDL : R + 1 T                                                    | **Liaison sphérique** — 3 DDL : RX, RY, RZ |
 
-4. Liaison mécaniques complémentaire
-	- Liaison encastrement (soudure pas de DDL)
-	- Liaison pivot (une rotation mais pas de translation)
-	- Liaison hélicoïdale (principe de vis-écrou, 2 DDL : un de R et un de Translation perpendiculaire l'un à l'autre)
-	- Liaison glissière (1 DDL translation)
+## 4. Liaisons mécaniques complémentaires
+
+Ce sont les liaisons qu'on ne définit pas à partir d'une surface élémentaire, ou qui regroupent plusieurs liaisons élémentaires.
+
+- **Liaison encastrement** — 0 DDL. La pièce est soudée, vissée ou integrée à l'autre : plus rien ne bouge. *(ex : le moteur soudé au châssis)*
+- **Liaison pivot** — 1 DDL : une rotation, aucune translation. La pièce tourne sur elle-même sur un axe fixe. *(ex : l'essieu d'une roue qui tourne dans son palier)*
+- **Liaison glissière** — 1 DDL : une translation, aucune rotation. La pièce glisse le long d'un axe fixe. *(ex : le piston dans le cylindre d'un moteur)*
+- **Liaison hélicoïdale** — 2 DDL : **une rotation et une translation, mais couplées**. Quand on tourne, on avance ; quand on avance, on tourne. On ne peut pas faire l'un sans l'autre. C'est le principe de la vis-écrou.
+
+> [!warning] Attention à l'hélicoïdale
+> Ce n'est pas « une rotation plus une translation dans deux directions indépendantes ». Si les deux mouvements étaient séparés, ce serait un pivot associé à une glissière. Le mot « hélicoïdal » dit justement que le mouvement est unique etiloré : il trace une hélice.
+
+### Rappel
+Le nombre de DDL d'un mécanisme complet se calcule ainsi :
+
+$$\text{DDLtotal} = 6 \times n_{\text{pièces}} - \sum \text{DDL bloqués par chaque liaison}$$
+
+Ce qui revient à dire : **6 DDL par pièce, moins ce que chaque liaison interdit**.
