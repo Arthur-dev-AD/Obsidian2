@@ -252,3 +252,6 @@ Le nombre de DDL d'un mécanisme complet se calcule ainsi :
 $$\text{DDLtotal} = 6 \times n_{\text{pièces}} - \sum \text{DDL bloqués par chaque liaison}$$
 
 Ce qui revient à dire : **6 DDL par pièce, moins ce que chaque liaison interdit**.
+
+Il existe 3 types de contact : 
+- Contact ponctuel 
