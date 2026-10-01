@@ -238,7 +238,7 @@ Pourquoi faire ça ? Parce que ça retire la complications inutile. Quand tu veu
 
 Ce sont les liaisons qu'on ne définit pas à partir d'une surface élémentaire, ou qui regroupent plusieurs liaisons élémentaires.
 
-- **Liaison encastrement** — 0 DDL. La pièce est soudée, vissée ou integrée à l'autre : plus rien ne bouge. *(ex : le moteur soudé au châssis)*
+- **Liaison encastrement** — 0 DDL. La pièce est soudée, vissée ou intégrée à l'autre : plus rien ne bouge. *(ex : le moteur soudé au châssis)*
 - **Liaison pivot** — 1 DDL : une rotation, aucune translation. La pièce tourne sur elle-même sur un axe fixe. *(ex : l'essieu d'une roue qui tourne dans son palier)*
 - **Liaison glissière** — 1 DDL : une translation, aucune rotation. La pièce glisse le long d'un axe fixe. *(ex : le piston dans le cylindre d'un moteur)*
 - **Liaison hélicoïdale** — 2 DDL : **une rotation et une translation, mais couplées**. Quand on tourne, on avance ; quand on avance, on tourne. On ne peut pas faire l'un sans l'autre. C'est le principe de la vis-écrou.
