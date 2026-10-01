@@ -228,9 +228,9 @@ Pourquoi faire ça ? Parce que ça retire la complications inutile. Quand tu veu
 
 	Pour chaque case, la question à se poser est : *qu'est-ce qui peut encore bouger quand ces deux surfaces sont en contact ?*
 
-| | **Plan** | **Cylindre** | **Sphère** |
-| --- | --- | --- | --- |
-| **Plan** | **Glissement rectiligne** — 2 DDL : TX, TY | **Liaison linéaire rectiligne** — 2 DDL : rotation sur l'axe + translation sur l'axe | **Liaison sphérique** — 3 DDL : RX, RY, RZ |
-| **Cylindre** | Liaison linéaire rectiligne — 2 DDL : R sur l'axe + T sur l'axe | **Pivot** — 1 DDL : R autour de l'axe | **Liaison rotoïde** — 2 DDL : R + 1 T |
-| **Sphère** | Liaison sphérique — 3 DDL : RX, RY, RZ | Liaison rotoïde — 2 DDL : R + 1 T | **Liaison sphérique** — 3 DDL : RX, RY, RZ |
+|              | **Plan**                                                        | **Cylindre**                                                                         | **Sphère**                                 |
+| ------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------ |
+| **Plan**     | **Glissement rectiligne** — 2 DDL : TX, TY                      | **Liaison linéaire rectiligne** — 2 DDL : rotation sur l'axe + translation sur l'axe | **Liaison sphérique** — 3 DDL : RX, RY, RZ |
+| **Cylindre** | Liaison linéaire rectiligne — 2 DDL : R sur l'axe + T sur l'axe | **Pivot** — 1 DDL : R autour de l'axe                                                | **Liaison rotoïde** — 2 DDL : R + 1 T      |
+| **Sphère**   | Liaison sphérique — 3 DDL : RX, RY, RZ                          | Liaison rotoïde — 2 DDL : R + 1 T                                                    | **Liaison sphérique** — 3 DDL : RX, RY, RZ |
 
