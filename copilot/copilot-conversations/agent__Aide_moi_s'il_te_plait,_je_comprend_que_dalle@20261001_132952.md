@@ -103,5 +103,15 @@ J'ai fait de `1. Notion de repérage` un titre de niveau2 (`##`) pour que la sec
 **user**: sa te parait bon ?
 [Timestamp: 2026/10/01 13:45:41]
 
-**ai**: 
+**ai**: Oui, la structure est bonne. Deux corrections sur le fond :
+
+**La liaison hélicoïdale** — c'est le seul point à corriger. Les deux mouvements sont liés entre eux : quand tu tournes, ça avance, et quand ça avance, ça tourne. Tu ne peux pas tourner tout seul, ni avancer tout seul. Ce n'est pas « perpendiculaire l'un à l'autre », c'est **couplés**. C'est justement ce qui distingue une vis d'un simple pivot + glissement.
+
+**La liaison glissière** — 1 DDL, c'est juste. Note juste que ça ne peut se comprendre qu'entre deux pièces * coaxiales*, c'est-à-dire l'axe de l'une dans l'axe de l'autre, donc dans le tableau élémentaire c'est la case cylindre/cylindre en version « sans rotation ».
+
+Le reste est exact :
+- **Encastrement** → 0 DDL, la pièce est soudée, plus rien ne bouge
+- **Pivot** → 1 DDL, une rotation, c'est bonLe lien avec la section précédente est aussi bon : les liaisons complémentaires de la section 4 sont celles qui se définissent autrement qu'à partir d'une surface élémentaire, ou qui combinent plusieurs liaisons élémentaires.
+
+Je te propose de réécrire le bloc comme ça, avec les précisions :
 [Timestamp: 2026/10/01 13:45:41]
