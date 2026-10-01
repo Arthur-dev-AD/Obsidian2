@@ -235,5 +235,5 @@ Pourquoi faire ça ? Parce que ça retire la complications inutile. Quand tu veu
 | **Sphère**   | Liaison sphérique — 3 DDL : RX, RY, RZ                          | Liaison rotoïde — 2 DDL : R + 1 T                                                    | **Liaison sphérique** — 3 DDL : RX, RY, RZ |
 
 4. Liaison mécaniques complémentaire
-	- Liaison encastrement 
+	- Liaison encastrement (soudure)
 	- 
