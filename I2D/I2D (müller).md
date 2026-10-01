@@ -221,10 +221,4 @@ Pour chaque case, la question à se poser est : *qu'est-ce qui peut encore bouge
 - **Liaison linéaire rectiligne** (cylindre/plan) : l'axe peut tourner sur lui-même *et* glisser le long de lui dans le plan. 2 DDL.
 - **Pivot** (cylindre/cylindre) : l'axe tourne dans son palier, mais il ne peut ni glisser ni s'incliner. 1 DDL, c'est l'articulation la plus simple.
 - **Liaison rotoïde** (cylindre/sphère) : comme le pivot, mais la pièce peut en plus s'incliner. 2 DDL.
-- **Liaison sphérique** (sphère/plan ou sphère/sphère) : la rotule pivote autour de son centre dans les 3 directions, par contre elle ne se translate pas. 3 DDL. C'est la rotule de direction d'une voiture.
-
-> [!tip] Règle pour retenir le tableau
-> Plus la surface est ronde et symétrique, plus il reste de DDL : plan = 2 DDL, cylindre = 1 à 2 DDL, sphère = 3 DDL.
-
-> [!note] Vérification avec la 2CV
-> Une roue de la 2CV est un **cylindre** qui tourne sur un **cylindre** : c'est un pivot, donc 1 seul DDL. La direction est une rotule sphérique (3 DDL), mais l'ensemble est verrouillé par le tiering, sinon la voiture ne tiendrait pas droite.
+- **Liaison sphérique** (sphère/plan ou sphère/sphère) : la rotule pivote autour de son centre dans les 3 directions, par contre elle ne se translate pas. 3 DDL. C'
