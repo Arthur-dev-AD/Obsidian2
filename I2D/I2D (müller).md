@@ -254,5 +254,6 @@ $$\text{DDLtotal} = 6 \times n_{\text{pièces}} - \sum \text{DDL bloqués par ch
 Ce qui revient à dire : **6 DDL par pièce, moins ce que chaque liaison interdit**.
 
 Il existe 3 types de contact : 
-- Contact ponctuel en associant sphère et plan
-- Contact linéique (ligne de contact) en associant 
+- **Contact ponctuel** en associant sphère et plan
+- **Contact linéique** (ligne de contact) en associant cylindre et plan
+- **Contact surfacique** en associant 
