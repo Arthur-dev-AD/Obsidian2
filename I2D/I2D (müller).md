@@ -214,4 +214,4 @@ Un schéma cinématique est une représentation graphique simplifiée d'un plan 
 | ------------ | --------------------------- | ------------ | ---------- |
 | **Plan**     | TZ,TX,T                     |              |            |
 | **Cylindre** | Liaison linéaire rectiligne |              |            |
-| **Sphhère**  |                             |              |            |
+| **Sphhère**  | Lia                         |              |            |
