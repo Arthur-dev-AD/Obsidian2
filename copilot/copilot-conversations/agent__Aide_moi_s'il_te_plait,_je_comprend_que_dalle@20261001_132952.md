@@ -4,7 +4,7 @@ mode: agent
 backendId: opencode
 sessionId: "ses_f08e21770ffeoWP7r3g20o6fLi"
 agentLabel: "Comprendre les liaisons mécaniques"
-usage: '{"usedTokens":12245,"contextWindow":200000,"updatedAt":1790854218515}'
+usage: '{"usedTokens":15422,"contextWindow":200000,"updatedAt":1790854304222}'
 tags:
   - copilot-conversation
 ---
@@ -66,5 +66,20 @@ Si tu veux, je peux remplir tout le tableau proprement dans ta note avec les lia
 **user**: peut tu completer le tableau presque vide s'il te plait
 [Timestamp: 2026/10/01 13:30:56]
 
-**ai**: 
+**ai**: Tableau rempli dans `I2D (müller).md`, avec la lecture de chaque case, une règle mnémotechnique, et un callout qui rattache ça à la 2CV.
+
+Le principe à retenir :
+
+- **Plan/Plan** → glissement rectiligne, 2 DDL (2 translations)
+- **Cylindre/Plan** → rotation + translation sur l'axe, 2 DDL
+- **Cylindre/Cylindre** → pivot, 1 DDL (l'axe ne fait que tourner)
+- **Cylindre/Sphère** → rotoïde, 2 DDL (rotation + inclinaison)
+- **Sphère/Plan** et **Sphère/Sphère** → sphérique, 3 DDL (3 rotations)
+
+Deux points sur lesquels j'ai tranché, à vérifier avec ton prof si le corrigé diffère :
+
+- **Plan/Plan** : j'ai mis 2 translations dans le plan, pas 3. Un plan posé sur un autre plan peut glisser dans X et Y, mais pas en Z (sinon il se décolle), et pas en rotation. Si ton tableau attendait 3 DDL c'est qu'il compte une rotationAround la normale.
+- **Plan/Cylindre** : c'est la même chose que Cylindre/Plan, la ligne et la colonne du tableau donnent la même liaison, c'est juste la même situation vue dans l'autre sens.
+
+Une notion qui manque dans ta note et qui sert souvent juste après : le **nombre de DDL d'un mécanisme complet** = 6 × (nombre de pièces) − (somme des DDL bloqués par les liaisons). Si on te demande ça plus tard, dis-le moi et je te le détaille.
 [Timestamp: 2026/10/01 13:30:56]
