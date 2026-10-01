@@ -62,3 +62,9 @@ La question que tu dois te poser pour chaque case : *si je mets ces deux surface
 
 Si tu veux, je peux remplir tout le tableau proprement dans ta note avec les liaisons nommées et leur nombre de DDL, en suivant la logique ci-dessus. Tu me dis.
 [Timestamp: 2026/10/01 13:29:53]
+
+**user**: peut tu completer le tableau presque vide s'il te plait
+[Timestamp: 2026/10/01 13:30:56]
+
+**ai**: 
+[Timestamp: 2026/10/01 13:30:56]
