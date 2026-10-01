@@ -183,5 +183,5 @@ Le rendement le plus faible est le cardan + les roues. Il faudrait les remplacer
 
 ---
 
-# Les liaisons mécaniques
+# Modélisation des mécanismes
 
