@@ -203,3 +203,5 @@ Un schéma cinématique est une représentation graphique simplifiée d'un plan 
 
 	Il existe en mécanique 3 surfaces élémentaire :
 	- Le cylindre
+	- La sphère
+	- Le plan
