@@ -29,4 +29,4 @@ Pour les dipôles récepteurs, on adopte la convention récepteur
 
 # II ) Les lois dans les circuit
 
-1. Loi des noeuds est 
+1. Loi des noeuds est égale à la somme des intensitées des des courants 
