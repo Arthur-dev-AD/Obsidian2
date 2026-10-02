@@ -32,4 +32,4 @@ Pour les dipôles récepteurs, on adopte la convention récepteur
 1. Loi des noeuds est égale à la somme des intensitées des courants arrivants à un noeud qui est égale à la somme des intensitées des courants sortant du noeud.
 
 2. Loi des mailles
-	Une maille est un chemin fermé passant par les tension 
+	Une maille est un chemin fermé passant par les 
