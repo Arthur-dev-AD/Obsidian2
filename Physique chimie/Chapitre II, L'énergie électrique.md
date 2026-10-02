@@ -29,4 +29,6 @@ Pour les dipôles récepteurs, on adopte la convention récepteur
 
 # II ) Les lois dans les circuit
 
-1. Loi des noeuds est égale à la somme des intensitées des courants arrivants à un noeud qui est égale à la somme des intensitées des courants
+1. Loi des noeuds est égale à la somme des intensitées des courants arrivants à un noeud qui est égale à la somme des intensitées des courants sortant du noeud.
+
+2. Loi des mailles
