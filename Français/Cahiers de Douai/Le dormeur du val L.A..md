@@ -88,10 +88,10 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 	- >Allitération en /r/, phrase brève, "trous" à la césure, rythme binaire
 		- >La césure montre la violence de la guerre. Le rythme binaire binaire témoigne du fait que le personnage n'avait aucune chance de survie. La brièveté accentue l'effet de surprise et la chute. L'allitération souligne l'horreur de la guerre, ce que dénonce Rimbaud.
 
-Conclusion :
+- Conclusion :
 
 Bilan : On a un effet de chute bien rodé, le poète entretient l'ambiguïté. Pendant tout le poème, on n'arrive pas à déceler si le soldat est mort ou juste endormi. Ce qui est immédiatement brisé par le dernier vers. "Deux trous rouges" nous montre qu'il n'avait **aucune** chance de survie.
 
 Rimbaud cherche à rendre hommage aux soldats engagés en France.
 
-Le texte de Rimbaud nous fait penser au poème "Tristesse d'une étoile" issue du receuil *Caligramme*. On a deux poèmes de guerre, dans les deux on nous montre les atrocités de la guerre, mais contrairement à Rimbaud, Appolinaire a fait l'éxperience de la guerre puisque il a été poilu
+Le texte de Rimbaud nous fait penser au poème "Tristesse d'une étoile" issue du receuil *Caligramme*. On a deux poèmes de guerre, dans les deux on nous montre les atrocités de la guerre, mais contrairement à Rimbaud, Apollinaire a fait l'expérience de la guerre puisque il a été poilu lors de la première guerre mondiale
