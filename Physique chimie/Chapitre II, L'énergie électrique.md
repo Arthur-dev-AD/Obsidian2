@@ -37,5 +37,6 @@ Pour les dipôles récepteurs, on adopte la convention récepteur
 # III ) Caractéristiques des tensions périodiques
 
 ### 1 ) Défintions
-- Une tension est continue si sa valeur **ne varie pas au cours du temps**. 
-- Une tension est variable si sa valeur varie au cours du temps. 
+- Une tension est **continue** si sa valeur **ne varie pas au cours du temps**. 
+- Une tension est **variable** si sa **valeur varie au cours du temps**. 
+- Une tension est **periodique** si elle se répète de manière identique
