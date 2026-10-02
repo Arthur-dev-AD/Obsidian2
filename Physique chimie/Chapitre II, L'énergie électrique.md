@@ -36,3 +36,5 @@ Pour les dipôles récepteurs, on adopte la convention récepteur
 
 # III ) Caractéristiques des tensions périodiques
 
+### 1 ) Défintions
+Une tension est continue si sa valeur ne varie pas au cours du temps
