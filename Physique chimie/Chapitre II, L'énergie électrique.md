@@ -39,4 +39,4 @@ Pour les dipôles récepteurs, on adopte la convention récepteur
 ### 1 ) Défintions
 - Une tension est **continue** si sa valeur **ne varie pas au cours du temps**. 
 - Une tension est **variable** si sa **valeur varie au cours du temps**. 
-- Une tension est **periodique** si elle se répète de manière identique
+- Une tension est **periodique** si elle se répète de manière identique à elle-même à intervaille de temps régulier
