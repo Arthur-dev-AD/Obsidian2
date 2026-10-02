@@ -92,3 +92,6 @@ Conclusion :
 
 Bilan : On a un effet de chute bien rodé, le poète entretient l'ambiguïté. Pendant tout le poème, on n'arrive pas à déceler si le soldat est mort ou juste endormi. Ce qui est immédiatement brisé par le dernier vers. "Deux trous rouges" nous montre qu'il n'avait **aucune** chance de survie.
 
+Rimbaud cherche à rendre hommage aux soldats engagés en France.
+
+Le texte de Rimbaud nous fait penser au poème "Tristesse d'une étoile" issue du receuil *Caligramme*. On a deux poèmes de guerre, dans les deux on nous montre les attrocitées de la guerre 
