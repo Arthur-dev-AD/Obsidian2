@@ -90,4 +90,4 @@ Phrase intro : Pour commencer, Rimbaud nous décris une nature merveilleuse.
 
 Conclusion :
 
-Bilan : On a un effet de chute bien rodé, le poète entretient l'ambiguïté. Pendant  
+Bilan : On a un effet de chute bien rodé, le poète entretient l'ambiguïté. Pendant tout le poème  
