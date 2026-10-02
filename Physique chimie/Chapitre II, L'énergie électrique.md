@@ -25,4 +25,4 @@ La puissance électrique se calcule par la formule ==P = U x I==
 
 Pour les dipôles générateurs, on adopte la convention générateur
 
-Pour les dipôles récepteurs, on adopte 
+Pour les dipôles récepteurs, on adopte la convention récepteur
