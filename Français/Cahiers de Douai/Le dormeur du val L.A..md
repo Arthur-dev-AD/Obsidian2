@@ -94,4 +94,4 @@ Bilan : On a un effet de chute bien rodé, le poète entretient l'ambiguïté. P
 
 Rimbaud cherche à rendre hommage aux soldats engagés en France.
 
-Le texte de Rimbaud nous fait penser au poème "Tristesse d'une étoile" issue du receuil *Caligramme*. On a deux poèmes de guerre, dans les deux on nous montre les attrocitées de la guerre 
+Le texte de Rimbaud nous fait penser au poème "Tristesse d'une étoile" issue du receuil *Caligramme*. On a deux poèmes de guerre, dans les deux on nous montre les atrocités de la guerre 
