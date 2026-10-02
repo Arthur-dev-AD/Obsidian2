@@ -11,4 +11,18 @@
 
 Non donnable par ce médium...
 
-## 3) Rappels
+### 3) Rappels
+
+Un générateur fournit de l'énergie électrique pour faire fonctionner des appareils électriques.
+
+Un récepteur consomme de l'énergie électrique mais n'en produit pas.
+
+Un voltmètre se branche en **dérivation**
+
+Un ampèremètre se branche en **série**
+
+La puissance électrique se calcule par la formule ==P = U x I==
+
+Pour les dipôles générateurs, on adopte la convention générateur
+
+Pour les dipôles récepteurs, on adopte 
