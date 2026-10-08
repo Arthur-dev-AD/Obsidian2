@@ -1,1 +1,3 @@
-## North American English Speaking worlds
+## North American. English Speaking worlds.
+
+A city = a big town 
