@@ -2,4 +2,4 @@
 
 A city = a big town 
 
-How different
+How different are Seatle and Vancouver ?
