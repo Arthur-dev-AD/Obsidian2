@@ -13,9 +13,9 @@ Non donnable par ce médium...
 
 ### 3) Rappels
 
-Un générateur fournit de l'énergie électrique pour faire fonctionner des appareils électriques.
+Un générateur ==fournit de l'énergie électrique== pour faire fonctionner des appareils électriques.
 
-Un récepteur consomme de l'énergie électrique mais n'en produit pas.
+Un récepteur ==consomme de l'énergie électrique mais n'en produit pas==.
 
 Un voltmètre se branche en **dérivation**
 
@@ -29,23 +29,17 @@ Pour les dipôles récepteurs, on adopte la convention récepteur
 
 # II ) Les lois dans les circuit
 
-1. Loi des noeuds est égale à la somme des intensitées des courants arrivants à un noeud qui est égale à la somme des intensitées des courants sortant du noeud.
+1. ==Loi des noeuds== est égale à la somme des intensitées des courants arrivants à un noeud qui est égale à la somme des intensitées des courants sortant du noeud.
 
-2. Loi des mailles
-	Une maille est un chemin fermé passant par les différents points d'un circuit électrique la somme des tension rencontrées dans une maille est nulle
+2. ==Loi des mailles==
+	Une maille est un chemin fermé passant par les différents points d'un circuit électrique ==la somme des tension rencontrées dans une maille est nulle==
 
 # III ) Caractéristiques des tensions périodiques
 
 ### 1 ) Défintions
-- Une tension est **continue** si sa valeur **ne varie pas au cours du temps**. 
-- Une tension est **variable** si sa **valeur varie au cours du temps**. 
-- Une tension est **periodique** si elle se répète de manière identique à elle-même à intervalle de temps régulier
-De manière générale, une tension periodique (Kt) peut se décomposer en une somme d'une composante continue <u> et d'une composante alternative (t)
+- Une tension est **continue** si sa valeur ==ne varie pas au cours du temps==. 
+- Une tension est **variable** si sa ==valeur varie au cours du temps==. 
+- Une tension est **periodique** si elle ==se répète de manière identique à elle-même à intervalle de temps régulier==
+De manière générale, une tension périodique (Kt) peut se décomposer en une somme d'une composante continue <u> et d'une composante alternative (t).
 
-Une tension est donc uniquement alternative si sa composante continue est nulle
-
-
-
-[^1]
-
-[^1]: 
+Une tension est donc ==uniquement alternative si sa composante continue est nulle==.
