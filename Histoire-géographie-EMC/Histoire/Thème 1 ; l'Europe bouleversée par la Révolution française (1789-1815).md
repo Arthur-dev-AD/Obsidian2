@@ -122,8 +122,12 @@ Les acquis de la révolution sont nombreux :
 - Egalité devant l'impôt et la loi  ( Abolition des privilèges, nuit du 4 août )
 - En 1789, la **Constitution**
 
-# Leçon 2 : La construction d'une nouvelle Frabce (1789-1791)
+# Leçon 2 : La construction d'une nouvelle France (1789-1791)
 
 Comment une nouvelle vie politique se met-elle en place dans une France modernisée ?
 
-## 
+## A ) La souveraineté nationale est transféré au peuple
+
+Les pouvoirs sont séparés et équilibré, ce n'est plus une monarchie absolue mais une monarchie constitutionnelle.
+
+- 1789 : L'assemblée nationale constituante 
