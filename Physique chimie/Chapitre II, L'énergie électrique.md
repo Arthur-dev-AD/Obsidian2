@@ -44,6 +44,5 @@ De manière générale, une tension périodique (Kt) peut se décomposer en une 
 
 Une tension est donc ==uniquement alternative si sa composante continue est nulle==.
 
-> [!note] 
-> Ce n'est pas « une rotation plus une translation dans deux directions indépendantes ». Si les deux mouvements étaient séparés, ce serait un pivot associé à une glissière. Le mot « hélicoïdal » dit justement que le mouvement est unique etiloré : il trace une hélice.
-
+> [!note] REMARQUE 
+> 
