@@ -46,3 +46,6 @@ Une tension est donc uniquement alternative si sa composante continue est nulle
 
 
 
+[^1]
+
+[^1]: 
