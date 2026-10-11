@@ -119,4 +119,8 @@ Des femmes partent de Paris, armées, elles s'en vont récupérer le roi Louis X
 
 Les acquis de la révolution sont nombreux :
 - Les libertés ( Déclaration des Droits de l'Homme et du Citoyen )
-- Egalité  ( Abolition des privilèges, nuit du 4 août)
+- Egalité devant l'impôt et la loi  ( Abolition des privilèges, nuit du 4 août )
+- En 1789, la **Constitution**
+
+# Leçon 2 : La construction d'une nouvelle Frabce (1789-1791)
+
