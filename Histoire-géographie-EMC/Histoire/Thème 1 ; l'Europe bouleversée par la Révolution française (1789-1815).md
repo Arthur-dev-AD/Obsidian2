@@ -134,4 +134,10 @@ Les pouvoirs sont séparés et équilibré, ce n'est plus une monarchie absolue 
 - Les libertés fondamentales sont reconnues. De nombreux journaux et clubs politiques sont créés. Les personnes les créant sont des Jacobins.
 
 Conclusion :
-- La nation est au dessus de tous les autres pouvoirs, elle n'a aucune autorité supérieure 
+- La nation est au dessus de tous les autres pouvoirs, elle n'a aucune autorité supérieure : elle est souveraine. Le roi n'est plus souverain
+
+## B) La réorganisation de la France
+
+Les départements sont créés à la place des anciennes provinces. Les départements sont approximativement de même taille, nommés d'après les fleuves, les rivières et les montagnes.
+
+L'assemblée nationale s'occupe du clergé. Avant 1789, le clergé faisait payer la dîme, il était très riche avec des terres
