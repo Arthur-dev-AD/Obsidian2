@@ -61,8 +61,8 @@ Avec f en Hertz et T en secondes
 
 Une tension périodique n'a pas constamment la même valeur de tension. Pour cela, on caractérise différente valeurs de tensions :
 
-**La valeur maximale (Umax)** d'une tension est la valeur la plus grande que la tension atteint lors de sa variation.
+- **La valeur maximale (Umax)** d'une tension est la valeur la plus grande que la tension atteint lors de sa variation.
 
-**La valeur minimale (Umin)**
+- **La valeur minimale (Umin)**
 
-**La valeur moyenne (``<u>``)** d'une tension correspond à la valeur moyenne du signal. Elle se mesure avec un voltmètre en mode DC
+ - **La valeur moyenne (``<u>``)** d'une tension correspond à la valeur moyenne du signal. Elle se mesure avec un voltmètre en mode DC
