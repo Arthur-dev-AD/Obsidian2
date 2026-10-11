@@ -142,4 +142,8 @@ Les départements sont créés à la place des anciennes provinces. Les départe
 
 L'assemblée nationale s'occupe du clergé. Avant 1789, le clergé faisait payer la dîme, il était très riche avec des terres immense. L'assemblée nationale confisque les biens du clergé pour rembourser la dette.
 
-## C )
+## C ) Le peuple se détourne du roi et de ses représentants
+
+### Juin 1791
+
+Louis XVI s'enfuit de Paris pour rejoindre ses 2 frères en Allemagne et de rejoindre son beau frère, Empereur d'Autriche. Le but est de revenir pour reprendre le pouvoir absolu avec l'aide de l'armée : il veut faire une contre-révolution.
