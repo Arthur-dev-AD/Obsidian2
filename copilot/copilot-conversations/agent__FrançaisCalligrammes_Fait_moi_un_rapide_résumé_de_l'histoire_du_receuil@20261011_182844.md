@@ -23,3 +23,9 @@ Elle retient :
 
 Si tu veux, je peux l'alléger pour coller exactement à la brièveté de la note des Cahiers de Douai (une ou deux phrases), ou ajouter une section sur les poèmes que tu étudies en particulier.
 [Timestamp: 2026/10/11 18:28:44]
+
+**user**: faore une mise en avant sur le documentobsidian://open?vault=Obsidian%20Vault&file=Physique%20chimie%2FChapitre%20II%2C%20L'%C3%A9nergie%20%C3%A9lectrique
+[Timestamp: 2026/10/11 20:14:52]
+
+**ai**: 
+[Timestamp: 2026/10/11 20:14:52]
