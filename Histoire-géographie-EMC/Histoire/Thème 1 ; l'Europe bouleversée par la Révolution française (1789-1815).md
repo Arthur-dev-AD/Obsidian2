@@ -130,4 +130,4 @@ Comment une nouvelle vie politique se met-elle en place dans une France modernis
 
 Les pouvoirs sont séparés et équilibré, ce n'est plus une monarchie absolue mais une monarchie constitutionnelle.
 
-- 1789 : L'assemblée nationale constituante rédige et promulgue la 1ère const
+- 1789 : L'assemblée nationale constituante rédige et promulgue la 1ère constitution française.
