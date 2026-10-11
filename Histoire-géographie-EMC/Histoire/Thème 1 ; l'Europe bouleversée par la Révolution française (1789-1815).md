@@ -113,4 +113,4 @@ Elles prennent d'assaut le château de Versailles pour ramener le roi, la reine 
 
 ## 5 Octobre 1789 : L'entrée des femmes dans la révolution
 
-Des femmes partent de Paris, armées, elles s'en vont récupérer le roi Louis XVI à Versailles afin de le mettre sous surveillance au Palais des Tuileries. La raison de tout ceci en est que le roi a refusé de signer l'abolition des privilèges **et** la Déclaration des Droits de l'Homme et du **C**itoyens
+Des femmes partent de Paris, armées, elles s'en vont récupérer le roi Louis XVI à Versailles afin de le mettre sous surveillance au Palais des Tuileries. La raison de tout ceci en est que le roi a refusé de signer l'abolition des privilèges **et** la Déclaration des **D**roits de l'**H**omme et du **C**itoyens
