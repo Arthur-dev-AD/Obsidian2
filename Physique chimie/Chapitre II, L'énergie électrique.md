@@ -45,6 +45,4 @@ De manière générale, une tension periodique (Kt) peut se décomposer en une s
 Une tension est donc uniquement alternative si sa composante continue est nulle
 
 
-> [!NOTE] Title
-> Contents
 
