@@ -161,4 +161,11 @@ Beaucoup de soldats volontaires s'engagent car ils sont bien payés.
 
 Le 1er août 1792, les Parisiens découvrent le manifeste du duc de Brunswick qui se résume très rapidement à "Si vous faites du mal au roi et à sa famille, on vous massacre"
 
-Le 10 août 1792, les sans-culottes 
+Le 10 août 1792, les sans-culottes prennent d'assaut le palais des Tuileries. Louis XVI est envoyé à la prison du temple
+
+## B ) Un régime attaqué de toutes parts
+
+Le régime est politiquement divisé :
+
+- Girondins (équivalent de la droite actuelle)
+	- Favorables à une monarchie constitutionnelle 
