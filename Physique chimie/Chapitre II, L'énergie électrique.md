@@ -89,4 +89,4 @@ Toute l'énergie reçue est dissipée sous la forme de chaleur (énergie thermiq
 
 ==P = *UR* x I ou *UR* = R x I donc P = R x I²
 
-(avec P en J)
+(avec P en Joules)
