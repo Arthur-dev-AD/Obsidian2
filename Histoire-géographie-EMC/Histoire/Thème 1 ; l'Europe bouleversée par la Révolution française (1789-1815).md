@@ -146,4 +146,4 @@ L'assemblée nationale s'occupe du clergé. Avant 1789, le clergé faisait payer
 
 ### Juin 1791
 
-Louis XVI s'enfuit de Paris pour rejoindre ses 2 frères en Allemagne et de rejoindre son beau frère, Empereur d'Autriche. Le but est de revenir pour reprendre le pouvoir absolu avec l'aide de l'armée : il veut faire une contre-révolution. Le roi est arrêté à Varenne le 22 juin 1791 : il est rammené à Paris
+Louis XVI s'enfuit de Paris pour rejoindre ses 2 frères en Allemagne et de rejoindre son beau frère, Empereur d'Autriche. Le but est de revenir pour reprendre le pouvoir absolu avec l'aide de l'armée : il veut faire une contre-révolution. Le roi est arrêté à Varenne le 22 juin 1791 : il est ramené à Paris le 25 juin 1791
