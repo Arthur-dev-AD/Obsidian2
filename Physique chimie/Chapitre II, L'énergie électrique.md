@@ -87,4 +87,4 @@ La tension UR aux bornes d'un conducteur ohmique de résistance R est proportion
 
 Toute l'énergie reçue est dissipée sous la forme de chaleur (énergie thermique) : c'est l'effet Joule. Cet effet porte le nom du physicien Anglais James Prescott Joule qui l'a découvert en 1840.
 
-P = *UR* x I
+==P = *UR* x I ou 
