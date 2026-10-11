@@ -115,4 +115,4 @@ Elles prennent d'assaut le château de Versailles pour ramener le roi, la reine 
 
 Des femmes partent de Paris, armées, elles s'en vont récupérer le roi Louis XVI à Versailles afin de le mettre sous surveillance au Palais des Tuileries. La raison de tout ceci est que le roi a refusé de signer l'abolition des privilèges **et** la **D**éclaration des **D**roits de l'**H**omme et du **C**itoyens. La nation de citoyens se constitue et la France se réorganise
 
-- Nation : peuple qui a la conscience d'être unie par une histoire, une langue et une culture commune. Une nation peut s'étendre sur plusieurs 
+- Nation : peuple qui a la conscience d'être unie par une histoire, une langue et une culture commune. Une nation peut s'étendre sur plusieurs états ou un état 
