@@ -27,5 +27,5 @@ Si tu veux, je peux l'alléger pour coller exactement à la brièveté de la not
 **user**: faore une mise en avant sur le documentobsidian://open?vault=Obsidian%20Vault&file=Physique%20chimie%2FChapitre%20II%2C%20L'%C3%A9nergie%20%C3%A9lectrique
 [Timestamp: 2026/10/11 20:14:52]
 
-**ai**: 
+**ai**: Le document est une fiche de cours de Physique-Chimie. Je vais mettre en évidence (surlignage Obsidian `==...==`) les notions et formules essentielles, sans toucher au contenu.
 [Timestamp: 2026/10/11 20:14:52]
