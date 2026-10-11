@@ -72,4 +72,3 @@ Une tension périodique n'a pas constamment la même valeur de tension. Pour cel
 Pour une tension alternative alternative sinusoïdale, la valeur efficace se calcule ainsi :
 
 ==Ueff = Umax/√2==
-
