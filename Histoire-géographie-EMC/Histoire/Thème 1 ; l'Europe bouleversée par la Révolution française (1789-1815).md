@@ -154,4 +154,5 @@ Comment passe-t-on de la monarchie à la république
 
 ## A) Les débuts de la République
 
-L'Empereur d'Autriche est le frère de Marie-Antoinette, donc le beau-frère de Louis XVI. L'Autriche se prépare à la guerre pour libérer marie Antoinette et Louis XVI, menacés de mort. L'assemblée nationale déclare la guerre à l'Autriche, un problème subvient, peu d'officier français sont encore en France. En effet étant des nobles, la plupart ont fuit le pays 
+L'Empereur d'Autriche est le frère de Marie-Antoinette, donc le beau-frère de Louis XVI. L'Autriche se prépare à la guerre pour libérer marie Antoinette et Louis XVI, menacés de mort. L'assemblée nationale déclare la guerre à l'Autriche, un problème subvient, peu d'officier français sont encore en France. En effet étant des nobles, la plupart ont fuit le pays.
+
