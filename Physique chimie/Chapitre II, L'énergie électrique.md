@@ -69,4 +69,6 @@ Une tension périodique n'a pas constamment la même valeur de tension. Pour cel
 
 - **La valeur efficace (Ueff)** d'une tension correspond à la valeur efficace du signal. Elle se mesure à l'aide d'un voltmètre en mode AC.
 
-Pour une tension alternative 
+Pour une tension alternative alternative sinusoïdale, la valeur efficace se calcule ainsi :
+
+==Ueff = Umax/
