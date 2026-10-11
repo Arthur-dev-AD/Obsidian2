@@ -81,4 +81,8 @@ Un conducteur ohmique transforme l'énergie électrique en énergie thermique. L
 
 ### 2 ) Loi d'Ohm
 
-La tension UR aux bornes d'un conducteur ohmique de résistance R est proportionné à l'intensité de courant I qui le traverse
+La tension UR aux bornes d'un conducteur ohmique de résistance R est proportionné à l'intensité de courant I qui le traverse. On a donc la relation suivante : ==UR = R x I==.
+
+### 3 ) Effet Joule
+
+Toute l'énergie reçue est dissipée sous la forme de chaleur (énergie thermique) : c'est l'éffet Joule. Cet
