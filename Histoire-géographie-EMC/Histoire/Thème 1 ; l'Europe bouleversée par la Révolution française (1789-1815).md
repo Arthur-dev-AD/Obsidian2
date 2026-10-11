@@ -156,4 +156,9 @@ Comment passe-t-on de la monarchie à la république
 
 L'Empereur d'Autriche est le frère de Marie-Antoinette, donc le beau-frère de Louis XVI. L'Autriche se prépare à la guerre pour libérer marie Antoinette et Louis XVI, menacés de mort. L'assemblée nationale déclare la guerre à l'Autriche, un problème subvient, peu d'officier français sont encore en France. En effet étant des nobles, la plupart ont fuit le pays.
 
-En juillet 179
+### En juillet 1792 : La patrie est déclarée en danger 
+Beaucoup de soldats volontaires s'engagent car ils sont bien payés.
+
+Le 1er août 1792, les Parisiens découvrent le manifeste du duc de Brunswick qui se résume très rapidement à "Si vous faites du mal au roi et à sa famille, on vous massacre"
+
+Le 10 août 1792, les sans-culottes 
