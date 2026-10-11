@@ -45,4 +45,5 @@ De manière générale, une tension périodique (Kt) peut se décomposer en une 
 Une tension est donc ==uniquement alternative si sa composante continue est nulle==.
 
 > [!note] REMARQUE 
-> 
+> Cela fonctionne de la même façon pour les intensités periodiques
+
