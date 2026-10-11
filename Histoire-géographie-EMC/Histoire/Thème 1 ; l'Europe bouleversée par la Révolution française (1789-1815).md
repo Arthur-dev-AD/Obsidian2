@@ -113,4 +113,4 @@ Elles prennent d'assaut le château de Versailles pour ramener le roi, la reine 
 
 ## 5 Octobre 1789 : L'entrée des femmes dans la révolution
 
-Des femmes partent de Paris, armées, elles s'en vont récupérer le roi Louis XVI à Versaille 
+Des femmes partent de Paris, armées, elles s'en vont récupérer le roi Louis XVI à Versailles afin de le mettre sous surveillance au 
