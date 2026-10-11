@@ -65,6 +65,6 @@ Une tension périodique n'a pas constamment la même valeur de tension. Pour cel
 
 - **La valeur minimale (Umin)** d'une tension est la valeur la plus petite que la tension atteint lors de sa variation.
 
- - **La valeur moyenne (``<u>``)** d'une tension correspond à la valeur moyenne du signal. Elle se mesure avec un voltmètre en mode DC.
+- **La valeur moyenne (``<u>``)** d'une tension correspond à la valeur moyenne du signal. Elle se mesure avec un voltmètre en mode DC.
 
 - **La valeur efficace (Ueff)** d'une tension correspond à la valeur efficace du signal. Elle se mesure à l'aide d'un voltmètre en mode AC.
