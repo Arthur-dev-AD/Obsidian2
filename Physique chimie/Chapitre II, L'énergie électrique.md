@@ -51,4 +51,12 @@ Une tension est donc ==uniquement alternative si sa composante continue est null
 
 La période T correspond à la plus petite durée pour qu'un phénomène se reproduise, identique à lui même. C'est une grandeur qui se note T et qui s'exprime en seconde. Cela correspond à la durée d'un motif élémentaire.
 
-La fréquence F est le nombre de periodes par seconde. Son unité est le Hertz (Hz)
+La fréquence f est le nombre de périodes par seconde. Son unité est le Hertz (Hz).
+
+On a la relation suivante : ==f = 1/T==
+
+Avec f en Hertz et T en secondes
+
+### 3 ) Les valeurs de tensions periodiques
+
+Une tension périodique n'a pas 
