@@ -134,4 +134,4 @@ Les pouvoirs sont séparés et équilibré, ce n'est plus une monarchie absolue 
 - Les libertés fondamentales sont reconnues. De nombreux journaux et clubs politiques sont créés. Les personnes les créant sont des Jacobins.
 
 Conclusion :
-- La nation est au dessus de tous les autres pouvoirs, elle n'a aucune autoritée suppérieure 
+- La nation est au dessus de tous les autres pouvoirs, elle n'a aucune autorité supérieure 
