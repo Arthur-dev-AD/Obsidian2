@@ -59,4 +59,6 @@ Avec f en Hertz et T en secondes
 
 ### 3 ) Les valeurs de tensions périodiques
 
-Une tension périodique n'a pas constamment la même valeur
+Une tension périodique n'a pas constamment la même valeur de tension. Pour cela, on caractérise différente valeurs de tensions :
+
+**La valeur maximale (Umax)** d'une tension est la valeur la plus grande que la tension atteint lors de sa variation
