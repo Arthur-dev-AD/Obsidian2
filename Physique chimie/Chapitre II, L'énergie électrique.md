@@ -72,3 +72,9 @@ Une tension périodique n'a pas constamment la même valeur de tension. Pour cel
 Pour une tension alternative alternative sinusoïdale, la valeur efficace se calcule ainsi :
 
 ==Ueff = Umax/√2==
+
+## IV ) Conducteur ohmique
+
+### 1 ) Définition
+
+Un conducteur ohmique transforme l'énergie électrique en énergie thermique. La grandeur caractéristique d'un conducteur ohmique est sa résistance R qui s'exprime en Ohm ()
