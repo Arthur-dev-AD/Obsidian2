@@ -47,4 +47,6 @@ Une tension est donc ==uniquement alternative si sa composante continue est null
 > [!note] REMARQUE 
 > Cela fonctionne de la même façon pour les intensités periodiques
 
-### 2
+### 2 ) Période et fréquence
+
+La période T correspond à la plus petite durée pour qu'un phénomène se reproduise, identique à lui même
