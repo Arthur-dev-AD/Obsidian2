@@ -168,4 +168,5 @@ Le 10 août 1792, les sans-culottes prennent d'assaut le palais des Tuileries. L
 Le régime est politiquement divisé :
 
 - Girondins (équivalent de la droite actuelle)
-	- Favorables à une monarchie constitutionnelle 
+	- Favorables à une monarchie constitutionnelle
+- Montagnards (équivalent de la gauche actelle)
