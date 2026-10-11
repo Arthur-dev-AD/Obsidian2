@@ -49,4 +49,6 @@ Une tension est donc ==uniquement alternative si sa composante continue est null
 
 ### 2 ) Période et fréquence
 
-La période T correspond à la plus petite durée pour qu'un phénomène se reproduise, identique à lui même. C'est une grandeur qui se note T et qui s'exprime en seconde. Cela correspond à la durée d'un motif élémentaire. 
+La période T correspond à la plus petite durée pour qu'un phénomène se reproduise, identique à lui même. C'est une grandeur qui se note T et qui s'exprime en seconde. Cela correspond à la durée d'un motif élémentaire.
+
+La fréquence F est le nombre de periode par secondes. Son unitée est le Hertz (Hz)
