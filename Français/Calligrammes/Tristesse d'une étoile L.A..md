@@ -1,3 +1,3 @@
 
 ## Introduction
-- Le surréalisme est un mouvement littéraire et artistique né au lendemain de la première guerre mondiale 
+- Le surréalisme est un mouvement littéraire et artistique né au lendemain de la première guerre mondiale et qui se dresse contre toute forme d'ordre et de convention. La liberté est maitre mot des
