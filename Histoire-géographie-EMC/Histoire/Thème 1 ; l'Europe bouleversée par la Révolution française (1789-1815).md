@@ -146,4 +146,12 @@ L'assemblée nationale s'occupe du clergé. Avant 1789, le clergé faisait payer
 
 ### Juin 1791
 
-Louis XVI s'enfuit de Paris pour rejoindre ses 2 frères en Allemagne et de rejoindre son beau frère, Empereur d'Autriche. Le but est de revenir pour reprendre le pouvoir absolu avec l'aide de l'armée : il veut faire une contre-révolution. Le roi est arrêté à Varenne le 22 juin 1791 : il est ramené à Paris le 25 juin 1791
+Louis XVI s'enfuit de Paris pour rejoindre ses 2 frères en Allemagne et de rejoindre son beau frère, Empereur d'Autriche. Le but est de revenir pour reprendre le pouvoir absolu avec l'aide de l'armée : il veut faire une contre-révolution. Le roi est arrêté à Varenne le 22 juin 1791 : il est ramené à Paris le 25 juin 1791 sous bonne escorte. L'image du roi est dégradé : le roi a trahi son peuple.
+
+# Leçon 3 : La chute de la monarchie et la première expérience républicaine ( 1791-1799 )
+
+Comment passe-t-on de la monarchie à la république
+
+## A) Les débuts de la République
+
+L'Empereur d'Autriche est le frère de Marie-Antoinette, donc le beau-frère de Louis XVI. L'Autriche se prépare à la guerre pour libérer marie Antoinette et Louis XVI
