@@ -77,4 +77,8 @@ Pour une tension alternative alternative sinusoïdale, la valeur efficace se cal
 
 ### 1 ) Définition
 
-Un conducteur ohmique transforme l'énergie électrique en énergie thermique. La grandeur caractéristique d'un conducteur ohmique est sa résistance R qui s'exprime en Ohm ()
+Un conducteur ohmique transforme l'énergie électrique en énergie thermique. La grandeur caractéristique d'un conducteur ohmique est sa résistance R qui s'exprime en Ohm (Ω)
+
+### 2 ) Loi d'Ohm
+
+La tension UR aux bornes d'un conducteur ohmique de résistance R est proportionné à l'intensité de courant I qui le traverse
