@@ -117,4 +117,6 @@ Des femmes partent de Paris, armées, elles s'en vont récupérer le roi Louis X
 
 - Nation : peuple qui a la conscience d'être unie par une histoire, une langue et une culture commune. Une nation peut s'étendre sur plusieurs états ou un état comprendre plusieurs nation. Lorsqu'un état ne comprend qu'une seule nation, on parle d'état-nation.
 
-Les acquis de la révolution sont nombreux
+Les acquis de la révolution sont nombreux :
+- Les libertés ( Déclaration des Droits de l'Homme et du Citoyen )
+- Egalité  ( Abolition des privilèges, nuit du 4 )
