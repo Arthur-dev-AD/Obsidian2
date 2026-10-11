@@ -40,6 +40,10 @@ Pour les dipôles récepteurs, on adopte la convention récepteur
 - Une tension est **continue** si sa valeur ==ne varie pas au cours du temps==. 
 - Une tension est **variable** si sa ==valeur varie au cours du temps==. 
 - Une tension est **periodique** si elle ==se répète de manière identique à elle-même à intervalle de temps régulier==
-De manière générale, une tension périodique (Kt) peut se décomposer en une somme d'une composante continue <u> et d'une composante alternative (t).
+De manière générale, une tension périodique (Kt) peut se décomposer en une somme d'une composante continue ``<u>`` et d'une composante alternative (t).
 
 Une tension est donc ==uniquement alternative si sa composante continue est nulle==.
+
+> [!note] 
+> Ce n'est pas « une rotation plus une translation dans deux directions indépendantes ». Si les deux mouvements étaient séparés, ce serait un pivot associé à une glissière. Le mot « hélicoïdal » dit justement que le mouvement est unique etiloré : il trace une hélice.
+
