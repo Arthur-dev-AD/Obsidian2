@@ -57,6 +57,6 @@ On a la relation suivante : ==f = 1/T==
 
 Avec f en Hertz et T en secondes
 
-### 3 ) Les valeurs de tensions periodiques
+### 3 ) Les valeurs de tensions périodiques
 
-Une tension périodique n'a pas 
+Une tension périodique n'a pas constamment la même valeur
