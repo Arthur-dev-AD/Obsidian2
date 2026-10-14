@@ -14,4 +14,8 @@ Seatle is in the US while Vancouver is in canada
 They're 
 
 
-About tge same 
+About the same population
+
+40% of Vancouver resident are immigrants
+28% ar from asia
+
