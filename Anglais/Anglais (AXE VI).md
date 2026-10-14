@@ -11,7 +11,7 @@ Vancouver is in the top 6% most expensive cities in the world
 
 Seatle is in the US while Vancouver is in canada
 
-They're 
+They're near the cascades and the pacific ocean
 
 
 About the same population
