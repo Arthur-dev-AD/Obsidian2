@@ -14,7 +14,6 @@ Seatle is in the US while Vancouver is in canada
 
 They're near the cascades and the pacific ocean and in the Pacific Nortwest
 
-
 About the same population but seattle has more metro citizen
 
 40% of Vancouver resident are immigrants
