@@ -19,3 +19,4 @@ About the same population but seattle has more metro citizen
 40% of Vancouver resident are immigrants
 28% ar from asia
 
+both pledge to be carbon
