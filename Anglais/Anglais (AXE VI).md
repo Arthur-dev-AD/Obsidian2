@@ -8,3 +8,4 @@ p.204 : a **map** (j'suis la carte, j'suis la carte, j'suis la carte 🎵)
 
 This document is a videi entitled "Seattle and Vancouver".
 It is taken from a schoolbook and it presents the two cities.
+Seattle is in the US whike Vancouver is in Canada
