@@ -6,17 +6,5 @@ How different are Seatle and Vancouver ?
 
 p.204 : a **map** (j'suis la carte, j'suis la carte, j'suis la carte 🎵)
 
-Vancouver is in the top 6% most expensive cities in the world
-
-They're 230 km appart
-
-Seatle is in the US while Vancouver is in canada
-
-They're near the cascades and the pacific ocean and in the Pacific Nortwest
-
-About the same population but seattle has more metro citizen
-
-40% of Vancouver resident are immigrants
-28% ar from asia
-
-both pledge to be carbon neutral by 2050
+This document is a videi entitled "Seattle and Vancouver"
+It is taken from a schoolbook and it presents the two cities
