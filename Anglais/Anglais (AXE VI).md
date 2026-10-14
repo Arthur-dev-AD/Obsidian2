@@ -8,10 +8,11 @@ p.204 : a **map** (j'suis la carte, j'suis la carte, j'suis la carte 🎵)
 
 Vancouver is in the top 6% most expensive cities in the world
 
+They're 230 km appart
 
 Seatle is in the US while Vancouver is in canada
 
-They're near the cascades and the pacific ocean
+They're near the cascades and the pacific ocean and in the Pacific Nortwest
 
 
 About the same population but seattle has more metro citizen
