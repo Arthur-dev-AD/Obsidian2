@@ -308,3 +308,10 @@ méthode tableau
 
 ![[Diagram 1.svg]]
 
+- Tableau des mobilitées
+
+|     | T   | R   |
+| --- | --- | --- |
+| X   | Tx  | 0   |
+| Y   | 0   | 0   |
+| Z   | 0   | 0   |
