@@ -326,3 +326,7 @@ méthode tableau
 2D :
 
 ![[Diagram 2.svg]]
+
+
+Tableau des mobilitées
+
