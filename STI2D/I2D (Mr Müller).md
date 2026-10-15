@@ -271,11 +271,11 @@ ___
 
 
 
-| Rep | Nbr | Désignation | Matière |
-| --- | --- | ----------- | ------- |
-| 1   | 1   | Support     |         |
-| 2   | 1   | Patin       |         |
-| 3   | 1   |             |         |
-| 4   | 1   |             |         |
-| 5   | 1   |             |         |
-| 6   | 1   | Profilé alu |         |
+| Rep | Nbr | Désignation  | Matière |
+| --- | --- | ------------ | ------- |
+| 1   | 1   | Support      |         |
+| 2   | 1   | Patin        |         |
+| 3   | 1   | Tige filetée |         |
+| 4   | 1   |              |         |
+| 5   | 1   |              |         |
+| 6   | 1   | Profilé alu  |         |
