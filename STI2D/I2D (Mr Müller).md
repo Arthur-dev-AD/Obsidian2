@@ -289,4 +289,5 @@ méthode tableau
 
 |                      | REP | 1   | 2   | 3   | 4   | 5   | 6   |
 | -------------------- | --- | --- | --- | --- | --- | --- | --- |
-| Classe d'équivalence |     |     |     |     |     |     |     |
+| Classe d'équivalence |     | X   |     |     |     |     | X   |
+|                      |     |     |     |     |     |     |     |
