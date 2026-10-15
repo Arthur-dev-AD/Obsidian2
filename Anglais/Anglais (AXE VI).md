@@ -10,3 +10,4 @@ This document is a videi entitled "Seattle and Vancouver".
 It is taken from a schoolbook and it presents the two cities.
 Seattle is in the US whike Vancouver is in Canada
 Both cities are environmentally friendly and have low pollution
+Both have pledge to go carbkn neutral by 2050
