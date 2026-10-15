@@ -320,4 +320,4 @@ méthode tableau
 ### Liaison entre B et D : LBD
 
 - Nature de surface de contact : sphère-sphère
-- Nom de la liaison glissière de centre 
+- Nom de la liaison Liaison rotule de sens 
