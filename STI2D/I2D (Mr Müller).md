@@ -283,3 +283,5 @@ ___
 ## 1 ) Classe d'équivalence
 
 Ensemble de pièces en lianson encastrement
+
+méthode tableau
