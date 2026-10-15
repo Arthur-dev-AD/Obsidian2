@@ -285,3 +285,8 @@ ___
 Ensemble de pièces en lianson encastrement
 
 méthode tableau
+
+
+|     |     |
+| --- | --- |
+|     |     |
