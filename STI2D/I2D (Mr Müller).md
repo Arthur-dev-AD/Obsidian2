@@ -297,10 +297,10 @@ méthode tableau
 | C (vert)             |     |     |     | X   |     | X   |     |
 
 ## 2) Groupe des liaisons
-
+![[Diagram.svg]]
 ### Liaison entre A et D : LAD
 
 - Nature de surface de contact (NSC) : Plan-Plan x4
-- Nom de la liaison : Liaison glissière de centre "a"![[Diagram.svg]]
+- Nom de la liaison : Liaison glissière de centre "a" et d'axe X
 
 
