@@ -12,4 +12,4 @@ Seattle is in the US whike Vancouver is in Canada
 Both cities are environmentally friendly and have low pollution
 Both have pledge to go carbkn neutral by 2050
 That means that a 100 % of the energy used there will be renewable energy
-Both have a high quality of life
+Both have a high quality of life and are really expensive.
