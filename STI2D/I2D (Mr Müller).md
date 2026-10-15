@@ -292,3 +292,4 @@ méthode tableau
 | Classe d'équivalence |     |     |     |     |     |     |     |
 | A                    |     | X   |     |     |     |     | X   |
 | B                    |     |     | X   |     |     |     |     |
+| C                    |     |     |     | X   |     |     |     |
