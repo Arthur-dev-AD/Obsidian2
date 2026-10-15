@@ -12,9 +12,9 @@ tags:
 **user**: Fais moi des recherches pour le Renault capture 120 TCE
 [Timestamp: 2026/09/24 13:09:35]
 
-**ai**: Je vois le contexte : votre note [[I2D (müller)]] se termine par « Exemple 2 : Renault Captur 120 TCE » — vous avez sans doute besoin des mêmes données techniques que pour la 2CV (puissance, cylindrée, couple, vitesse, consommation, cycle de vie). Je lance les recherches.
+**ai**: Je vois le contexte : votre note [[I2D (Mr Müller)]] se termine par « Exemple 2 : Renault Captur 120 TCE » — vous avez sans doute besoin des mêmes données techniques que pour la 2CV (puissance, cylindrée, couple, vitesse, consommation, cycle de vie). Je lance les recherches.
 
-Le skill Copilot Plus n'est pas actif, je bascule donc sur mon outil de recherche web intégré.Voici le résultat de mes recherches sur le **Renault Captur 1.2 TCe 120** (essence, 2013-2019) — utile pour votre « Exemple 2 » dans [[I2D (müller)]].
+Le skill Copilot Plus n'est pas actif, je bascule donc sur mon outil de recherche web intégré.Voici le résultat de mes recherches sur le **Renault Captur 1.2 TCe 120** (essence, 2013-2019) — utile pour votre « Exemple 2 » dans [[I2D (Mr Müller)]].
 
 ## Données techniques (fiche type 2013)
 
@@ -54,5 +54,5 @@ Avec les formules de votre note :
 
 Sources : fiches techniques Caradisiac, Auto-Data.net, Auto-Sélection, tests Auto-Moto 2017 et L'Automobile Magazine.
 
-Souhaitez-vous que j'ajoute tout cela directement dans votre note [[I2D (müller)]], dans la section « Exemple 2 » ?
+Souhaitez-vous que j'ajoute tout cela directement dans votre note [[I2D (Mr Müller)]], dans la section « Exemple 2 » ?
 [Timestamp: 2026/09/24 13:09:35]
