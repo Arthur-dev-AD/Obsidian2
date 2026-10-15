@@ -307,3 +307,4 @@ méthode tableau
 2D :
 
 ![[Diagram 1.svg]]
+
