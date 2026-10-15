@@ -87,7 +87,7 @@ Une notion qui manque dans ta note et qui sert souvent juste après : le **nombr
 **user**: Pourrait tu expliquer dans le document dans une note en thermes généraux
 [Timestamp: 2026/10/01 13:33:27]
 
-**ai**: J'ai ajouté une section **« En termes généraux »** au début de [[I2D (müller).md]], juste avant le tableau des DDL. Elle explique le chapitre sans aucune notion de cours préalable :
+**ai**: J'ai ajouté une section **« En termes généraux »** au début de [[I2D (müller)]], juste avant le tableau des DDL. Elle explique le chapitre sans aucune notion de cours préalable :
 
 - **Pourquoi** on fait ça : on ne garde que ce qui bouge, on jette le superflu
 - **Un solide** : une pièce, seule dans le vide, qui peut aller partout
