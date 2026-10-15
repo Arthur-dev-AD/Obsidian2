@@ -264,6 +264,8 @@ ___
 
 ### Exemple : Serre-joint
 
+(shéma)
+
 
 ![[Serre joint.svg]]
 
