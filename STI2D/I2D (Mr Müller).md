@@ -304,3 +304,5 @@ méthode tableau
 - Nom de la liaison : Liaison glissière de centre "a" et d'axe X
 
 
+2D :
+
