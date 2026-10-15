@@ -300,3 +300,4 @@ méthode tableau
 
 ### Liaison entre A et D : LAD
 
+#### Nature de surface de contact (NSC)
