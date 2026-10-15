@@ -287,6 +287,6 @@ Ensemble de pièces en lianson encastrement
 méthode tableau
 
 
-|                      | REP | 1   |     |     |     |     |     |
+|                      | REP | 1   | 2   | 3   | 4   | 5   | 6   |
 | -------------------- | --- | --- | --- | --- | --- | --- | --- |
 | Classe d'équivalence |     |     |     |     |     |     |     |
