@@ -282,4 +282,4 @@ ___
 
 ## 1 ) Classe d'équivalence
 
-Ensemble de
+Ensemble de pièces en lianson encastrement
