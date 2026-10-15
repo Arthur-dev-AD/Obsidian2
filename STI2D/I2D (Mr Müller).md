@@ -267,3 +267,6 @@ ___
 
 ![[Serre joint.svg]]
 
+(Voir Serre joint.svg sur github)
+
+
