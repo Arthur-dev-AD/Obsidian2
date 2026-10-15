@@ -265,3 +265,4 @@ ___
 ### Exemple : Serre-joint
 
 
+![[Diagram.svg]]
