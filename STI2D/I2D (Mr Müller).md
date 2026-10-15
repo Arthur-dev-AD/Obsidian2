@@ -317,4 +317,5 @@ méthode tableau
 | Z   | 0   | 0   |
 1 DDL
 
-#### Liaison entre B et D
+### Liaison entre B et D
+
