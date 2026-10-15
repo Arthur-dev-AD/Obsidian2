@@ -301,6 +301,6 @@ méthode tableau
 ### Liaison entre A et D : LAD
 
 - Nature de surface de contact (NSC) : Plan-Plan x4
-- Nom de la liaison : Liaison glissière 
+- Nom de la liaison : Liaison glissière de centre "a"
 
 
