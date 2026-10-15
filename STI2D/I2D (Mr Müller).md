@@ -295,6 +295,7 @@ méthode tableau
 | A (bleu)             |     | X   |     |     |     |     | X   |
 | B (rouge)            |     |     | X   |     |     |     |     |
 | C (vert)             |     |     |     | X   |     | X   |     |
+| D (noir)             |     |     |     |     | X   |     |     |
 
 ## 2) Groupe des liaisons
 ![[Diagram.svg]]
