@@ -300,4 +300,5 @@ méthode tableau
 
 ### Liaison entre A et D : LAD
 
-#### Nature de surface de contact (NSC)
+#### Nature de surface de contact (NSC) : Plan-Plan x4
+
