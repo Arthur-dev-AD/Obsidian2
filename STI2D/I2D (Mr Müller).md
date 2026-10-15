@@ -271,11 +271,11 @@ ___
 
 
 
-| Rep | Nbr | Désignation  | Matière    |
-| --- | --- | ------------ | ---------- |
-| 1   | 1   | Support      | acier      |
-| 2   | 1   | Patin        | acier inox |
-| 3   | 1   | Tige filetée | acier inox |
-| 4   | 1   | Coulisseau   | acier      |
-| 5   | 1   | Manche       | bois       |
-| 6   | 1   | Profilé alu  | alu inox   |
+| Rep | Nbr | Désignation           | Matière    |
+| --- | --- | --------------------- | ---------- |
+| 1   | 1   | Support               | acier      |
+| 2   | 1   | Patin                 | acier inox |
+| 3   | 1   | Tige filetée          | acier inox |
+| 4   | 1   | Coulisseau            | acier      |
+| 5   | 1   | Manche                | bois       |
+| 6   | 1   | Profilé rectangulaire | acier inox |
