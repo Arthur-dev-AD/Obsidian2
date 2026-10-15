@@ -271,11 +271,11 @@ ___
 
 
 
-| Rep | Nbr | Désignation  | Matière |
-| --- | --- | ------------ | ------- |
-| 1   | 1   | Profilé alu  |         |
-| 2   | 1   | Manche       |         |
-| 3   | 1   | Coulisseur   |         |
-| 4   | 1   | Tige filetée |         |
-| 5   | 1   |              |         |
-| 6   | 1   |              |         |
+| Rep | Nbr | Désignation | Matière |
+| --- | --- | ----------- | ------- |
+| 1   | 1   |             |         |
+| 2   | 1   |             |         |
+| 3   | 1   |             |         |
+| 4   | 1   |             |         |
+| 5   | 1   |             |         |
+| 6   | 1   | Profilé alu |         |
