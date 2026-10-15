@@ -319,3 +319,4 @@ méthode tableau
 
 ### Liaison entre B et D
 
+Nature de surface de contact : 
