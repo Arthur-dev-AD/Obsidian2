@@ -298,5 +298,5 @@ méthode tableau
 
 ## 2) Groupe des liaisons
 
-L 
+Liaison entre A et D
 
