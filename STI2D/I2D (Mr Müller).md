@@ -322,3 +322,6 @@ méthode tableau
 
 - Nature de surface de contact : sphère-sphère
 - Nom de la liaison Liaison rotule de centre b
+
+2D :
+
