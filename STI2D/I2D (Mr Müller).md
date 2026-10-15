@@ -290,6 +290,8 @@ méthode tableau
 |                      | REP | 1   | 2   | 3   | 4   | 5   | 6   |
 | -------------------- | --- | --- | --- | --- | --- | --- | --- |
 | Classe d'équivalence |     |     |     |     |     |     |     |
-| A                    |     | X   |     |     |     |     | X   |
-| B                    |     |     | X   |     |     |     |     |
-| C                    |     |     |     | X   |     | X   |     |
+| A (bleu)             |     | X   |     |     |     |     | X   |
+| B (rouge)            |     |     | X   |     |     |     |     |
+| C (vert)             |     |     |     | X   |     | X   |     |
+
+## 1) Groupe des liaisons
