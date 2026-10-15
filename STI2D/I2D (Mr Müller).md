@@ -287,6 +287,6 @@ Ensemble de pièces en lianson encastrement
 méthode tableau
 
 
-|     |     |
-| --- | --- |
-|     |     |
+|          |     |
+| -------- | --- |
+| Classe t |     |
