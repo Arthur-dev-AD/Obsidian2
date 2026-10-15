@@ -276,6 +276,6 @@ ___
 | 1   | 1   | Support      |         |
 | 2   | 1   | Patin        |         |
 | 3   | 1   | Tige filetée |         |
-| 4   | 1   |              |         |
-| 5   | 1   |              |         |
+| 4   | 1   | Coulisseau   |         |
+| 5   | 1   | Manche       |         |
 | 6   | 1   | Profilé alu  |         |
