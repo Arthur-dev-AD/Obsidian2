@@ -298,3 +298,5 @@ méthode tableau
 
 ## 2) Groupe des liaisons
 
+L 
+
