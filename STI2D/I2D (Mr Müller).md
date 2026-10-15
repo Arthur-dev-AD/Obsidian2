@@ -279,3 +279,7 @@ ___
 | 4   | 1   | Coulisseau            | acier      |
 | 5   | 1   | Manche                | bois       |
 | 6   | 1   | Profilé rectangulaire | acier inox |
+
+## 1 ) Classe d'équivalence
+
+Ensemb
