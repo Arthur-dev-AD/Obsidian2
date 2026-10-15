@@ -262,4 +262,5 @@ ___
 # Modélisation des mécanismes
 
 
-### Exemple : Serre
+### Exemple : Serre-joint
+
