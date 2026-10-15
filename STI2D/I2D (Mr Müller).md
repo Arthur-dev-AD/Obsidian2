@@ -278,4 +278,4 @@ ___
 | 3   | 1   | Tige filetée | acier inox |
 | 4   | 1   | Coulisseau   | acier      |
 | 5   | 1   | Manche       | bois       |
-| 6   | 1   | Profilé alu  |            |
+| 6   | 1   | Profilé alu  | alu inox   |
