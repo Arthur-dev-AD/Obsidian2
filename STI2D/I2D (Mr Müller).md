@@ -298,7 +298,7 @@ méthode tableau
 | D (noir)             |     |     |     |     | X   |     |     |
 
 ## 2) Groupe des liaisons
-![[Diagram.svg]]
+![[liens.svg]]
 ### Liaison entre A et D : LAD
 
 - Nature de surface de contact (NSC) : Plan-Plan x4
