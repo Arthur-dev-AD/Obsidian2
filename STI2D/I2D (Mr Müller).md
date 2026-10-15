@@ -296,4 +296,5 @@ méthode tableau
 | B (rouge)            |     |     | X   |     |     |     |     |
 | C (vert)             |     |     |     | X   |     | X   |     |
 
-## 1) Groupe des liaisons
+## 2) Groupe des liaisons
+
