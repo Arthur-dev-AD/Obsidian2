@@ -261,3 +261,5 @@ Il existe 3 types de contact :
 ___
 # Modélisation des mécanismes
 
+
+### Exemple : Serre
