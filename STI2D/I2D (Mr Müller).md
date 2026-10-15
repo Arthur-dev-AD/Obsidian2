@@ -307,7 +307,7 @@ méthode tableau
 
 2D :
 
-![[Diagram 1.svg]]
+![[glissière.svg]]
 
 - Tableau des mobilitées
 
