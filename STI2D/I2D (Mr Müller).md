@@ -407,4 +407,4 @@ méthode tableau
 | E (jaune)            |     |     |     |     |     |     |     |     | X   |     |     |     |
 | F (violet)           |     |     |     |     |     |     |     |     |     | X   |     |     |
 | G (rose)             |     |     |     |     |     |     |     |     |     |     | X   |     |
-| H                    |     |     |     |     |     |     |     |     |     |     |     | X   |
+| H (orange)           |     |     |     |     |     |     |     |     |     |     |     | X   |
