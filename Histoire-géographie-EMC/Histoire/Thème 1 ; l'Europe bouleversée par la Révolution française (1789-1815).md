@@ -205,7 +205,7 @@ Napoléon fait un coup d'état le 18 Brumaire an VII (8-9 novembre 1799)
 | Contexte ?   | La France est affaiblie par le directoire           |
 | ------------ | --------------------------------------------------- |
 | Quand ? Où ? | Le 18 brumaire an VII à Saint-Cloud (hors de Paris) |
-| Pourquoi ?   |                                                     |
-| Qui ?        |                                                     |
+| Pourquoi ?   | Gouvernement riche, corrompu et détesté             |
+| Qui ?        | Napoléon Bonaparte,                                 |
 | Buts ?       |                                                     |
 | Faits ?      |                                                     |
