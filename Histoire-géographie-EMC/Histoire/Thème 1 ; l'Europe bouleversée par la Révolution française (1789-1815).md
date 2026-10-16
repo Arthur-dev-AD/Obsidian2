@@ -179,4 +179,6 @@ Les Girondis était contre ce verdict tandis que les Montagnards étaient pour.
 
 Cette décision causent des révoltes de Royalistes de Vendée et de Bretagne contre la République.
 
-Ils seront exécutés en juin 1793. On parle donc de coup d'état des Montagnards et de leur chef, Robespierre. Il crée le
+Ils seront exécutés en juin 1793. On parle donc de coup d'état des Montagnards et de leur chef, Robespierre. Il met en place la terreur et crée le Commité du salut publique.
+
+La loi sur les suspect permet d'exectuter 
