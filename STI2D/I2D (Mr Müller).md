@@ -361,7 +361,7 @@ Tableau des mobilitées
 1 DDL
 
 ___
-## Exemple : étaux
+## Exemple : étau de modélisme
 
 
 (schéma)
