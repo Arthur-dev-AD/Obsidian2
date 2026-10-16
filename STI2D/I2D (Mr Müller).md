@@ -344,3 +344,6 @@ Tableau des mobilitées
 
 Nature de surface de contact : cylindre-cylindre
 Nom de la liaison : Liaison hélicoïdale de centre "c"
+
+2D :
+
