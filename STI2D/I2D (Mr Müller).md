@@ -393,7 +393,7 @@ ___
 
 ## 1 ) Classe d'équivalence
 
-Ensemble de pièces en lianson encastrement
+Ensemble de pièces en liaison encastrement
 
 méthode tableau
 
