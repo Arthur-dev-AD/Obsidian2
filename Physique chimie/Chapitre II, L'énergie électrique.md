@@ -53,7 +53,7 @@ La période T correspond à la plus petite durée pour qu'un phénomène se repr
 
 La fréquence f est le nombre de périodes par seconde. Son unité est le Hertz (Hz).
 
-On a la relation suivante : ==f = 1/T==
+On a la relation suivante : ==🔴f = 1/T==
 
 Avec f en Hertz et T en secondes
 
@@ -71,7 +71,7 @@ Une tension périodique n'a pas constamment la même valeur de tension. Pour cel
 
 Pour une tension alternative alternative sinusoïdale, la valeur efficace se calcule ainsi :
 
-==Ueff = Umax/√2==
+==🔴Ueff = Umax/√2==
 
 ## IV ) Conducteur ohmique
 
