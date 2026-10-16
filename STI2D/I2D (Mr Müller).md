@@ -364,3 +364,5 @@ ___
 ## Exemple : étaux
 
 
+(schéma)
+
