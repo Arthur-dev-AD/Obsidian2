@@ -402,5 +402,5 @@ méthode tableau
 | Classe d'équivalence |     |     |     |     |     |     |     |     |     |     |     |     |
 | A (bleu)             |     | X   | X   |     | X   |     |     |     |     |     |     |     |
 | B (rouge)            |     | X   |     | X   |     |     | X   |     |     |     |     |     |
-| C (vert)             |     |     |     |     |     |     |     |     |     |     |     |     |
+| C (vert)             |     |     |     |     |     | X   |     |     |     |     |     |     |
 | D (noir)             |     |     |     |     |     |     |     |     |     |     |     |     |
