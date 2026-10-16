@@ -386,7 +386,7 @@ ___
 | 5   | 1   | Base fixe      | acier inox |
 | 6   | 2   | Barre guides   | acier inox |
 | 7   | 1   | Vis de serrage | acier inox |
-| 8   |     |                |            |
+| 8   | 1   |                |            |
 | 9   |     |                |            |
 | 10  |     |                |            |
 | 11  |     |                |            |
