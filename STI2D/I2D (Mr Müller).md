@@ -377,16 +377,16 @@ ___
 (Voir étau.svg sur github)
 
 
-| Rep | Nbr | Désignation                   | Matière    |
-| --- | --- | ----------------------------- | ---------- |
-| 1   | 2   | protège-objet                 | plastique  |
-| 2   | 1   | Support Fixe                  | acier inox |
-| 3   | 1   | Support mobile                | acier inox |
-| 4   | 1   | Boule pivot                   | plastique  |
-| 5   | 1   | Base fixe                     | acier inox |
-| 6   | 2   | Barre guides                  | acier inox |
-| 7   | 1   | Vis de serrage                | acier inox |
-| 8   | 1   | Manche vis de serrage support | acier inox |
-| 9   | 1   | Manche vis de serrage base    | acier inox |
-| 10  | 1   | Vis de serrage du pivot       |            |
-| 11  |     |                               |            |
+| Rep | Nbr | Désignation                    | Matière    |
+| --- | --- | ------------------------------ | ---------- |
+| 1   | 2   | protège-objet                  | plastique  |
+| 2   | 1   | Support Fixe                   | acier inox |
+| 3   | 1   | Support mobile                 | acier inox |
+| 4   | 1   | Boule pivot                    | plastique  |
+| 5   | 1   | Base fixe                      | acier inox |
+| 6   | 2   | Barre guides                   | acier inox |
+| 7   | 1   | Vis de serrage                 | acier inox |
+| 8   | 1   | Manche vis de serrage support  | acier inox |
+| 9   | 1   | Manche vis de serrage du pivot | acier inox |
+| 10  | 1   | Vis de serrage du pivot        |            |
+| 11  |     |                                |            |
