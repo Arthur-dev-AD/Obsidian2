@@ -348,3 +348,5 @@ Nom de la liaison : Liaison hélicoïdale de centre "c"
 2D :
 
 ![[hélicoïdal.svg]]
+
+(voir hélicoïdale.svg sur github)
