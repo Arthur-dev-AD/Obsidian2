@@ -333,11 +333,11 @@ méthode tableau
 
 Tableau des mobilitées
 
-|     | T   | R   |
-| --- | --- | --- |
-| X   | 0   | Rx  |
-| Y   | 0   | Ry  |
-| Z   | 0   | Rz  |
+|     | T   | R   |     |
+| --- | --- | --- | --- |
+| X   | 0   | Rx  |     |
+| Y   | 0   | Ry  |     |
+| Z   | 0   | Rz  |     |
 3 DDL
 
 ### Liaison entre C et D
@@ -350,3 +350,4 @@ Nom de la liaison : Liaison hélicoïdale de centre "c"
 ![[hélicoïdal.svg]]
 
 (voir hélicoïdale.svg sur github)
+
