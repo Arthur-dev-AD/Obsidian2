@@ -377,16 +377,16 @@ ___
 (Voir étau.svg sur github)
 
 
-| Rep | Nbr | Désignation           | Matière    |
-| --- | --- | --------------------- | ---------- |
-| 1   | 2   | protège-objet         | plastique  |
-| 2   | 1   | Support Fixe          | acier inox |
-| 3   | 1   | Support mobile        | acier inox |
-| 4   | 2   | Boule pivot           | aluminium  |
-| 5   | 1   | Base fixe             | bois       |
-| 6   | 1   | Profilé rectangulaire | acier inox |
-| 7   |     |                       |            |
-| 8   |     |                       |            |
-| 9   |     |                       |            |
-| 10  |     |                       |            |
-| 11  |     |                       |            |
+| Rep | Nbr | Désignation    | Matière    |
+| --- | --- | -------------- | ---------- |
+| 1   | 2   | protège-objet  | plastique  |
+| 2   | 1   | Support Fixe   | acier inox |
+| 3   | 1   | Support mobile | acier inox |
+| 4   | 1   | Boule pivot    | plastique  |
+| 5   | 1   | Base fixe      | bois       |
+| 6   | 2   |                | acier inox |
+| 7   |     |                |            |
+| 8   |     |                |            |
+| 9   |     |                |            |
+| 10  |     |                |            |
+| 11  |     |                |            |
