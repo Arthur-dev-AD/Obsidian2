@@ -197,4 +197,7 @@ Retour du suffrage censitaire avec énormément de corruption
 
 # Leçon 4 : La France de Napoléon Bonaparte (1799-1815)
 
-###
+### Comment la France est-elle gouvernée sous Napoléon ?
+
+Napoléon fait un coup d'état le 18 Brumaire an VII (8-9 novembre 1799)
+
