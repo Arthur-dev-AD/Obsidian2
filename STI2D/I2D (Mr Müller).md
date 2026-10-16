@@ -355,7 +355,7 @@ Tableau des mobilitées
 
 |     | T   | R   |
 | --- | --- | --- |
-| X   | 0   | 0   |
+| X   | 0   | Rx  |
 | Y   | 0   | 0   |
 | Z   | 0   | 0   |
 3 DDL
