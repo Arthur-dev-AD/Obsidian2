@@ -339,3 +339,5 @@ Tableau des mobilitées
 | Y   | 0   | Ry  |
 | Z   | 0   | Rz  |
 3 DDL
+
+### Liaison entre B et 
