@@ -367,3 +367,5 @@ ___
 (schéma)
 
 ![[étau.svg]]
+
+(Voir étau.svg sur github)
