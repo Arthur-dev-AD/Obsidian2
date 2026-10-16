@@ -391,3 +391,11 @@ ___
 | 10  | 1   | Vis de serrage du blocage du pivot        | acier ino  |
 | 11  | 1   | Base blocage du pivot                     | acier inox |
 
+
+|                      | REP | 1   | 2   | 3   | 4   | 5   | 6   |
+| -------------------- | --- | --- | --- | --- | --- | --- | --- |
+| Classe d'équivalence |     |     |     |     |     |     |     |
+| A (bleu)             |     | X   |     |     |     |     | X   |
+| B (rouge)            |     |     | X   |     |     |     |     |
+| C (vert)             |     |     |     | X   |     | X   |     |
+| D (noir)             |     |     |     |     | X   |     |     |
