@@ -208,4 +208,4 @@ Napoléon fait un coup d'état le 18 Brumaire an VII (8-9 novembre 1799)
 | Pourquoi ?   | Gouvernement riche, corrompu et détesté                                                                                                                                                         |
 | Qui ?        | Le général Napoléon Bonaparte, Le général Murat, Lucien Bonaparte (président de l'Assemblée), Joseph Bonaparte, Talleyrand (Ministre des affaires étrangères) et Fouché (Ministre de la police) |
 | Buts ?       | Renverser le directoire pour promouvoir le Consulat constitué de 3 consul                                                                                                                       |
-| Faits ?      |                                                                                                                                                                                                 |
+| Faits ?      | L'Assemblée vote la dissolution du directoire et promu le consulat sous pression militaire                                                                                                      |
