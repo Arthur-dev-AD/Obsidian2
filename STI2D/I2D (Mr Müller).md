@@ -390,3 +390,4 @@ ___
 | 9   | 1   | Manche vis de serrage du blocage du pivot | acier inox |
 | 10  | 1   | Vis de serrage du blocage du pivot        | acier ino  |
 | 11  | 1   | Base blocage du pivot                     | acier inox |
+
