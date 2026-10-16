@@ -90,3 +90,7 @@ Toute l'énergie reçue est dissipée sous la forme de chaleur (énergie thermiq
 ==P = *UR* x I ou *UR* = R x I donc P = R x I²
 
 (avec P en Joules)
+
+### 4 ) Proportionalité
+
+Comme c'est proportionnel, la caractéristique d'un conducteur ohmique 
