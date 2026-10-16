@@ -343,4 +343,4 @@ Tableau des mobilitées
 ### Liaison entre C et D
 
 Nature de surface de contact : cylindre-cylindre
-Nom de la liaison : 
+Nom de la liaison : Liaison hélicoïdale
