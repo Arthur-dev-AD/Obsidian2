@@ -360,7 +360,7 @@ Tableau des mobilitées
 | Z   | 0    | 0   |
 1 DDL
 
-#### Shéma cinématique en 2D
+#### Schéma cinématique en 2D
 Méthode :
 - mettre en place à gauche le repère O, x, y
 - Positionner les centres des liaisons
@@ -400,7 +400,7 @@ méthode tableau
 |                      | REP | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
 | -------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Classe d'équivalence |     |     |     |     |     |     |     |     |     |     |     |     |
-| A (bleu)             |     |     |     |     |     |     |     |     |     |     |     |     |
+| A (bleu)             |     |     | X   |     | X   |     |     |     |     |     |     |     |
 | B (rouge)            |     |     |     |     |     |     |     |     |     |     |     |     |
 | C (vert)             |     |     |     |     |     |     |     |     |     |     |     |     |
 | D (noir)             |     |     |     |     |     |     |     |     |     |     |     |     |
