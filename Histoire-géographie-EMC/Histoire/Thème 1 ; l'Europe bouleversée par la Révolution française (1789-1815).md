@@ -175,5 +175,7 @@ Le régime est politiquement divisé :
 ### Procès de Louis XVI
 
 Louis XVI est condamnée pour trahison et est guillotiné le 21 janvier 1793.
-
 Les Girondis était contre ce verdict tandis que les Montagnards étaient pour.
+
+Cette décision causent des révoltes de Royalistes de Vendée et de Bretagne contre la République.
+
