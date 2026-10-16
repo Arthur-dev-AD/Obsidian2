@@ -93,4 +93,4 @@ Toute l'énergie reçue est dissipée sous la forme de chaleur (énergie thermiq
 
 ### 4 ) Proportionalité
 
-Comme c'est proportionnel, la caractéristique d'un conducteur ohmique 
+Comme c'est proportionnel, la caractéristique d'un conducteur ohmique Ur = f(Ir)
