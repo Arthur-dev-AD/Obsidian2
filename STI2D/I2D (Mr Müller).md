@@ -379,7 +379,7 @@ ___
 
 | Rep | Nbr | Désignation                    | Matière    |
 | --- | --- | ------------------------------ | ---------- |
-| 1   | 2   | protège-objet                  | plastique  |
+| 1   | 2   | Protège-objet                  | plastique  |
 | 2   | 1   | Support Fixe                   | acier inox |
 | 3   | 1   | Support mobile                 | acier inox |
 | 4   | 1   | Boule pivot                    | plastique  |
@@ -389,4 +389,4 @@ ___
 | 8   | 1   | Manche vis de serrage support  | acier inox |
 | 9   | 1   | Manche vis de serrage du pivot | acier inox |
 | 10  | 1   | Vis de serrage du pivot        |            |
-| 11  |     |                                |            |
+| 11  | 1   |                                |            |
