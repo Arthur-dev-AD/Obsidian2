@@ -362,7 +362,9 @@ Tableau des mobilitées
 
 #### Shéma cinématique en 2D
 Méthode :
-- mettre en place l
+- mettre en place à gauche le repère O, x, y
+- Positionner les centres des liaisons
+- Tracer les liaisons normalisées 
 
 ___
 ## Exemple : étau de modélisme
