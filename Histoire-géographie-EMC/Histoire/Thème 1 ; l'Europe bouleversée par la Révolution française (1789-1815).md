@@ -191,4 +191,4 @@ Le 28 juillet 1794 Robespierre est arrêté et condamné pour tyrannie et fut gu
 
 ### 1 ) Le directoire ou la République bourgeoise (1795-1799)
 
-5 directeurs gouvernent 
+5 directeurs gouverne
