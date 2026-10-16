@@ -362,6 +362,7 @@ Tableau des mobilitées
 
 #### Shéma cinématique en 2D
 Méthode :
+- mettre en place l
 
 ___
 ## Exemple : étau de modélisme
@@ -387,5 +388,3 @@ ___
 | 9   |     |                       |            |
 | 10  |     |                       |            |
 | 11  |     |                       |            |
-| 12  |     |                       |            |
-| 13  |     |                       |            |
