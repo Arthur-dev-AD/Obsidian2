@@ -364,7 +364,7 @@ Tableau des mobilitées
 Méthode :
 - mettre en place à gauche le repère O, x, y
 - Positionner les centres des liaisons
-- Tracer les liaisons normalisées 
+- Tracer les liaisons normalisées en ces centres
 
 ___
 ## Exemple : étau de modélisme
