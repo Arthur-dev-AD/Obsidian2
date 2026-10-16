@@ -379,3 +379,7 @@ ___
 | 4   | 1   | Coulisseau            | acier      |
 | 5   | 1   | Manche                | bois       |
 | 6   | 1   | Profilé rectangulaire | acier inox |
+| 7   |     |                       |            |
+| 8   |     |                       |            |
+| 9   |     |                       |            |
+|     |     |                       |            |
