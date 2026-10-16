@@ -340,4 +340,7 @@ Tableau des mobilitées
 | Z   | 0   | Rz  |
 3 DDL
 
-### Liaison entre B et 
+### Liaison entre C et D
+
+Nature de surface de contact : cylindre-cylindre
+Nom de la liaison : 
