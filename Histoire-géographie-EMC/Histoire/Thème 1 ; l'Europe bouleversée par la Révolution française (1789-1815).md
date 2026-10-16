@@ -187,3 +187,8 @@ Une véritable dictature est mise en place : 30 000 à 40 000 seront guillotiné
 
 Le 28 juillet 1794 Robespierre est arrêté et condamné pour tyrannie et fut guillotiné
 
+## D ) La fin de la République
+
+### 1 ) Le directoire ou la République bourgeoise (1795-1799)
+
+5 directeurs gouvernent 
