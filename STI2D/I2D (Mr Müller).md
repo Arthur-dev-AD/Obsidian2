@@ -342,7 +342,7 @@ Tableau des mobilitées
 
 ### Liaison entre C et D : LCD
 
-Nature de surface de contact : cylindre-cylindre
+Nature de surface de contact : hélicoïdale
 Nom de la liaison : Liaison hélicoïdale de centre "c"
 
 2D :
