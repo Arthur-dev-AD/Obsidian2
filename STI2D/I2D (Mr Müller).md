@@ -403,4 +403,4 @@ méthode tableau
 | A (bleu)             |     | X   | X   |     | X   |     |     |     |     |     |     |     |
 | B (rouge)            |     | X   |     | X   |     |     | X   |     |     |     |     |     |
 | C (vert)             |     |     |     |     |     | X   |     |     |     |     |     |     |
-| D (noir)             |     |     |     |     |     |     |     |     |     |     |     |     |
+| D (noir)             |     |     |     |     |     |     |     | X   |     |     |     |     |
