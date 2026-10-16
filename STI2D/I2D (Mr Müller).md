@@ -358,4 +358,4 @@ Tableau des mobilitées
 | X   | k. Rx | Rx  |
 | Y   | 0     | 0   |
 | Z   | 0     | 0   |
-2 DDL
+1 DDL
