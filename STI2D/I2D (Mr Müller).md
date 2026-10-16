@@ -375,7 +375,7 @@ ___
 | --- | --- | --------------------- | ---------- |
 | 1   | 2   | protège-objet         | plastique  |
 | 2   | 1   | Support Fixe          | acier inox |
-| 3   | 1   | Tige filetée          | acier inox |
+| 3   | 1   | Support mobile        | acier inox |
 | 4   | 1   | Coulisseau            | acier      |
 | 5   | 1   | Manche                | bois       |
 | 6   | 1   | Profilé rectangulaire | acier inox |
