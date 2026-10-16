@@ -181,4 +181,4 @@ Cette décision causent des révoltes de Royalistes de Vendée et de Bretagne co
 
 Ils seront exécutés en juin 1793. On parle donc de coup d'état des Montagnards et de leur chef, Robespierre. Il met en place la terreur et crée le Commité du salut publique.
 
-La loi sur les suspect permet d'exécuter des citoyens sur la base de
+La loi sur les suspect permet d'exécuter des citoyens sur la base de suspicions : On revient à la justice arbitraire
