@@ -299,7 +299,7 @@ méthode tableau
 
 ## 2) Groupe des liaisons
 ![[liens.svg]]
-(Voir liens )
+(Voir liens.svg sur github)
 ### Liaison entre A et D : LAD
 
 - Nature de surface de contact (NSC) : Plan-Plan x4
