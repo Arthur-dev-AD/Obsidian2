@@ -366,4 +366,4 @@ ___
 
 (schéma)
 
-![[Diagram.svg]]
+![[étau.svg]]
