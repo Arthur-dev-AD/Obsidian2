@@ -179,3 +179,4 @@ Les Girondis était contre ce verdict tandis que les Montagnards étaient pour.
 
 Cette décision causent des révoltes de Royalistes de Vendée et de Bretagne contre la République.
 
+Ils seront éxecutés en juin 1793. On parle donc de coup d'état des Montagnards et de leur chef, Robespierre
