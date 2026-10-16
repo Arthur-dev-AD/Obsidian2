@@ -21,7 +21,7 @@ Un voltmètre se branche en **dérivation**
 
 Un ampèremètre se branche en **série**
 
-La puissance électrique se calcule par la formule ==P = U x I==
+La puissance électrique se calcule par la formule ==🔴P = U x I==
 
 Pour les dipôles générateurs, on adopte la convention générateur
 
