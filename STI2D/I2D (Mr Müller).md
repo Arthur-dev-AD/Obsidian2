@@ -366,6 +366,8 @@ Méthode :
 - Positionner les centres des liaisons
 - Tracer les liaisons normalisées en ces centres
 
+
+
 ___
 ## Exemple : étau de modélisme
 
