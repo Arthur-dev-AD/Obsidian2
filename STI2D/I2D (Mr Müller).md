@@ -391,11 +391,16 @@ ___
 | 10  | 1   | Vis de serrage du blocage du pivot        | acier ino  |
 | 11  | 1   | Base blocage du pivot                     | acier inox |
 
+## 1 ) Classe d'équivalence
 
-|                      | REP | 1   | 2   | 3   | 4   | 5   | 6   |
-| -------------------- | --- | --- | --- | --- | --- | --- | --- |
-| Classe d'équivalence |     |     |     |     |     |     |     |
-| A (bleu)             |     | X   |     |     |     |     | X   |
-| B (rouge)            |     |     | X   |     |     |     |     |
-| C (vert)             |     |     |     | X   |     | X   |     |
-| D (noir)             |     |     |     |     | X   |     |     |
+Ensemble de pièces en lianson encastrement
+
+méthode tableau
+
+|                      | REP | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
+| -------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Classe d'équivalence |     |     |     |     |     |     |     |     |     |     |     |     |
+| A (bleu)             |     |     |     |     |     |     |     |     |     |     |     |     |
+| B (rouge)            |     |     |     |     |     |     |     |     |     |     |     |     |
+| C (vert)             |     |     |     |     |     |     |     |     |     |     |     |     |
+| D (noir)             |     |     |     |     |     |     |     |     |     |     |     |     |
