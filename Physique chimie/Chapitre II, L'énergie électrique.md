@@ -93,4 +93,7 @@ Toute l'énergie reçue est dissipée sous la forme de chaleur (énergie thermiq
 
 ### 4 ) Proportionalité
 
-Comme c'est proportionnel, la caractéristique d'un conducteur ohmique UR = f(IR)est une droite qui passe par l'origine
+Comme c'est proportionnel, la caractéristique d'un conducteur ohmique UR = f(IR)est une droite qui passe par l'origine. Le conducteur ohmique est un dipôle passif. Le coefficient directeur de la droite vaut R.
+
+### 5 ) Energie perdue par effet Joule
+
