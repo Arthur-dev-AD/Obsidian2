@@ -385,7 +385,7 @@ ___
 | 4   | 1   | Boule pivot    | plastique  |
 | 5   | 1   | Base fixe      | acier inox |
 | 6   | 2   | Barre guides   | acier inox |
-| 7   |     |                |            |
+| 7   | 1   | Vis de serrage | acier inox |
 | 8   |     |                |            |
 | 9   |     |                |            |
 | 10  |     |                |            |
