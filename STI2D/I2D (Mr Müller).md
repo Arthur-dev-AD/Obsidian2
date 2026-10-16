@@ -347,4 +347,4 @@ Nom de la liaison : Liaison hélicoïdale de centre "c"
 
 2D :
 
-![[Diagram 1.svg]]
+![[hélicoïdal.svg]]
