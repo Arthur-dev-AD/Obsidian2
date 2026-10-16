@@ -328,7 +328,7 @@ méthode tableau
 2D :
 
 ![[Rotule.svg]]
-(voir )
+(voir rotule.svg sur github)
 
 
 Tableau des mobilitées
