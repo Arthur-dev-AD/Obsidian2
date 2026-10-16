@@ -373,8 +373,8 @@ ___
 
 | Rep | Nbr | Désignation           | Matière    |
 | --- | --- | --------------------- | ---------- |
-| 1   | 2   | Support               | acier      |
-| 2   |     | Patin                 | acier inox |
+| 1   | 2   | protège-objet         | plastique  |
+| 2   | 1   | Pince fixe            | acier inox |
 | 3   | 1   | Tige filetée          | acier inox |
 | 4   | 1   | Coulisseau            | acier      |
 | 5   | 1   | Manche                | bois       |
