@@ -340,7 +340,7 @@ Tableau des mobilitées
 | Z   | 0   | Rz  |
 3 DDL
 
-### Liaison entre C et D
+### Liaison entre C et D : LCD
 
 Nature de surface de contact : cylindre-cylindre
 Nom de la liaison : Liaison hélicoïdale de centre "c"
@@ -355,7 +355,7 @@ Tableau des mobilitées
 
 |     | T   | R   |
 | --- | --- | --- |
-| X   | 0   | Rx  |
-| Y   | 0   | Ry  |
-| Z   | 0   | Rz  |
+| X   | 0   | 0   |
+| Y   | 0   | 0   |
+| Z   | 0   | 0   |
 3 DDL
