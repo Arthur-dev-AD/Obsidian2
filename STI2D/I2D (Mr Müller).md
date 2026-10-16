@@ -382,7 +382,7 @@ ___
 | 1   | 2   | protège-objet         | plastique  |
 | 2   | 1   | Support Fixe          | acier inox |
 | 3   | 1   | Support mobile        | acier inox |
-| 4   | 2   | Barre de guidage      | aluminium  |
+| 4   | 2   | Boule pivot           | aluminium  |
 | 5   | 1   | Base fixe             | bois       |
 | 6   | 1   | Profilé rectangulaire | acier inox |
 | 7   |     |                       |            |
