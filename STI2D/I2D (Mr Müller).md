@@ -323,7 +323,7 @@ méthode tableau
 ### Liaison entre B et D : LBD
 
 - Nature de surface de contact : sphère-sphère
-- Nom de la liaison Liaison rotule de centre b
+- Nom de la liaison Liaison rotule de centre "b"
 
 2D :
 
@@ -343,4 +343,4 @@ Tableau des mobilitées
 ### Liaison entre C et D
 
 Nature de surface de contact : cylindre-cylindre
-Nom de la liaison : Liaison hélicoïdale
+Nom de la liaison : Liaison hélicoïdale de centre "c"
