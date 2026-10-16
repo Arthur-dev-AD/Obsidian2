@@ -309,6 +309,7 @@ méthode tableau
 2D :
 
 ![[glissière.svg]]
+(voir glissière.svg sur github)
 
 - Tableau des mobilitées
 
@@ -327,6 +328,7 @@ méthode tableau
 2D :
 
 ![[Rotule.svg]]
+(voir )
 
 
 Tableau des mobilitées
