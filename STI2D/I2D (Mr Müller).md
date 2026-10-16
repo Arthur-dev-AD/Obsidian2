@@ -360,6 +360,9 @@ Tableau des mobilitées
 | Z   | 0    | 0   |
 1 DDL
 
+#### Shéma cinématique en 2D
+Méthode :
+
 ___
 ## Exemple : étau de modélisme
 
