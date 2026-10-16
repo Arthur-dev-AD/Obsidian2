@@ -374,7 +374,7 @@ ___
 | Rep | Nbr | Désignation           | Matière    |
 | --- | --- | --------------------- | ---------- |
 | 1   | 2   | Support               | acier      |
-| 2   | 1   | Patin                 | acier inox |
+| 2   |     | Patin                 | acier inox |
 | 3   | 1   | Tige filetée          | acier inox |
 | 4   | 1   | Coulisseau            | acier      |
 | 5   | 1   | Manche                | bois       |
