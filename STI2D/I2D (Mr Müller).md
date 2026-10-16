@@ -353,9 +353,9 @@ Nom de la liaison : Liaison hélicoïdale de centre "c"
 
 Tableau des mobilitées
 
-|     | T       | R   |
-| --- | ------- | --- |
-| X   | Rx x Tx | Rx  |
-| Y   | 0       | 0   |
-| Z   | 0       | 0   |
+|     | T     | R   |
+| --- | ----- | --- |
+| X   | k. Rx | Rx  |
+| Y   | 0     | 0   |
+| Z   | 0     | 0   |
 2 DDL
