@@ -381,8 +381,8 @@ ___
 
 | Rep | Nbr | Désignation                               | Matière    |
 | --- | --- | ----------------------------------------- | ---------- |
-| 1   | 2   | Protège-objet                             | plastique  |
-| 2   | 1   | Support Fixe                              | acier inox |
+| 1   | 2   | Support                                   | plastique  |
+| 2   | 1   | Ventouse                                  | acier inox |
 | 3   | 1   | Support mobile                            | acier inox |
 | 4   | 1   | Boule pivot                               | plastique  |
 | 5   | 1   | Base fixe                                 | acier inox |
