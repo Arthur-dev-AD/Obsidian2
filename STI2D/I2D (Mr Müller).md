@@ -370,3 +370,8 @@ Méthode :
 
 ___
 # Etau de modéliste
+
+
+|     |     |
+| --- | --- |
+|     |     |
