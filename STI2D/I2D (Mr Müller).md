@@ -385,7 +385,7 @@ ___
 | 2   | 1   | Ventouse                                  | acier inox |
 | 3   | 1   | Levier                                    | acier inox |
 | 4   | 1   | Bouchon                                   | plastique  |
-| 5   | 1   | Ba                                        | acier inox |
+| 5   | 1   | Ecrou                                     | acier inox |
 | 6   | 2   | Barre guides                              | acier inox |
 | 7   | 1   | Vis de serrage                            | acier inox |
 | 8   | 1   | Manche vis de serrage support             | acier inox |
