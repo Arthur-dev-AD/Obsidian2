@@ -15,3 +15,4 @@ That means that a 100 % of the energy used there will be renewable energy
 Both have a high quality of life and are really expensive.
 
 Document 3 : Text about healthcare
+
