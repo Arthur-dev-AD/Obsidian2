@@ -20,4 +20,4 @@ Document 3 : Text about healthcare
 
 This document is an extrait of seatosummillaska.com, it it about the healthcar differences between the US and Canada.
 
-3 )  
+3 )  When y
