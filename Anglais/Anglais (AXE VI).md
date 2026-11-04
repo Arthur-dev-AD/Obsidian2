@@ -20,4 +20,4 @@ Document 3 : Text about healthcare
 
 This document is an article entitled "Healthcare" and is taken from seatosummillaska.com, it is about the healthcar differences between the US and Canada.
 
-3 )  When your compare healthcare between the US and Canada, Vancouver is the best between the two. The US
+3 )  When your compare healthcare between the US and Canada, Vancouver is the best between the two. The US 
