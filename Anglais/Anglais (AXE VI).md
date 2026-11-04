@@ -17,3 +17,5 @@ Both have a high quality of life and are really expensive.
 Document 3 : Text about healthcare
 
 2 ) present the document 
+
+This document is an extrait of seatosummillaska.com, it it about the healthcar differences between the US and Canada.
