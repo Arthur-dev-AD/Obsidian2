@@ -415,3 +415,5 @@ Symbole normalisé en 2D :
 1 DDL
 
 LCB
+
+Nature de surface de contact : 
