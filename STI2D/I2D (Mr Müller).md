@@ -453,7 +453,7 @@ Nom de la liaison : Liaison glissière d'axe (A,x)
 LBD 
 
 Nature de surface de contact : Cylindre-Cylindre
-Nom de la liaison : Liaison pivot
+Nom de la liaison : Liaison pivot d'axe(A, x)
 2D :
 ![[pivot.svg]]
 
