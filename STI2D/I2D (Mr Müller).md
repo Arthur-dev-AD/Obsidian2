@@ -353,11 +353,11 @@ Nom de la liaison : Liaison hélicoïdale de centre "c"
 
 Tableau des mobilitées
 
-|     | T    | R   |     |
-| --- | ---- | --- | --- |
-| X   | k.Rx | Rx  |     |
-| Y   | 0    | 0   |     |
-| Z   | 0    | 0   |     |
+|     | T    | R   |
+| --- | ---- | --- |
+| X   | k.Rx | Rx  |
+| Y   | 0    | 0   |
+| Z   | 0    | 0   |
 1 DDL
 
 #### Schéma cinématique en 2D
