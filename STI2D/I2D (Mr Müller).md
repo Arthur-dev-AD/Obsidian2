@@ -381,7 +381,7 @@ ___
 | D                     |     |     |     |     |     |     |     |     |     |     |     | X   |     |     |     | X   |     |     |     |
 | E                     |     |     |     |     |     |     | X   | X   |     |     |     |     |     |     |     |     |     |     |     |
 2.  Graphe des liaison
-
+![[Diagram.svg]]
 
 LAB
 Nature de surface de contact : Sphère-spère
