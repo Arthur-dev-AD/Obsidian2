@@ -456,3 +456,10 @@ Nature de surface de contact : Cylindre-Cylindre
 Nom de la liaison : Liaison pivot
 2D :
 ![[pivot.svg]]
+
+|     | T   | R   |
+| --- | --- | --- |
+| X   | Tx  | 0   |
+| Y   | 0   | 0   |
+| Z   | 0   | 0   |
+1 DDL
