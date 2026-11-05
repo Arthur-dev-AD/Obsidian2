@@ -417,3 +417,4 @@ Symbole normalisé en 2D :
 LCB
 
 Nature de surface de contact : Cylindre-cylindre
+Nom de la liaison : Liaison glisière d'axe (A,x)
