@@ -385,7 +385,7 @@ ___
 
 LAB
 Nature de surface de contact : Sphère-spère
-Nom de la liaison : Liaison rotule de centre a
+Nom de la liaison : Liaison rotule de centre b
 Symbole normalisée en 2D et 3D
 ![[Rotule.svg]]
 (voir rotule.svg sur github)
