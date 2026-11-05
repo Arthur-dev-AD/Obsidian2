@@ -455,4 +455,4 @@ LBD
 Nature de surface de contact : Cylindre-Cylindre
 Nom de la liaison : Liaison pivot
 2D :
-![[Rotule 1.svg]]
+![[pivot.svg]]
