@@ -400,4 +400,4 @@ Tableau des mobilitées
 | Z   | 0   | Rz  |
 3 
 
-L
+Liaison 
