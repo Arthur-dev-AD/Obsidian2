@@ -384,4 +384,5 @@ ___
 
 
 LAB
-Nature de surface de contact 
+Nature de surface de contact : Sphère-spère
+Nature de 
