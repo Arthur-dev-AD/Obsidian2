@@ -452,4 +452,4 @@ Nom de la liaison : Liaison glissière d'axe (A,x)
 
 LBD 
 
-Nature de surface de c
+Nature de surface de contact : 
