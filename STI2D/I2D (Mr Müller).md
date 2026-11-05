@@ -381,7 +381,7 @@ ___
 | D                     |     |     |     |     |     |     |     |     |     |     |     | X   |     |     |     | X   |     |     |     |
 | E                     |     |     |     |     |     |     | X   | X   |     |     |     |     |     |     |     |     |     |     |     |
 2.  Graphe des liaison
-![[Diagram.svg]]
+![[Liens 2.svg]]
 
 LAB
 Nature de surface de contact : Sphère-spère
@@ -432,7 +432,7 @@ Nom de la liaison : Liaison glisière d'axe (A,x)
 | Z   | 0   | 0   |
 1 DDL
 
-LDE![[Diagram.svg]]
+LDE![[Liens 2.svg]]
 
 Nature de surface de contact : Cylindre-cylindre
 Nom de la liaison : Liaison glissière d'axe (A,x)
