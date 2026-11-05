@@ -327,7 +327,7 @@ méthode tableau
 
 2D :
 
-![[Rotule.svg]]
+![[STI2D/Rotule.svg]]
 (voir rotule.svg sur github)
 
 
@@ -387,7 +387,7 @@ LAB
 Nature de surface de contact : Sphère-spère
 Nom de la liaison : Liaison rotule de centre b
 Symbole normalisée en 2D :
-![[Rotule.svg]]
+![[STI2D/Rotule.svg]]
 (voir rotule.svg sur github)
 
 
@@ -455,4 +455,4 @@ LBD
 Nature de surface de contact : Cylindre-Cylindre
 Nom de la liaison : Liaison pivot
 2D :
-![[Diagram 1.svg]]
+![[Rotule 1.svg]]
