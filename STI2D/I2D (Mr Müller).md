@@ -459,7 +459,7 @@ Nom de la liaison : Liaison pivot
 
 |     | T   | R   |
 | --- | --- | --- |
-| X   | Tx  | 0   |
+| X   | 0   | Rx  |
 | Y   | 0   | 0   |
 | Z   | 0   | 0   |
 1 DDL
