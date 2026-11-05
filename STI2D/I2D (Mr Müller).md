@@ -404,4 +404,5 @@ LAD
 
 Nature de surface de contact : contact surfacique hélicoîdale
 Nom de la liaison : Liaison hélicoïdale d'axe (A, x)
-	Symbole normlisé en 2D :
+Symbole normalisé en 2D :
+![[]]
