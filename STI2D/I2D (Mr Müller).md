@@ -416,4 +416,4 @@ Symbole normalisé en 2D :
 
 LCB
 
-Nature de surface de contact : Cylindre-cyldre
+Nature de surface de contact : Cylindre-cylindre
