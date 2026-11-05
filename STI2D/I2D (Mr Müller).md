@@ -432,7 +432,7 @@ Nom de la liaison : Liaison glisière d'axe (A,x)
 | Z   | 0   | 0   |
 1 DDL
 
-LDE
+LDE![[Diagram.svg]]
 
 Nature de surface de contact : Cylindre-cylindre
 Nom de la liaison : Liaison glissière d'axe (A,x)
