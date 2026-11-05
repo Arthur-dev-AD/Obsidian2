@@ -413,3 +413,5 @@ Symbole normalisé en 2D :
 | Y   | 0    | 0   |
 | Z   | 0    | 0   |
 1 DDL
+
+LCB
