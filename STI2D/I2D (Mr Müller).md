@@ -400,4 +400,6 @@ Tableau des mobilitées
 | Z   | 0   | Rz  |
 3 
 
-Liaison 
+LAD
+
+Nature de surface de contact 
