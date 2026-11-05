@@ -403,4 +403,4 @@ Tableau des mobilitées
 LAD
 
 Nature de surface de contact : cylindre-cylindre
-Nom de la liaison : Liaison hélico
+Nom de la liaison : Liaison hélicoïdale d'axe A, x
