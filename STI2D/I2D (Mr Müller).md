@@ -434,4 +434,5 @@ Nom de la liaison : Liaison glisière d'axe (A,x)
 
 LCE
 
-Nature de surface de contact : plan-plan
+Nature de surface de contact : Cylindre-cylindre
+Nom de la liaison
