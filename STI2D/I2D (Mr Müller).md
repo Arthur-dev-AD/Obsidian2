@@ -436,3 +436,16 @@ LCE
 
 Nature de surface de contact : Cylindre-cylindre
 Nom de la liaison : Liaison glissière d'axe (A,x)
+2D :
+
+![[glissière.svg]]
+(voir glissière.svg sur github)
+
+- Tableau des mobilitées
+
+|     | T   | R   |
+| --- | --- | --- |
+| X   | Tx  | 0   |
+| Y   | 0   | 0   |
+| Z   | 0   | 0   |
+1 DDL
