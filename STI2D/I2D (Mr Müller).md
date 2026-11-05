@@ -388,3 +388,14 @@ Nature de surface de contact : Sphère-spère
 Nom de la liaison : Liaison rotule de centre a
 Symbole normalisée en 2D et 3D
 ![[Rotule.svg]]
+(voir rotule.svg sur github)
+
+
+Tableau des mobilitées
+
+|     | T   | R   |
+| --- | --- | --- |
+| X   | 0   | Rx  |
+| Y   | 0   | Ry  |
+| Z   | 0   | Rz  |
+3 DDL
