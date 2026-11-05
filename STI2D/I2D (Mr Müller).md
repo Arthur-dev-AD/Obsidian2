@@ -441,7 +441,7 @@ Nom de la liaison : Liaison glissière d'axe (A,x)
 ![[glissière.svg]]
 (voir glissière.svg sur github)
 
-- Tableau des mobilitées
+- Tableau des mobilitées![[Diagram 1.svg]]
 
 |     | T   | R   |
 | --- | --- | --- |
