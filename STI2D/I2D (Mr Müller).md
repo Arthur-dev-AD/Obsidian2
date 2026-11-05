@@ -435,4 +435,4 @@ Nom de la liaison : Liaison glisière d'axe (A,x)
 LCE
 
 Nature de surface de contact : Cylindre-cylindre
-Nom de la liaison : Liaison 
+Nom de la liaison : Liaison glissière d'axe (A,x)
