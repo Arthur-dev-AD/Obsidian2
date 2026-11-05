@@ -406,3 +406,10 @@ Nature de surface de contact : contact surfacique hélicoîdale
 Nom de la liaison : Liaison hélicoïdale d'axe (A, x)
 Symbole normalisé en 2D :
 ![[hélicoïdal.svg]]
+
+|     | T    | R   |
+| --- | ---- | --- |
+| X   | k.Rx | Rx  |
+| Y   | 0    | 0   |
+| Z   | 0    | 0   |
+1 DDL
