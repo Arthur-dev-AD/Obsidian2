@@ -451,3 +451,5 @@ Nom de la liaison : Liaison glissière d'axe (A,x)
 1 DDL
 
 LBD 
+
+Nature de surface de c
