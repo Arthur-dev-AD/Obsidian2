@@ -384,3 +384,4 @@ ___
 
 
 LAB
+Nature de surface de contact 
