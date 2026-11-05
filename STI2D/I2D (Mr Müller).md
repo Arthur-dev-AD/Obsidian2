@@ -450,3 +450,4 @@ Nom de la liaison : Liaison glissière d'axe (A,x)
 | Z   | 0   | 0   |
 1 DDL
 
+LBD 
