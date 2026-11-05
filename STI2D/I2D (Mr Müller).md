@@ -441,7 +441,7 @@ Nom de la liaison : Liaison glissière d'axe (A,x)
 ![[glissière.svg]]
 (voir glissière.svg sur github)
 
-- Tableau des mobilitées![[Diagram 1.svg]]
+- Tableau des mobilitées
 
 |     | T   | R   |
 | --- | --- | --- |
@@ -455,3 +455,4 @@ LBD
 Nature de surface de contact : Cylindre-Cylindre
 Nom de la liaison : Liaison pivot
 2D :
+![[Diagram 1.svg]]
