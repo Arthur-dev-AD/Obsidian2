@@ -432,3 +432,6 @@ Nom de la liaison : Liaison glisière d'axe (A,x)
 | Z   | 0   | 0   |
 1 DDL
 
+LCE
+
+Nature de surface de contact 
