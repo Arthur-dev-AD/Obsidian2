@@ -385,4 +385,4 @@ ___
 
 LAB
 Nature de surface de contact : Sphère-spère
-Nature de 
+Nom de la liaison :
