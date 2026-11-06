@@ -456,6 +456,8 @@ Nature de surface de contact : Cylindre-Cylindre
 Nom de la liaison : Liaison pivot d'axe(A, x)
 3D :
 ![[pivot.svg]]
+2D :
+
 
 |     | T   | R   |
 | --- | --- | --- |
