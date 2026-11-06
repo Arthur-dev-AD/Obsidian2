@@ -2,4 +2,4 @@
 
 ## 1 ) Définition
 
-La température mesure en fait l'agitation moléculaire appelée agitation thermique
+La température mesure en fait l'agitation moléculaire appelée agitation thermique. Lorsqu'on chauffe un corps, on augmente la vibration 
