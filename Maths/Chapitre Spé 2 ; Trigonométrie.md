@@ -5,4 +5,4 @@
 
 Def : 
 
-- Sur un cercle, on appelle "sens positif"
+- Sur un cercle, on appelle "sens positif" ou sens direct ou sens trigonométrique, le sens contraire aux aiguilles d'unes 
