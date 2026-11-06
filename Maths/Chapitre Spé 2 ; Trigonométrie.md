@@ -5,4 +5,5 @@
 
 Def : 
 
-- Sur un cercle, on appelle "==🔴sens positif==" ou ==🔴sens direct== ou sens trigonométrique, le ==🔴sens contraire aux aiguilles d'une montre==
+- Sur un cercle, on appelle "==🔴sens positif==" ou ==🔴sens direct== ou ==🔴sens trigonométrique==, le ==🔴sens contraire aux aiguilles d'une montre==
+- Dans un repère orthonormé (O : j)
