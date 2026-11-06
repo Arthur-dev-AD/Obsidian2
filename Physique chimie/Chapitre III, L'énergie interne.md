@@ -10,4 +10,6 @@ Il existe différents types de thermomètres :
 
 - ==🔴Thermomètres à dilatation de liquide==
 	- Exemple : le thermomètre à alcool
-- ==
+- ==🔴Thermomètre électriques==
+	- Exemple : Thermistance, thermocouple
+- ==🔴Thermomètres infrarouges==
