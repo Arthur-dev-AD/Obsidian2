@@ -20,4 +20,4 @@ Il existe différents types de thermomètres :
 ## 3 ) Les échelles de température
 
 - ==🔴L'échelle Kelvin== : c'est l'échelle des physiciens et donc l'échelle de température du SI (Système international). On parle de température absolue; noté T. ==🔴Au zéro absolu, les particules sont immobiles==
-- ==🔴L'échelle du degré Celsius== : c'est l'échelle de la vie courante. La température dans cette échelle est souvent noté
+- ==🔴L'échelle du degré Celsius== : c'est l'échelle de la vie courante. La température dans cette échelle est souvent noté θ (theta minuscule)
