@@ -464,4 +464,4 @@ Nom de la liaison : Liaison pivot d'axe(A, x)
 | Z   | 0   | 0   |
 1 DDL
 
-[[]]
+![[CamScanner 06-11-2026 19.32.jpg]]
