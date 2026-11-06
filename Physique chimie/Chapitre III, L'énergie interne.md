@@ -24,3 +24,6 @@ Il existe différents types de thermomètres :
 
 Pour passer d'une échelle à l'autre, on utilise la relation suivante :==🟡 T = θ +273.15==
 
+> [!note] REMARQUE 
+> Il existe aussi l'échelle Fahrenheit utilisé aux Etats-Unis avec une conversion compliquée
+
