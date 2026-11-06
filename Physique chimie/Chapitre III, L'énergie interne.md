@@ -19,4 +19,4 @@ Il existe différents types de thermomètres :
 
 ## 3 ) Les échelles de température
 
-- ==🔴L'échelle Kelvin : c'est l'échelle des physiciens et donc l'échelle de température du SI (Système international). On parle de temperature absolue ==
+- ==🔴L'échelle Kelvin== : c'est l'échelle des physiciens et donc l'échelle de température du SI (Système international). On parle de température absolue; noté T. ==🔴Au zéro absolu, les particules sont immobiles==
