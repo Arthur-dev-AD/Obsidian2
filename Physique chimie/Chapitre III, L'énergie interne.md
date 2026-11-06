@@ -2,4 +2,4 @@
 
 ## 1 ) Définition
 
-La température mesure en fait l'agitation moléculaire appelée 
+La température mesure en fait l'agitation moléculaire appelée agitation thermique
