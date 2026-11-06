@@ -18,3 +18,5 @@ Il existe différents types de thermomètres :
 > Il existe d'autres types de thermomètres beaucoup moins utilisés (Thermomètre magnétiques et autres).
 
 ## 3 ) Les échelles de température
+
+- ==🔴L'échelle ==
