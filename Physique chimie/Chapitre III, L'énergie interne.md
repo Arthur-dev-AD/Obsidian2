@@ -6,4 +6,8 @@ La température mesure en fait l'agitation moléculaire appelée agitation therm
 
 ## 2) Les thermomètres
 
-Il existe différents types de thermomètres 
+Il existe différents types de thermomètres :
+
+- ==🔴Thermomètres à dilatation de liquide==
+	- Exemple : le thermomètre à alcool
+- ==
