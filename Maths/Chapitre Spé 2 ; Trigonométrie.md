@@ -11,4 +11,4 @@ Def :
 > [!important] Important 
 > Notions de périmètres d'un cercle
 > Rappel : Pcercle = 2πr
-> par conséquent, si r = 1, on a Pcercle 
+> par conséquent, si r = 1, on a Pcercle = 2π, P1/2cercle = π 
