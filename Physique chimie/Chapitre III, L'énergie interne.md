@@ -14,4 +14,6 @@ Il existe différents types de thermomètres :
 	- Exemple : Thermistance, thermocouple
 - ==🔴Thermomètres infrarouges==
 
-![[remark]]
+> [!note] REMARQUE 
+> Il existe d'autres types de thermomètres beaucoup moins utilisés (Thermomètre magnétiques et autres).
+
