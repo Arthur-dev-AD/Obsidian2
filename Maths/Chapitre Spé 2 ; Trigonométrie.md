@@ -9,4 +9,6 @@ Def :
 - Dans un repère orthonormé (O : j) on appelle cercle trigonométrique le cercle de centre O et de rayon r*
 
 > [!important] Important 
-> Notions de périmètres d'un cercle : 2πr
+> Notions de périmètres d'un cercle
+> Rappel : Pcercle = 2πr
+> du coup si r = 1, on a 
