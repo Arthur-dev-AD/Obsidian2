@@ -467,3 +467,4 @@ Nom de la liaison : Liaison pivot d'axe(A, x)
 #### Schéma cinématique en 2D
 
 
+![[Diagram.svg]]
