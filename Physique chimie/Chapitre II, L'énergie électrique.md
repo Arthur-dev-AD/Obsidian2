@@ -103,4 +103,3 @@ Comme c'est proportionnel, la caractéristique d'un conducteur ohmique UR = f(IR
 
 Connaisant la relation entre l'énergie et la puissance, on peut en déduire que l'énergie dissipée d'un conducteur ohmique par effet Joule est : ==🔴EJ = R x I² x t== 
 
-# PENSER A RAMENER LA PUTAIN D'INSCRIPTION BAC
