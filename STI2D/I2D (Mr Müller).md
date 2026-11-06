@@ -454,7 +454,7 @@ LBD
 
 Nature de surface de contact : Cylindre-Cylindre
 Nom de la liaison : Liaison pivot d'axe(A, x)
-2D :
+3D :
 ![[pivot.svg]]
 
 |     | T   | R   |
