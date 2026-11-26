@@ -476,4 +476,6 @@ ___
 | ---------------- | ----------------------------------- | --------------------- | -------------------------------- | ------------------ |
 | Diamètre minimal | Symbole de tolérabce pour l'alésage | Qualitée de l'usinage | Symbole de toléance pour l'arbre | Qualité de l'image |
 
-1
+### 1 ) Caréctéristique de l'alésage
+
+Alésage max = Diam minimal
