@@ -496,4 +496,4 @@ Exemple : Ø150 H12 d11
 
 1)  Calculer les caractéristiques de l'alésage Ø150 H12
 2) Calculer les caractéristiques de arbre Ø150 d11
-3) Calculer  le jeu 
+3) Calculer  le jeu et donner le type d'ajustement
