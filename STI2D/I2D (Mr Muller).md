@@ -492,4 +492,4 @@ Jeu max =  Alésage maximal - arbre mini (25,021 - 24,98 = 0,041 mm )
 Jeu mini = alésage min - Arbre Max (25 - 24,993 = 0,007 mm )
 
 
-Exemple 
+Exemple : Ø150 H12 d11
