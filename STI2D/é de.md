@@ -479,7 +479,7 @@ ___
 ### 1 ) Caréctéristique de l'alésage Ø25 H7
 
 Alésage max = Diam minimal + écart superieur (25 + 0,021 = 25,021 mm)
-Alésage Minimal = diamètre + écart inferieur (25 + 0 = 25 mm)
+Alésage Min = diamètre + écart inferieur (25 + 0 = 25 mm)
 
 ### 2 ) Caractéristique de l'arbre Ø25 g6
 
@@ -488,4 +488,5 @@ Arbre Min = Diamètre minimal + écart inferieur (25 + (- 0,02) = 24,98 mm )
 
 ### 3 ) Jeu fonctionnel
 
-Jeu max =  Alésage maximal - arbre mini (25,021 - 
+Jeu max =  Alésage maximal - arbre mini (25,021 - 24,98 = 
+Jeu mini = allésage min
