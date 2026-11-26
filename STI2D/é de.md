@@ -468,10 +468,12 @@ Nom de la liaison : Liaison pivot d'axe(A, x)
 ![[CamScanner 06-11-2026 19.32.jpg]]
 (Voir CamScanner 06-11-2026 1932.jpg)
 
-
+___
 ## Ajustements
 
 
-| Ø25              | H                                   | 7                     | G                                | 6      |
-| ---------------- | ----------------------------------- | --------------------- | -------------------------------- | ------ |
-| Diamètre minimal | Symbole de tolérabce pour l'alésage | Qualitée de l'usinage | Symbole de toléance pour l'arbre | Qualit |
+| Ø25              | H                                   | 7                     | G                                | 6                  |
+| ---------------- | ----------------------------------- | --------------------- | -------------------------------- | ------------------ |
+| Diamètre minimal | Symbole de tolérabce pour l'alésage | Qualitée de l'usinage | Symbole de toléance pour l'arbre | Qualité de l'image |
+
+1
