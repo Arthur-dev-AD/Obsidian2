@@ -476,9 +476,11 @@ ___
 | ---------------- | ----------------------------------- | --------------------- | -------------------------------- | ------------------ |
 | Diamètre minimal | Symbole de tolérabce pour l'alésage | Qualitée de l'usinage | Symbole de toléance pour l'arbre | Qualité de l'image |
 
-### 1 ) Caréctéristique de l'alésage
+### 1 ) Caréctéristique de l'alésage Ø25 H7
 
 Alésage max = Diam minimal + écart superieur (25 + 0,021 = 25,021 mm)
 Alésage Minimal = diamètre + écart inferieur (25 + 0 = 25 mm)
 
-### 2 ) Caractéristique de l'arbre Ø25 H7
+### 2 ) Caractéristique de l'arbre Ø25 g6
+
+Arbre max = Diamètre minimal 
