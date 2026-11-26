@@ -501,5 +501,6 @@ Exemple : Ø150 H12 d11
 	- Arbre Max = 150  + (-0,395) = 149,605 mm
 	- Arbre Min = 150 + (-0,145) = 149,855 mm
 3) Calculer  le jeu et donner le type d'ajustement
-	- Jeu max 150,4 - 149,855 =
+	- Jeu max = 150,4 - 149,855 =0,545 mm
+	- Jeu min = 150 - 149, 605 = 
 	- Ajustement avec jeu libre
