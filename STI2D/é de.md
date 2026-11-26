@@ -489,4 +489,4 @@ Arbre Min = Diamètre minimal + écart inferieur (25 + (- 0,02) = 24,98 mm )
 ### 3 ) Jeu fonctionnel
 
 Jeu max =  Alésage maximal - arbre mini (25,021 - 24,98 = 
-Jeu mini = allésage min
+Jeu mini = alésage min - Arbre Max
