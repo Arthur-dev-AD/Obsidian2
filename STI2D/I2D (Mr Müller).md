@@ -472,6 +472,6 @@ Nom de la liaison : Liaison pivot d'axe(A, x)
 ## Ajustements
 
 
-| Ø25              | H   | 7   | G   | 6   |
-| ---------------- | --- | --- | --- | --- |
-| Diamètre minimal |     |     |     |     |
+| Ø25              | H                          | 7   | G   | 6   |
+| ---------------- | -------------------------- | --- | --- | --- |
+| Diamètre minimal | Symbole de tolérabce pour  |     |     |     |
