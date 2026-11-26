@@ -478,4 +478,5 @@ ___
 
 ### 1 ) Caréctéristique de l'alésage
 
-Alésage max = Diam minimal + écart superieur (25. + 0,021 = 25,021 )
+Alésage max = Diam minimal + écart superieur (25 + 0,021 = 25,021 )
+Alésage Minimal = diamètre + écart inferieur (25 + 0)
