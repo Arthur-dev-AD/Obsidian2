@@ -478,5 +478,7 @@ ___
 
 ### 1 ) Caréctéristique de l'alésage
 
-Alésage max = Diam minimal + écart superieur (25 + 0,021 = 25,021 mm )
+Alésage max = Diam minimal + écart superieur (25 + 0,021 = 25,021 mm)
 Alésage Minimal = diamètre + écart inferieur (25 + 0 = 25 mm)
+
+### 2 ) Caractéristique de l'arbre Ø25 H7
