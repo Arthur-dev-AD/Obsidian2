@@ -487,3 +487,4 @@ Arbre max = Diamètre minimal + écart supérieur (25 + (-0,007) = 24, 993 mm )
 Arbre Min = Diamètre minimal + écart inferieur (25 + (- 0,02) = 24,98 mm )
 
 ### 3 ) Jeu fonctionnel
+
