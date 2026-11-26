@@ -471,3 +471,7 @@ Nom de la liaison : Liaison pivot d'axe(A, x)
 
 ## Ajustements
 
+
+|     |     |
+| --- | --- |
+|     |     |
