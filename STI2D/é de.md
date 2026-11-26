@@ -483,4 +483,5 @@ Alésage Minimal = diamètre + écart inferieur (25 + 0 = 25 mm)
 
 ### 2 ) Caractéristique de l'arbre Ø25 g6
 
-Arbre max = Diamètre minimal 
+Arbre max = Diamètre minimal + écart superieur ( )
+Arbre Min = Diamètre minimal + écart inferieur
