@@ -498,5 +498,5 @@ Exemple : Ø150 H12 d11
 	- Alésage Max = 150 + 0,4 = 150,4
 	- Alésage Min = 150 + 0 = 150
 2) Calculer les caractéristiques de arbre Ø150 d11
-	- A
+	- Arbre Max = 150  + (-)
 3) Calculer  le jeu et donner le type d'ajustement
