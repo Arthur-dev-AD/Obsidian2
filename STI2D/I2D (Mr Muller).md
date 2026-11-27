@@ -511,8 +511,8 @@ Exemple : Ø150 H12 d11
 Exemple : Ø100 H11 d11
 
 1)  Calculer les caractéristiques de l'alésage Ø150 H12
-	- Alésage Max = 100 + 0,4 = 150,4 mm
-	- Alésage Min = 100 + 0 = 150 mm
+	- Alésage Max = 100 + 0,4 = 100,4 mm
+	- Alésage Min = 100 + 0 = 100 mm
 2) Calculer les caractéristiques de arbre Ø150 d11
 	- Arbre Max = 100  + (-0,395) = 99,605 mm
 	- Arbre Min = 100 + (-0,145) = 99,855 mm
