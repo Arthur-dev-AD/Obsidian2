@@ -267,7 +267,7 @@ ___
 (shéma)
 
 
-![[Serre joint.svg]]
+![[alésage.svg]]
 
 (Voir Serre joint.svg sur github)
 
