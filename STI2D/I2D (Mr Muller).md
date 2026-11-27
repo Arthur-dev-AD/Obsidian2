@@ -508,7 +508,7 @@ Exemple : Ø150 H12 d11
 
 ![[Diagram.svg]]
 
-Exemple : Ø150 H12 d11
+Exemple : Ø100 H11 d11
 
 1)  Calculer les caractéristiques de l'alésage Ø150 H12
 	- Alésage Max = 150 + 0,4 = 150,4 mm
