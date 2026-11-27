@@ -507,3 +507,5 @@ Exemple : Ø150 H12 d11
 4) Croquis
 
 ![[Diagram.svg]]
+
+Exemple 3
