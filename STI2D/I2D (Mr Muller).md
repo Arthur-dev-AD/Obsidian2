@@ -517,8 +517,8 @@ Exemple : Ø100 H11 d11
 	- Arbre Max = 100  + (-0,395) = 99,605 mm
 	- Arbre Min = 100 + (-0,145) = 99,855 mm
 3) Calculer  le jeu et donner le type d'ajustement
-	- Jeu max = 150,4 - 149,855 =0,545 mm
-	- Jeu min = 150 - 149, 605 = 0,395 mm
+	- Jeu max = 100,4 - 99,855 =0,545 mm
+	- Jeu min = 100 - 99, 605 = 0,395 mm
 	- Ajustement avec jeu libre
 4) Croquis
 
