@@ -506,3 +506,4 @@ Exemple : Ø150 H12 d11
 	- Ajustement avec jeu libre
 4) Croquis
 
+![[Diagram.svg]]
