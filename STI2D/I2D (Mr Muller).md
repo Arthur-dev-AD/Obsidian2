@@ -504,3 +504,5 @@ Exemple : Ø150 H12 d11
 	- Jeu max = 150,4 - 149,855 =0,545 mm
 	- Jeu min = 150 - 149, 605 = 0,395 mm
 	- Ajustement avec jeu libre
+4) Croquis
+
